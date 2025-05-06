@@ -1,0 +1,1501 @@
+customer_id,timestamp,age,gender,location,device_type,session_duration,pages_visited,purchase_amount,cart_items,category_visited,payment_method,discount_used,return_requested,customer_loyalty_score,churn_label
+CUST-8367,2/1/2025 0:00,52,Other,UK,Tablet,1787,16,293.68,0,Clothing,PayPal,FALSE,TRUE,64.04,0
+CUST-6486,2/1/2025 0:04,50,Female,Australia,Desktop,1564,12,488.89,0,Electronics,PayPal,FALSE,FALSE,45.29,0
+CUST-7268,2/1/2025 0:06,26,Male,Canada,Mobile,1160,6,427.96,2,Home Decor,Credit Card,FALSE,FALSE,43.74,0
+CUST-2719,2/1/2025 0:09,30,Other,Germany,Desktop,1454,17,3.36,5,Books,Debit Card,TRUE,FALSE,14.4,1
+CUST-7807,2/1/2025 0:16,62,Female,Germany,Desktop,2323,16,352.47,3,Books,Credit Card,TRUE,FALSE,65.67,0
+CUST-4509,2/1/2025 0:05,27,Other,UK,Desktop,1503,12,328.06,4,Beauty,Cryptocurrency,TRUE,FALSE,86.57,0
+CUST-8952,2/1/2025 0:12,22,Female,Germany,Desktop,2925,16,84.42,3,Beauty,Debit Card,FALSE,FALSE,23.46,1
+CUST-6381,2/1/2025 0:07,57,Male,Canada,Tablet,3139,18,52.45,4,Sports,Net Banking,FALSE,TRUE,89.83,0
+CUST-1937,2/1/2025 0:16,23,Other,India,Desktop,777,1,82.79,5,Sports,PayPal,FALSE,FALSE,77.08,0
+CUST-1260,2/1/2025 0:09,58,Other,Germany,Mobile,2542,20,58.51,0,Electronics,Net Banking,FALSE,FALSE,52.61,0
+CUST-1446,2/1/2025 0:20,19,Other,Germany,Mobile,3229,20,70.71,2,Beauty,Credit Card,FALSE,FALSE,5.14,1
+CUST-5359,2/1/2025 0:33,28,Female,Australia,Tablet,1665,20,133.58,4,Beauty,Debit Card,FALSE,TRUE,96.96,0
+CUST-9474,2/1/2025 0:48,18,Male,Australia,Mobile,1429,18,83.06,3,Clothing,Cryptocurrency,FALSE,TRUE,69.86,0
+CUST-2127,2/1/2025 0:13,20,Male,Canada,Mobile,1498,9,112.71,3,Home Decor,Credit Card,FALSE,FALSE,0.53,1
+CUST-6670,2/1/2025 0:14,26,Other,USA,Mobile,870,18,134.06,5,Sports,PayPal,FALSE,FALSE,9.13,1
+CUST-8016,2/1/2025 0:45,55,Female,UK,Desktop,2969,6,282.61,0,Clothing,Net Banking,FALSE,FALSE,50.83,0
+CUST-2375,2/1/2025 1:04,28,Male,Canada,Tablet,1498,4,97.7,1,Books,Net Banking,TRUE,FALSE,85.73,0
+CUST-1973,2/1/2025 0:51,61,Female,USA,Desktop,3181,14,441.24,1,Home Decor,Cryptocurrency,TRUE,TRUE,33.88,0
+CUST-3777,2/1/2025 0:18,36,Female,Canada,Mobile,1845,9,144.43,4,Books,Cryptocurrency,FALSE,FALSE,27.06,1
+CUST-2148,2/1/2025 1:16,48,Other,Germany,Desktop,550,4,163.54,2,Electronics,Net Banking,FALSE,FALSE,51.52,0
+CUST-7832,2/1/2025 0:40,55,Other,Australia,Mobile,2787,7,175.74,5,Books,PayPal,TRUE,TRUE,50.47,0
+CUST-2808,2/1/2025 0:42,52,Other,Australia,Tablet,1939,12,492.13,5,Beauty,Net Banking,TRUE,TRUE,18.71,1
+CUST-4692,2/1/2025 1:50,19,Male,India,Desktop,524,20,241.59,2,Beauty,Credit Card,FALSE,FALSE,53.79,0
+CUST-5511,2/1/2025 0:23,33,Male,USA,Tablet,2564,20,435.79,5,Clothing,Debit Card,TRUE,FALSE,80.85,0
+CUST-9250,2/1/2025 0:24,46,Female,India,Tablet,2703,16,474.74,0,Clothing,Credit Card,TRUE,FALSE,70.11,0
+CUST-8159,2/1/2025 2:05,36,Male,Australia,Mobile,2340,10,38.98,2,Electronics,Credit Card,FALSE,FALSE,99.78,0
+CUST-3168,2/1/2025 2:10,33,Other,Germany,Tablet,332,19,137.44,5,Clothing,PayPal,TRUE,FALSE,80.65,0
+CUST-6453,2/1/2025 1:48,53,Male,UK,Desktop,305,17,93.24,4,Books,PayPal,TRUE,TRUE,57.64,0
+CUST-6692,2/1/2025 1:24,57,Other,Germany,Mobile,1856,16,449.22,0,Electronics,PayPal,FALSE,TRUE,17.14,1
+CUST-7561,2/1/2025 1:27,31,Other,Germany,Mobile,2251,11,366.56,2,Books,Debit Card,TRUE,TRUE,67.91,0
+CUST-7569,2/1/2025 1:30,39,Female,Australia,Desktop,1750,15,294.02,5,Books,Credit Card,TRUE,TRUE,82.09,0
+CUST-4906,2/1/2025 1:02,60,Male,UK,Tablet,2068,4,119.61,2,Electronics,Cryptocurrency,TRUE,TRUE,13.49,1
+CUST-1051,2/1/2025 1:36,46,Female,Australia,Mobile,3518,5,402.71,4,Home Decor,Credit Card,TRUE,FALSE,63.44,0
+CUST-6551,2/1/2025 0:33,63,Other,UK,Mobile,342,8,16.46,2,Clothing,Net Banking,TRUE,FALSE,94.22,0
+CUST-8494,2/1/2025 2:50,43,Other,Canada,Tablet,282,14,91.58,0,Electronics,Credit Card,TRUE,FALSE,11.27,1
+CUST-6737,2/1/2025 1:45,59,Male,Germany,Mobile,2463,4,263.56,2,Clothing,PayPal,FALSE,FALSE,52.08,0
+CUST-4351,2/1/2025 1:48,18,Male,Canada,Mobile,3544,18,202.95,3,Home Decor,Cryptocurrency,TRUE,TRUE,33.07,0
+CUST-2194,2/1/2025 1:51,56,Male,USA,Desktop,555,15,287.02,1,Clothing,PayPal,TRUE,TRUE,12.93,1
+CUST-5418,2/1/2025 2:32,56,Other,Canada,Mobile,800,3,23.36,5,Sports,Debit Card,TRUE,FALSE,4.8,1
+CUST-1123,2/1/2025 3:15,46,Female,UK,Desktop,1059,4,451.81,0,Books,Net Banking,TRUE,TRUE,0.25,1
+CUST-5895,2/1/2025 3:20,19,Female,Germany,Tablet,2558,14,14.42,0,Home Decor,Credit Card,FALSE,FALSE,8.08,1
+CUST-1717,2/1/2025 2:03,62,Male,Germany,Desktop,2637,18,499.66,4,Books,Cryptocurrency,TRUE,FALSE,7.31,1
+CUST-1266,2/1/2025 0:42,58,Female,India,Desktop,34,5,372.31,3,Books,Cryptocurrency,FALSE,TRUE,18.72,1
+CUST-5218,2/1/2025 1:26,37,Male,Canada,Mobile,2612,14,345.42,1,Beauty,Credit Card,TRUE,TRUE,94.89,0
+CUST-1966,2/1/2025 0:44,42,Other,Canada,Tablet,3277,12,126,0,Beauty,Cryptocurrency,TRUE,FALSE,39.72,0
+CUST-7985,2/1/2025 3:45,54,Female,USA,Mobile,30,4,323.85,4,Clothing,Cryptocurrency,TRUE,TRUE,78.18,0
+CUST-6182,2/1/2025 2:18,39,Male,India,Desktop,2218,3,383.76,5,Beauty,Debit Card,TRUE,TRUE,49.24,0
+CUST-1823,2/1/2025 2:21,62,Female,Germany,Tablet,3356,6,19.2,4,Home Decor,Debit Card,FALSE,FALSE,77.35,0
+CUST-3672,2/1/2025 4:00,40,Female,Canada,Desktop,146,11,40.83,3,Sports,Credit Card,FALSE,FALSE,11.56,1
+CUST-5822,2/1/2025 0:49,54,Other,India,Tablet,272,15,437.67,0,Electronics,Debit Card,TRUE,TRUE,8.65,1
+CUST-5146,2/1/2025 4:10,33,Female,USA,Mobile,2516,20,61.77,0,Electronics,Net Banking,FALSE,TRUE,29.36,1
+CUST-8605,2/1/2025 1:42,58,Female,USA,Desktop,153,19,368.57,5,Sports,PayPal,TRUE,TRUE,85.9,0
+CUST-8621,2/1/2025 4:20,28,Female,USA,Tablet,1379,4,82.57,5,Home Decor,Cryptocurrency,FALSE,TRUE,45.48,0
+CUST-7463,2/1/2025 1:46,36,Other,Australia,Mobile,288,8,30.29,4,Sports,Cryptocurrency,FALSE,FALSE,84.38,0
+CUST-8687,2/1/2025 4:30,26,Male,UK,Tablet,3338,17,393.23,2,Beauty,Net Banking,TRUE,FALSE,16.32,1
+CUST-6864,2/1/2025 0:55,35,Female,India,Desktop,275,15,135.54,5,Books,PayPal,TRUE,TRUE,38.69,0
+CUST-3412,2/1/2025 2:48,38,Male,UK,Tablet,1977,3,62.95,5,Electronics,Net Banking,TRUE,FALSE,4.05,1
+CUST-7554,2/1/2025 1:54,54,Other,Germany,Tablet,3122,5,80.7,4,Electronics,PayPal,TRUE,TRUE,60.25,0
+CUST-1016,2/1/2025 0:58,55,Female,Australia,Mobile,2866,15,369.12,1,Sports,Cryptocurrency,FALSE,TRUE,40.51,0
+CUST-8316,2/1/2025 4:55,22,Male,Germany,Mobile,1864,13,75.84,1,Beauty,Debit Card,TRUE,FALSE,59.42,0
+CUST-6592,2/1/2025 3:00,30,Other,Canada,Mobile,3226,8,30.44,2,Beauty,Cryptocurrency,TRUE,FALSE,91.83,0
+CUST-9874,2/1/2025 2:02,54,Other,India,Tablet,1747,15,416.78,2,Sports,Cryptocurrency,FALSE,TRUE,58.48,0
+CUST-2211,2/1/2025 5:10,18,Male,Germany,Mobile,2476,3,106.39,0,Home Decor,Credit Card,FALSE,TRUE,7.17,1
+CUST-5415,2/1/2025 4:12,54,Other,UK,Tablet,2815,7,486.26,0,Books,Cryptocurrency,FALSE,FALSE,32.42,0
+CUST-2917,2/1/2025 1:04,54,Female,India,Desktop,1286,13,119.64,4,Clothing,Cryptocurrency,FALSE,FALSE,15.4,1
+CUST-2954,2/1/2025 3:15,41,Other,Canada,Tablet,2730,18,80.33,0,Beauty,Cryptocurrency,TRUE,TRUE,69.13,0
+CUST-7592,2/1/2025 2:12,60,Female,USA,Desktop,1995,6,314.85,1,Home Decor,Debit Card,FALSE,FALSE,92.21,0
+CUST-6018,2/1/2025 4:28,60,Male,Canada,Mobile,1185,9,272.04,3,Beauty,PayPal,TRUE,TRUE,40.25,0
+CUST-6603,2/1/2025 3:24,20,Other,India,Tablet,2083,1,221.79,5,Clothing,Credit Card,TRUE,TRUE,63.15,0
+CUST-8571,2/1/2025 4:36,24,Male,Canada,Tablet,3592,13,448.05,3,Beauty,Credit Card,TRUE,FALSE,59.32,0
+CUST-3542,2/1/2025 1:10,47,Male,Canada,Desktop,3527,12,81.67,3,Books,Cryptocurrency,FALSE,FALSE,73.16,0
+CUST-3474,2/1/2025 4:44,50,Other,Germany,Desktop,1506,15,243.29,3,Books,Debit Card,TRUE,TRUE,54.58,0
+CUST-3361,2/1/2025 2:24,41,Other,USA,Tablet,158,17,237.36,3,Clothing,Cryptocurrency,FALSE,TRUE,95.44,0
+CUST-2205,2/1/2025 6:05,41,Male,USA,Desktop,1379,2,375.45,5,Beauty,Cryptocurrency,TRUE,FALSE,9.2,1
+CUST-2157,2/1/2025 2:28,27,Male,Germany,Desktop,2044,4,405.12,0,Electronics,Net Banking,TRUE,TRUE,1.77,1
+CUST-8411,2/1/2025 1:15,41,Other,Canada,Mobile,1584,7,425.02,5,Books,PayPal,FALSE,TRUE,85.49,0
+CUST-5969,2/1/2025 2:32,28,Other,USA,Tablet,3461,20,258.22,2,Books,PayPal,TRUE,FALSE,63.61,0
+CUST-1613,2/1/2025 1:17,64,Other,USA,Desktop,321,6,13.16,4,Home Decor,Debit Card,TRUE,FALSE,99.35,0
+CUST-8350,2/1/2025 1:18,24,Other,Australia,Tablet,1829,18,114.61,0,Beauty,Net Banking,FALSE,FALSE,64.71,0
+CUST-7956,2/1/2025 5:16,29,Male,Germany,Desktop,877,2,326.54,0,Beauty,Net Banking,TRUE,FALSE,56.54,0
+CUST-4744,2/1/2025 1:20,33,Other,India,Desktop,423,19,497.15,4,Books,Cryptocurrency,FALSE,TRUE,48.36,0
+CUST-3752,2/1/2025 1:21,48,Female,Germany,Desktop,2348,8,252.65,1,Electronics,Cryptocurrency,FALSE,TRUE,34.49,0
+CUST-8639,2/1/2025 6:50,36,Male,Canada,Tablet,3095,2,149.14,2,Home Decor,Net Banking,FALSE,FALSE,48.8,0
+CUST-5278,2/1/2025 4:09,40,Female,USA,Desktop,501,1,288.66,5,Beauty,Cryptocurrency,FALSE,FALSE,31.21,0
+CUST-9352,2/1/2025 5:36,44,Female,Germany,Mobile,3583,2,498.97,1,Clothing,PayPal,TRUE,FALSE,88.54,0
+CUST-2854,2/1/2025 1:25,61,Female,Canada,Desktop,3330,12,98.45,5,Books,Credit Card,TRUE,TRUE,25.66,1
+CUST-3664,2/1/2025 2:52,64,Female,USA,Mobile,1043,13,360.74,0,Home Decor,Net Banking,FALSE,TRUE,36.63,0
+CUST-2606,2/1/2025 5:48,50,Male,Canada,Mobile,490,20,460.39,4,Sports,PayPal,TRUE,TRUE,47.52,0
+CUST-5040,2/1/2025 2:56,54,Male,Germany,Tablet,1629,10,342.72,5,Home Decor,Debit Card,FALSE,TRUE,86.28,0
+CUST-7917,2/1/2025 2:58,19,Female,India,Desktop,3324,8,175.65,5,Home Decor,Net Banking,TRUE,TRUE,49.26,0
+CUST-4970,2/1/2025 7:30,25,Other,Canada,Mobile,1794,12,390.91,1,Home Decor,Debit Card,TRUE,TRUE,80.91,0
+CUST-2580,2/1/2025 4:33,37,Male,Australia,Desktop,3271,6,415.18,3,Sports,Debit Card,FALSE,TRUE,89.11,0
+CUST-4508,2/1/2025 3:04,65,Other,USA,Desktop,1841,18,145.2,0,Beauty,Credit Card,FALSE,TRUE,19.39,1
+CUST-5550,2/1/2025 3:06,18,Female,Germany,Mobile,2262,17,21.14,1,Books,Net Banking,TRUE,FALSE,15.39,1
+CUST-1962,2/1/2025 4:42,18,Other,India,Desktop,966,5,345.04,4,Home Decor,Net Banking,TRUE,TRUE,20.79,1
+CUST-1392,2/1/2025 4:45,40,Female,Germany,Mobile,3219,3,6.76,4,Books,Debit Card,FALSE,FALSE,53.95,0
+CUST-6592,2/1/2025 8:00,61,Male,UK,Desktop,596,8,198.86,3,Home Decor,Debit Card,TRUE,FALSE,84.75,0
+CUST-1595,2/1/2025 6:28,42,Male,Canada,Tablet,1582,1,113.65,1,Books,Credit Card,TRUE,TRUE,95.93,0
+CUST-3071,2/1/2025 8:10,59,Female,Australia,Mobile,2269,4,91.64,1,Electronics,Net Banking,FALSE,FALSE,2.66,1
+CUST-8122,2/1/2025 3:18,55,Male,Germany,Mobile,236,10,138.45,3,Beauty,Cryptocurrency,FALSE,FALSE,2.01,1
+CUST-1530,2/1/2025 8:20,39,Male,UK,Desktop,1835,6,226.38,5,Sports,Credit Card,FALSE,FALSE,84.7,0
+CUST-8998,2/1/2025 3:22,34,Male,India,Mobile,627,10,139.97,0,Sports,Net Banking,FALSE,FALSE,55.21,0
+CUST-6313,2/1/2025 1:42,31,Female,Germany,Tablet,1522,19,314.9,0,Home Decor,PayPal,FALSE,TRUE,47.7,0
+CUST-6437,2/1/2025 1:43,22,Female,India,Tablet,1715,10,27.83,4,Sports,PayPal,FALSE,FALSE,68.67,0
+CUST-1658,2/1/2025 6:56,18,Female,Canada,Mobile,3092,18,67.5,0,Beauty,PayPal,FALSE,FALSE,80.61,0
+CUST-7013,2/1/2025 5:15,42,Male,Germany,Desktop,1269,8,349.11,2,Books,PayPal,FALSE,TRUE,78.7,0
+CUST-3175,2/1/2025 8:50,19,Female,Australia,Mobile,846,5,83.51,2,Home Decor,Net Banking,FALSE,FALSE,40.92,0
+CUST-7681,2/1/2025 8:55,46,Other,India,Desktop,1962,2,429.1,3,Clothing,Credit Card,TRUE,TRUE,27.71,1
+CUST-5409,2/1/2025 1:48,47,Male,UK,Mobile,523,7,158.42,1,Beauty,Debit Card,FALSE,TRUE,2.39,1
+CUST-1238,2/1/2025 9:05,56,Male,Germany,Tablet,2286,7,92.3,0,Clothing,Net Banking,FALSE,TRUE,38.8,0
+CUST-7942,2/1/2025 3:40,57,Male,Germany,Tablet,3499,4,233.54,4,Electronics,Net Banking,FALSE,TRUE,84.72,0
+CUST-8755,2/1/2025 3:42,53,Female,Australia,Desktop,1936,14,425.29,1,Sports,PayPal,FALSE,TRUE,61.89,0
+CUST-4949,2/1/2025 1:52,43,Female,Canada,Desktop,2658,2,204.68,4,Books,Net Banking,TRUE,FALSE,37.45,0
+CUST-3549,2/1/2025 1:53,32,Other,India,Tablet,321,10,292.27,0,Sports,Cryptocurrency,TRUE,TRUE,60.4,0
+CUST-5118,2/1/2025 3:48,45,Other,USA,Tablet,1109,10,443.6,1,Books,Net Banking,FALSE,FALSE,47.13,0
+CUST-1688,2/1/2025 7:40,33,Female,Australia,Tablet,356,11,328.47,3,Electronics,PayPal,FALSE,TRUE,75.95,0
+CUST-6137,2/1/2025 7:44,60,Other,Australia,Mobile,273,16,138.43,5,Home Decor,PayPal,TRUE,FALSE,99.02,0
+CUST-6717,2/1/2025 1:57,39,Female,UK,Mobile,3163,5,21.4,5,Beauty,Cryptocurrency,FALSE,FALSE,77.82,0
+CUST-7008,2/1/2025 3:56,52,Male,UK,Mobile,1862,11,416.86,3,Sports,PayPal,FALSE,FALSE,94.74,0
+CUST-9275,2/1/2025 5:57,19,Female,UK,Desktop,1765,12,94.44,3,Clothing,PayPal,TRUE,FALSE,97.31,0
+CUST-9093,2/1/2025 10:00,49,Female,India,Desktop,2547,1,88.67,0,Home Decor,PayPal,FALSE,FALSE,55.55,0
+CUST-1020,2/1/2025 10:05,64,Male,Australia,Mobile,876,10,360.91,5,Beauty,Net Banking,FALSE,FALSE,85.93,0
+CUST-6222,2/1/2025 6:06,33,Other,Germany,Tablet,68,4,317.23,1,Sports,PayPal,FALSE,TRUE,35.74,0
+CUST-6891,2/1/2025 2:03,18,Other,Australia,Tablet,1525,15,411.53,3,Electronics,Net Banking,FALSE,FALSE,34.26,0
+CUST-3166,2/1/2025 10:20,28,Female,UK,Tablet,3461,13,207.14,5,Books,PayPal,TRUE,FALSE,57.36,0
+CUST-6447,2/1/2025 4:10,37,Other,Germany,Mobile,3431,3,374.93,2,Clothing,Cryptocurrency,FALSE,TRUE,56.14,0
+CUST-6053,2/1/2025 6:18,21,Other,Canada,Tablet,3040,17,228.91,4,Books,Credit Card,TRUE,FALSE,87.63,0
+CUST-1750,2/1/2025 8:28,57,Male,USA,Tablet,1361,2,326.03,0,Electronics,Cryptocurrency,TRUE,FALSE,63.77,0
+CUST-3685,2/1/2025 6:24,33,Female,USA,Desktop,1451,20,220.95,1,Beauty,Debit Card,FALSE,FALSE,63.49,0
+CUST-7684,2/1/2025 10:45,22,Other,India,Tablet,878,2,370.51,4,Beauty,Net Banking,TRUE,FALSE,9.04,1
+CUST-7893,2/1/2025 8:40,42,Female,Canada,Desktop,1866,5,254.76,0,Clothing,Cryptocurrency,FALSE,FALSE,9.89,1
+CUST-3730,2/1/2025 2:11,46,Female,USA,Tablet,2237,20,210.82,1,Home Decor,Credit Card,FALSE,TRUE,49.46,0
+CUST-7332,2/1/2025 2:12,54,Other,Canada,Desktop,1655,15,434.83,1,Sports,PayPal,TRUE,FALSE,18.67,1
+CUST-4708,2/1/2025 2:13,39,Male,Australia,Tablet,1833,10,314.48,3,Clothing,Net Banking,TRUE,TRUE,12.93,1
+CUST-4408,2/1/2025 4:28,58,Female,Germany,Desktop,1423,1,133.59,5,Beauty,Credit Card,TRUE,FALSE,56.27,0
+CUST-9695,2/1/2025 6:45,29,Other,Australia,Mobile,1877,10,109.19,2,Electronics,Debit Card,TRUE,FALSE,86.53,0
+CUST-2397,2/1/2025 2:16,29,Male,Australia,Desktop,3352,9,83.36,4,Sports,PayPal,FALSE,FALSE,24.6,1
+CUST-2153,2/1/2025 2:17,32,Other,Australia,Tablet,492,7,99.02,3,Beauty,Debit Card,FALSE,TRUE,53.1,0
+CUST-7244,2/1/2025 6:54,60,Female,USA,Mobile,3537,7,326.5,0,Beauty,Net Banking,FALSE,TRUE,47.96,0
+CUST-7963,2/1/2025 6:57,42,Other,Canada,Desktop,640,8,481.82,2,Beauty,PayPal,TRUE,FALSE,36.34,0
+CUST-5404,2/1/2025 7:00,53,Other,Australia,Mobile,2575,5,80.28,3,Home Decor,Credit Card,TRUE,TRUE,96.67,0
+CUST-4182,2/1/2025 9:24,54,Female,Germany,Tablet,2295,18,353.71,4,Sports,Cryptocurrency,TRUE,TRUE,31.82,0
+CUST-6874,2/1/2025 2:22,50,Other,UK,Mobile,500,18,337.51,3,Sports,Credit Card,TRUE,TRUE,88.3,0
+CUST-6210,2/1/2025 9:32,45,Female,Germany,Mobile,3333,15,77.16,3,Clothing,Debit Card,TRUE,TRUE,27.66,1
+CUST-6037,2/1/2025 7:12,56,Female,Australia,Mobile,2053,17,400.39,2,Clothing,PayPal,FALSE,FALSE,36.21,0
+CUST-2072,2/1/2025 9:40,48,Female,Canada,Tablet,2858,18,77.99,3,Home Decor,Credit Card,FALSE,TRUE,11.24,1
+CUST-6781,2/1/2025 9:44,61,Female,Canada,Mobile,143,13,413.77,2,Clothing,Debit Card,FALSE,TRUE,34.29,0
+CUST-3346,2/1/2025 4:54,46,Other,India,Tablet,1261,6,348.58,2,Beauty,Debit Card,FALSE,FALSE,63.01,0
+CUST-9784,2/1/2025 2:28,50,Other,India,Tablet,1303,19,388.8,5,Clothing,Cryptocurrency,FALSE,FALSE,83.45,0
+CUST-6361,2/1/2025 7:27,26,Male,Germany,Mobile,56,4,489.06,5,Beauty,Net Banking,TRUE,TRUE,42.1,0
+CUST-6832,2/1/2025 7:30,60,Female,India,Desktop,1220,15,145.15,0,Home Decor,Debit Card,FALSE,TRUE,29.01,1
+CUST-3361,2/1/2025 2:31,57,Female,India,Tablet,53,20,261.15,5,Sports,Credit Card,FALSE,FALSE,13.87,1
+CUST-4911,2/1/2025 5:04,22,Other,Australia,Tablet,1538,6,120.58,3,Home Decor,Credit Card,TRUE,FALSE,25.28,1
+CUST-2583,2/1/2025 12:45,54,Other,Canada,Mobile,2318,19,329,3,Sports,Debit Card,FALSE,FALSE,82.38,0
+CUST-8102,2/1/2025 2:34,19,Other,Canada,Desktop,2805,15,93.72,5,Electronics,Credit Card,FALSE,TRUE,84.87,0
+CUST-9593,2/1/2025 12:55,59,Male,USA,Desktop,1629,11,468.15,2,Home Decor,Credit Card,FALSE,FALSE,15.58,1
+CUST-2486,2/1/2025 5:12,33,Other,India,Desktop,1084,12,307.65,0,Clothing,Net Banking,FALSE,TRUE,27.79,1
+CUST-6887,2/1/2025 5:14,64,Female,USA,Mobile,2109,12,189.33,3,Books,Net Banking,TRUE,TRUE,54.92,0
+CUST-3589,2/1/2025 7:54,40,Female,UK,Desktop,1795,15,323.65,5,Home Decor,Debit Card,FALSE,FALSE,1.18,1
+CUST-4194,2/1/2025 10:36,60,Male,USA,Tablet,3532,6,216.7,2,Sports,Cryptocurrency,FALSE,TRUE,16.96,1
+CUST-1418,2/1/2025 5:20,61,Other,USA,Mobile,1626,16,439.44,1,Books,PayPal,TRUE,TRUE,11.66,1
+CUST-5978,2/1/2025 5:22,57,Other,India,Desktop,1757,15,165.35,1,Electronics,Net Banking,FALSE,TRUE,33.27,0
+CUST-3108,2/1/2025 5:24,21,Female,Germany,Tablet,278,14,468.57,0,Books,Net Banking,TRUE,TRUE,94.27,0
+CUST-8277,2/1/2025 2:43,65,Female,UK,Tablet,1421,5,374.29,3,Books,Cryptocurrency,TRUE,FALSE,50.09,0
+CUST-4949,2/1/2025 8:12,61,Male,Australia,Mobile,1517,15,280.16,5,Beauty,Debit Card,FALSE,FALSE,12.09,1
+CUST-6141,2/1/2025 8:15,47,Female,India,Tablet,520,3,357.96,3,Electronics,Debit Card,FALSE,FALSE,70.01,0
+CUST-3370,2/1/2025 5:32,32,Other,USA,Mobile,504,11,221.83,4,Books,Cryptocurrency,TRUE,TRUE,51.31,0
+CUST-6290,2/1/2025 5:34,30,Male,Germany,Desktop,2726,12,95.15,0,Home Decor,Credit Card,TRUE,TRUE,74.56,0
+CUST-7152,2/1/2025 2:48,42,Male,Canada,Tablet,2537,11,201.59,3,Home Decor,Cryptocurrency,TRUE,TRUE,68.73,0
+CUST-3050,2/1/2025 8:27,19,Female,Germany,Desktop,1907,13,80.97,1,Books,PayPal,TRUE,TRUE,73.07,0
+CUST-3542,2/1/2025 11:20,32,Female,Germany,Mobile,1814,12,89.46,4,Books,Cryptocurrency,TRUE,TRUE,6.42,1
+CUST-5199,2/1/2025 11:24,40,Female,Germany,Desktop,1112,2,188.87,4,Sports,Debit Card,TRUE,FALSE,3.06,1
+CUST-4848,2/1/2025 14:20,60,Male,Canada,Desktop,333,5,180.3,3,Beauty,Debit Card,FALSE,FALSE,84.14,0
+CUST-3115,2/1/2025 8:39,44,Male,Australia,Mobile,1264,20,389.51,1,Clothing,PayPal,TRUE,FALSE,10.29,1
+CUST-3062,2/1/2025 11:36,28,Other,UK,Tablet,2761,20,420.27,2,Sports,PayPal,TRUE,FALSE,47.53,0
+CUST-2699,2/1/2025 8:45,32,Female,UK,Mobile,1806,12,294.26,4,Sports,PayPal,TRUE,TRUE,70.67,0
+CUST-7781,2/1/2025 8:48,33,Other,USA,Desktop,943,5,269.65,5,Clothing,Cryptocurrency,FALSE,TRUE,85.93,0
+CUST-5874,2/1/2025 14:45,30,Male,India,Tablet,985,1,233.95,1,Electronics,Net Banking,FALSE,FALSE,21,1
+CUST-4644,2/1/2025 14:50,50,Other,USA,Desktop,1788,19,490.46,1,Electronics,PayPal,FALSE,FALSE,52.36,0
+CUST-8039,2/1/2025 5:58,56,Other,India,Mobile,3024,5,312.04,4,Electronics,Debit Card,FALSE,TRUE,81.25,0
+CUST-9045,2/1/2025 3:00,51,Female,UK,Desktop,3058,20,264.7,4,Beauty,Credit Card,FALSE,TRUE,66.58,0
+CUST-1288,2/1/2025 6:02,22,Female,Germany,Mobile,2174,12,101.53,3,Home Decor,Debit Card,FALSE,TRUE,17.45,1
+CUST-6263,2/1/2025 3:02,61,Male,Germany,Desktop,3068,1,142.58,2,Electronics,Cryptocurrency,FALSE,TRUE,23.25,1
+CUST-1903,2/1/2025 9:09,57,Male,India,Mobile,1347,20,175.91,2,Home Decor,Cryptocurrency,FALSE,TRUE,50.81,0
+CUST-7660,2/1/2025 9:12,34,Male,India,Tablet,3569,3,364.97,0,Books,Debit Card,FALSE,TRUE,85.47,0
+CUST-6654,2/1/2025 12:20,27,Other,Canada,Tablet,1816,16,316.03,5,Sports,Debit Card,TRUE,FALSE,64.42,0
+CUST-6157,2/1/2025 12:24,33,Other,Germany,Desktop,1967,8,47.21,3,Beauty,PayPal,TRUE,FALSE,25.56,1
+CUST-4173,2/1/2025 6:14,55,Female,Australia,Tablet,723,11,85.85,4,Home Decor,PayPal,FALSE,TRUE,20.89,1
+CUST-7162,2/1/2025 12:32,45,Other,UK,Desktop,2712,11,4.12,5,Home Decor,Debit Card,TRUE,FALSE,64.61,0
+CUST-3497,2/1/2025 15:45,62,Other,Germany,Tablet,2424,8,344.89,0,Electronics,Cryptocurrency,FALSE,TRUE,67.79,0
+CUST-4567,2/1/2025 12:40,63,Other,UK,Mobile,2369,16,92.52,2,Home Decor,PayPal,TRUE,FALSE,13.06,1
+CUST-8302,2/1/2025 3:11,27,Male,Canada,Desktop,3593,18,350.19,2,Home Decor,Net Banking,FALSE,TRUE,90.05,0
+CUST-3738,2/1/2025 12:48,25,Male,Australia,Mobile,2851,4,187.32,0,Books,Cryptocurrency,TRUE,FALSE,72.46,0
+CUST-2908,2/1/2025 16:05,23,Other,India,Tablet,3272,16,122.44,3,Beauty,Cryptocurrency,FALSE,FALSE,75.58,0
+CUST-4609,2/1/2025 16:10,27,Other,Germany,Desktop,1264,4,296.05,3,Home Decor,Debit Card,FALSE,TRUE,77.66,0
+CUST-9751,2/1/2025 6:30,55,Female,India,Tablet,1766,14,218.19,0,Electronics,Net Banking,TRUE,TRUE,78.18,0
+CUST-1713,2/1/2025 13:04,29,Other,Australia,Mobile,3320,10,67.32,2,Sports,PayPal,TRUE,FALSE,17.18,1
+CUST-9644,2/1/2025 16:25,44,Female,Australia,Mobile,955,2,206.31,4,Home Decor,Net Banking,FALSE,TRUE,72.68,0
+CUST-3225,2/1/2025 13:12,58,Other,USA,Desktop,1259,16,61.42,0,Sports,Net Banking,FALSE,FALSE,10.47,1
+CUST-6501,2/1/2025 9:57,55,Female,UK,Desktop,428,7,457.12,1,Sports,Credit Card,TRUE,FALSE,84.45,0
+CUST-6530,2/1/2025 6:40,38,Female,USA,Mobile,398,15,259.4,1,Sports,Net Banking,TRUE,TRUE,50.17,0
+CUST-4683,2/1/2025 16:45,46,Other,Australia,Mobile,882,5,205.49,5,Home Decor,Credit Card,FALSE,TRUE,69.33,0
+CUST-1500,2/1/2025 6:44,34,Female,Canada,Desktop,1794,15,497.11,5,Beauty,Net Banking,TRUE,TRUE,94.2,0
+CUST-1835,2/1/2025 3:23,55,Male,Canada,Mobile,2888,7,18.12,4,Home Decor,Cryptocurrency,TRUE,FALSE,20.23,1
+CUST-1986,2/1/2025 17:00,34,Female,UK,Desktop,1572,11,59.71,0,Sports,Net Banking,TRUE,FALSE,55.94,0
+CUST-2333,2/1/2025 10:15,26,Other,Canada,Desktop,1637,2,491.25,2,Home Decor,Cryptocurrency,TRUE,TRUE,36.62,0
+CUST-9286,2/1/2025 6:52,55,Female,Australia,Tablet,1723,19,90.05,3,Home Decor,PayPal,FALSE,TRUE,29.08,1
+CUST-3744,2/1/2025 17:15,22,Female,Canada,Mobile,418,1,168.79,4,Home Decor,Credit Card,FALSE,FALSE,50.65,0
+CUST-1974,2/1/2025 17:20,50,Other,India,Mobile,197,14,156.79,0,Home Decor,Cryptocurrency,FALSE,TRUE,56.6,0
+CUST-9393,2/1/2025 6:58,37,Female,Canada,Mobile,2379,11,80.71,5,Books,PayPal,FALSE,FALSE,11.01,1
+CUST-8022,2/1/2025 17:30,19,Other,Canada,Desktop,3428,11,188.79,3,Sports,Debit Card,TRUE,FALSE,56.72,0
+CUST-9696,2/1/2025 17:35,29,Other,Germany,Tablet,2892,14,364.12,4,Clothing,PayPal,FALSE,TRUE,92.06,0
+CUST-1588,2/1/2025 3:32,27,Female,Germany,Mobile,1843,11,398.39,4,Clothing,PayPal,FALSE,TRUE,28.29,1
+CUST-7730,2/1/2025 7:06,53,Other,USA,Tablet,3121,13,399.55,4,Sports,Debit Card,FALSE,TRUE,74.31,0
+CUST-8266,2/1/2025 10:42,32,Female,India,Mobile,2466,10,394.41,3,Home Decor,Credit Card,FALSE,TRUE,49.11,0
+CUST-5782,2/1/2025 14:20,38,Female,Canada,Mobile,2231,5,118.46,0,Sports,Credit Card,TRUE,TRUE,94.09,0
+CUST-9960,2/1/2025 14:24,51,Female,Australia,Mobile,2451,10,295.83,1,Beauty,Debit Card,FALSE,FALSE,11.81,1
+CUST-9750,2/1/2025 14:28,25,Male,India,Mobile,1599,9,458.02,0,Home Decor,Debit Card,FALSE,TRUE,68.49,0
+CUST-4728,2/1/2025 18:10,54,Other,Australia,Desktop,659,20,104.12,2,Home Decor,Credit Card,FALSE,FALSE,90.72,0
+CUST-6057,2/1/2025 7:18,28,Other,UK,Desktop,3500,12,268.15,4,Books,Cryptocurrency,FALSE,FALSE,62.55,0
+CUST-6725,2/1/2025 7:20,54,Other,Canada,Tablet,3307,11,183.31,5,Home Decor,Debit Card,TRUE,FALSE,11.28,1
+CUST-3328,2/1/2025 7:22,22,Male,USA,Desktop,1087,8,358.4,0,Beauty,PayPal,TRUE,FALSE,55.92,0
+CUST-1148,2/1/2025 7:24,43,Male,USA,Mobile,2116,1,142.93,2,Beauty,Cryptocurrency,TRUE,TRUE,29.89,1
+CUST-2355,2/1/2025 11:09,40,Male,UK,Mobile,1199,2,212.01,4,Electronics,Net Banking,FALSE,TRUE,91.57,0
+CUST-9963,2/1/2025 3:44,46,Male,Australia,Desktop,2869,7,362.55,5,Home Decor,Debit Card,TRUE,FALSE,94.77,0
+CUST-2754,2/1/2025 18:45,48,Female,Germany,Mobile,699,18,467.5,3,Home Decor,Credit Card,FALSE,TRUE,89.36,0
+CUST-7852,2/1/2025 18:50,39,Female,UK,Tablet,752,11,65.13,5,Beauty,Net Banking,TRUE,TRUE,93.83,0
+CUST-5177,2/1/2025 18:55,37,Other,UK,Desktop,869,17,43.43,0,Books,Debit Card,TRUE,FALSE,79.36,0
+CUST-4325,2/1/2025 15:12,45,Female,India,Desktop,3389,14,77.65,4,Beauty,Credit Card,FALSE,FALSE,21.09,1
+CUST-6842,2/1/2025 7:38,22,Other,Australia,Desktop,2433,17,409.83,5,Sports,Credit Card,FALSE,FALSE,52.86,0
+CUST-9316,2/1/2025 3:50,32,Female,Germany,Desktop,1272,2,74.24,2,Sports,Net Banking,FALSE,FALSE,65.64,0
+CUST-8244,2/1/2025 19:15,50,Male,USA,Mobile,2545,10,105,1,Home Decor,Debit Card,FALSE,TRUE,67.74,0
+CUST-6657,2/1/2025 11:36,37,Female,Canada,Tablet,1562,12,292.38,4,Clothing,Credit Card,TRUE,FALSE,56.3,0
+CUST-1299,2/1/2025 7:46,22,Female,India,Mobile,2418,14,429.64,0,Beauty,Cryptocurrency,FALSE,FALSE,81.14,0
+CUST-4370,2/1/2025 19:30,64,Male,UK,Mobile,305,9,85.7,2,Clothing,Cryptocurrency,FALSE,FALSE,10.21,1
+CUST-6153,2/1/2025 11:45,57,Female,USA,Mobile,132,20,70.1,5,Home Decor,PayPal,FALSE,TRUE,29.85,1
+CUST-2501,2/1/2025 7:52,56,Female,India,Tablet,2379,7,346.73,1,Clothing,Cryptocurrency,FALSE,FALSE,1.6,1
+CUST-5188,2/1/2025 7:54,35,Male,USA,Tablet,965,5,401.94,3,Sports,Credit Card,TRUE,FALSE,82.88,0
+CUST-4342,2/1/2025 7:56,43,Other,Canada,Desktop,1025,17,278.45,2,Electronics,PayPal,TRUE,TRUE,48.07,0
+CUST-6488,2/1/2025 3:59,39,Female,USA,Tablet,689,7,439.56,1,Clothing,Net Banking,FALSE,FALSE,75.08,0
+CUST-9637,2/1/2025 16:00,40,Male,Germany,Desktop,1657,19,55.18,2,Books,PayPal,TRUE,TRUE,85.86,0
+CUST-6665,2/1/2025 20:05,25,Female,USA,Tablet,1053,11,378.18,1,Clothing,Credit Card,FALSE,FALSE,52.14,0
+CUST-4053,2/1/2025 4:02,22,Male,India,Tablet,2932,18,438.45,2,Books,PayPal,FALSE,TRUE,45.51,0
+CUST-5583,2/1/2025 20:15,35,Other,Canada,Desktop,3225,19,92.37,1,Sports,Net Banking,TRUE,FALSE,18.13,1
+CUST-7109,2/1/2025 12:12,48,Male,UK,Mobile,38,5,221.36,1,Clothing,Net Banking,FALSE,TRUE,96.62,0
+CUST-8601,2/1/2025 8:10,38,Other,USA,Desktop,2551,9,438.22,5,Home Decor,Credit Card,FALSE,TRUE,81.74,0
+CUST-8566,2/1/2025 12:18,42,Other,Germany,Desktop,3527,16,242.68,5,Sports,Debit Card,TRUE,TRUE,51.23,0
+CUST-7379,2/1/2025 8:14,40,Other,Germany,Tablet,3467,20,262.77,5,Books,PayPal,TRUE,TRUE,50.28,0
+CUST-9438,2/1/2025 20:40,48,Other,USA,Mobile,373,13,428.22,3,Electronics,Debit Card,TRUE,TRUE,7.25,1
+CUST-7495,2/1/2025 4:09,37,Female,India,Mobile,304,10,231.89,1,Beauty,Net Banking,FALSE,TRUE,70.83,0
+CUST-1313,2/1/2025 20:50,55,Female,India,Tablet,696,17,31.47,4,Electronics,Cryptocurrency,TRUE,FALSE,18.94,1
+CUST-8648,2/1/2025 8:22,44,Male,USA,Tablet,3030,6,126.09,2,Electronics,PayPal,FALSE,TRUE,90.39,0
+CUST-7359,2/1/2025 8:24,41,Other,Canada,Tablet,1943,15,156.49,4,Books,Net Banking,FALSE,TRUE,13.62,1
+CUST-2035,2/1/2025 12:39,36,Female,USA,Desktop,2749,17,241.07,1,Electronics,Credit Card,FALSE,FALSE,29.97,1
+CUST-9748,2/1/2025 4:14,54,Male,Australia,Desktop,1597,20,220.96,2,Clothing,Debit Card,TRUE,FALSE,63.18,0
+CUST-3465,2/1/2025 12:45,22,Male,USA,Mobile,2240,8,223.76,2,Electronics,Debit Card,TRUE,TRUE,52.52,0
+CUST-9363,2/1/2025 17:04,24,Other,India,Mobile,2380,19,460.71,3,Sports,Credit Card,FALSE,TRUE,29.91,1
+CUST-9750,2/1/2025 4:17,52,Other,India,Tablet,2467,9,293.42,3,Home Decor,PayPal,TRUE,TRUE,61.08,0
+CUST-4019,2/1/2025 4:18,34,Other,India,Desktop,246,13,153.72,4,Books,PayPal,FALSE,FALSE,1.23,1
+CUST-2876,2/1/2025 8:38,43,Female,Germany,Mobile,2804,13,464.67,3,Books,Credit Card,FALSE,TRUE,37.67,0
+CUST-1657,2/1/2025 17:20,22,Female,Germany,Mobile,791,16,444.97,3,Books,Debit Card,FALSE,FALSE,51.87,0
+CUST-8110,2/1/2025 4:21,49,Other,Germany,Mobile,648,11,284.41,5,Home Decor,PayPal,TRUE,FALSE,38.75,0
+CUST-2412,2/1/2025 4:22,62,Male,Australia,Desktop,1551,12,421.96,3,Home Decor,PayPal,TRUE,FALSE,27.91,1
+CUST-8421,2/1/2025 21:55,27,Female,USA,Desktop,2208,19,423.47,1,Clothing,Net Banking,FALSE,FALSE,74.17,0
+CUST-9132,2/1/2025 13:12,61,Other,UK,Tablet,2694,19,379.34,5,Electronics,Net Banking,TRUE,FALSE,14.38,1
+CUST-9726,2/1/2025 13:15,60,Female,Germany,Tablet,2097,11,417.63,0,Books,Net Banking,FALSE,TRUE,41.58,0
+CUST-6040,2/1/2025 17:44,37,Female,India,Tablet,1652,5,264.1,4,Clothing,PayPal,FALSE,FALSE,43.79,0
+CUST-6766,2/1/2025 22:15,36,Other,India,Desktop,2580,2,36.27,4,Electronics,Debit Card,FALSE,FALSE,64.3,0
+CUST-4083,2/1/2025 17:52,39,Other,USA,Desktop,2190,14,246.46,4,Beauty,Debit Card,FALSE,FALSE,43.9,0
+CUST-3496,2/1/2025 4:29,26,Female,Canada,Mobile,1707,1,95.59,2,Sports,Net Banking,TRUE,FALSE,20.3,1
+CUST-4966,2/1/2025 4:30,29,Female,USA,Mobile,1788,16,258.66,3,Sports,PayPal,FALSE,TRUE,11.37,1
+CUST-2962,2/1/2025 4:31,32,Male,Canada,Tablet,1466,9,316.46,2,Beauty,PayPal,TRUE,TRUE,73.57,0
+CUST-3568,2/1/2025 18:08,61,Other,Germany,Tablet,952,20,195.49,0,Beauty,Net Banking,FALSE,FALSE,86.75,0
+CUST-4096,2/1/2025 9:06,40,Other,Germany,Tablet,787,6,307.69,5,Home Decor,PayPal,FALSE,FALSE,39.91,0
+CUST-7991,2/1/2025 4:34,62,Female,Germany,Tablet,1086,6,362.92,5,Beauty,Net Banking,FALSE,FALSE,73.82,0
+CUST-8353,2/1/2025 4:35,39,Male,Canada,Desktop,1614,3,189.78,4,Electronics,Cryptocurrency,TRUE,FALSE,43.64,0
+CUST-9599,2/1/2025 13:48,34,Female,Germany,Mobile,1806,3,206.61,0,Sports,Cryptocurrency,FALSE,FALSE,60.59,0
+CUST-6583,2/1/2025 18:28,26,Male,India,Tablet,1791,15,448.99,2,Sports,Net Banking,FALSE,FALSE,42.29,0
+CUST-7288,2/1/2025 9:16,24,Female,USA,Tablet,3134,10,177.49,1,Clothing,Credit Card,FALSE,TRUE,74.16,0
+CUST-9918,2/1/2025 18:36,18,Male,Germany,Mobile,823,19,79.83,3,Home Decor,Debit Card,FALSE,TRUE,89.1,0
+CUST-6977,2/1/2025 4:40,55,Female,UK,Tablet,1393,4,159.53,4,Beauty,Debit Card,FALSE,FALSE,96.5,0
+CUST-6925,2/1/2025 14:03,37,Male,Canada,Tablet,2065,12,306.9,0,Sports,Debit Card,TRUE,FALSE,99.05,0
+CUST-9725,2/1/2025 4:42,64,Male,USA,Desktop,2611,10,476.84,2,Home Decor,PayPal,TRUE,TRUE,97,0
+CUST-4387,2/1/2025 14:09,31,Female,UK,Tablet,1696,10,417.03,5,Clothing,Debit Card,TRUE,FALSE,36.12,0
+CUST-8315,2/1/2025 14:12,20,Female,Germany,Tablet,3199,17,345.11,0,Electronics,PayPal,FALSE,FALSE,2.72,1
+CUST-1977,2/1/2025 9:30,34,Female,India,Mobile,3226,8,219.04,4,Books,PayPal,FALSE,TRUE,78.16,0
+CUST-4833,2/1/2025 23:50,35,Other,Canada,Mobile,2357,6,390.85,4,Clothing,Debit Card,TRUE,FALSE,28.35,1
+CUST-8340,2/1/2025 19:08,56,Male,Australia,Desktop,1518,19,458.91,0,Home Decor,Credit Card,FALSE,TRUE,49.29,0
+CUST-7780,2/1/2025 9:36,36,Other,India,Mobile,2612,10,492.07,2,Clothing,Cryptocurrency,TRUE,FALSE,39.08,0
+CUST-7485,2/2/2025 0:05,18,Male,Australia,Tablet,164,16,336.81,5,Electronics,Cryptocurrency,FALSE,TRUE,97.06,0
+CUST-9084,2/1/2025 19:20,65,Male,Canada,Tablet,107,6,236.67,5,Sports,Debit Card,FALSE,TRUE,30.97,0
+CUST-1977,2/2/2025 0:15,23,Female,USA,Tablet,2711,20,18.18,0,Clothing,Debit Card,TRUE,FALSE,26.91,1
+CUST-5457,2/1/2025 19:28,40,Male,Australia,Tablet,379,15,14.96,0,Clothing,Debit Card,FALSE,FALSE,1.82,1
+CUST-8046,2/1/2025 14:39,63,Other,UK,Desktop,1220,4,328.04,1,Electronics,PayPal,FALSE,TRUE,38.43,0
+CUST-5594,2/2/2025 0:30,18,Other,Canada,Tablet,864,1,202.54,1,Home Decor,Debit Card,TRUE,FALSE,56.57,0
+CUST-8355,2/1/2025 4:55,29,Other,Germany,Mobile,709,3,355.35,3,Books,Cryptocurrency,FALSE,FALSE,53.28,0
+CUST-6255,2/1/2025 14:48,42,Male,Australia,Tablet,2853,2,77.01,3,Sports,PayPal,TRUE,TRUE,94.1,0
+CUST-5962,2/1/2025 9:54,33,Male,UK,Tablet,204,1,90.78,4,Books,Net Banking,TRUE,FALSE,86.95,0
+CUST-9531,2/1/2025 14:54,20,Male,USA,Mobile,1202,4,141.6,1,Clothing,Net Banking,TRUE,FALSE,62.49,0
+CUST-7350,2/1/2025 19:56,57,Female,Canada,Tablet,2423,16,282.4,4,Sports,Debit Card,FALSE,FALSE,31.13,0
+CUST-5570,2/1/2025 20:00,51,Female,India,Mobile,298,14,163.18,2,Sports,Net Banking,FALSE,FALSE,85.84,0
+CUST-8097,2/1/2025 20:04,58,Female,UK,Desktop,2565,16,50.68,0,Clothing,PayPal,FALSE,TRUE,99.91,0
+CUST-8619,2/1/2025 15:06,52,Female,India,Desktop,1527,5,72.31,1,Books,Cryptocurrency,TRUE,FALSE,74.72,0
+CUST-2619,2/1/2025 20:12,50,Male,USA,Tablet,1309,14,487.66,5,Electronics,Debit Card,TRUE,FALSE,71.09,0
+CUST-9075,2/1/2025 20:16,40,Other,Germany,Desktop,1173,16,12.88,1,Books,Credit Card,TRUE,FALSE,15.03,1
+CUST-6425,2/1/2025 10:10,50,Female,India,Desktop,3595,4,298.58,1,Sports,Net Banking,FALSE,TRUE,32.69,0
+CUST-7955,2/1/2025 20:24,39,Female,India,Tablet,2192,12,439.97,5,Books,Net Banking,FALSE,TRUE,52.15,0
+CUST-6979,2/1/2025 10:14,41,Male,UK,Desktop,2250,7,13.18,0,Books,Cryptocurrency,TRUE,FALSE,22.62,1
+CUST-1622,2/1/2025 15:24,34,Male,Australia,Desktop,729,3,231.93,1,Electronics,Debit Card,TRUE,TRUE,44.19,0
+CUST-5410,2/1/2025 5:09,55,Female,Australia,Mobile,2721,11,88.72,1,Sports,Cryptocurrency,FALSE,FALSE,32.14,0
+CUST-4430,2/1/2025 20:40,41,Other,Germany,Mobile,489,20,84.85,5,Clothing,PayPal,FALSE,FALSE,21.15,1
+CUST-6955,2/1/2025 10:22,37,Male,UK,Mobile,2038,2,235.46,0,Home Decor,PayPal,TRUE,TRUE,66.78,0
+CUST-7497,2/1/2025 20:48,19,Other,Canada,Mobile,950,1,183.72,1,Beauty,Credit Card,TRUE,TRUE,35.74,0
+CUST-1551,2/1/2025 10:26,26,Male,Germany,Mobile,863,13,235.52,5,Sports,Cryptocurrency,TRUE,FALSE,10.77,1
+CUST-8340,2/1/2025 20:56,64,Other,India,Desktop,643,4,72.11,0,Clothing,Credit Card,TRUE,FALSE,91.73,0
+CUST-8117,2/1/2025 5:15,37,Female,USA,Mobile,3435,4,297.49,4,Books,Net Banking,FALSE,TRUE,11.28,1
+CUST-8642,2/2/2025 2:20,60,Other,Germany,Mobile,1662,7,434.02,4,Clothing,Debit Card,TRUE,FALSE,19.3,1
+CUST-6020,2/1/2025 15:51,30,Female,Germany,Desktop,2391,1,257.89,3,Books,Net Banking,FALSE,FALSE,74.53,0
+CUST-4854,2/1/2025 5:18,23,Other,Canada,Mobile,2125,1,409.59,4,Home Decor,Debit Card,TRUE,TRUE,94.39,0
+CUST-6546,2/1/2025 15:57,24,Other,USA,Mobile,357,17,319.36,1,Clothing,Net Banking,TRUE,TRUE,21.99,1
+CUST-3358,2/2/2025 2:40,44,Female,Germany,Tablet,61,17,306.87,5,Beauty,PayPal,FALSE,FALSE,39.19,0
+CUST-6434,2/2/2025 2:45,65,Male,India,Tablet,2648,3,156.96,0,Home Decor,Net Banking,TRUE,FALSE,96.71,0
+CUST-3530,2/1/2025 16:06,24,Other,India,Desktop,1057,3,230.32,3,Books,Net Banking,FALSE,TRUE,6.87,1
+CUST-7439,2/1/2025 5:23,36,Male,UK,Desktop,2023,7,159.82,4,Books,PayPal,FALSE,FALSE,68.57,0
+CUST-6570,2/2/2025 3:00,45,Other,USA,Desktop,3485,4,56.56,0,Beauty,Net Banking,FALSE,TRUE,3.05,1
+CUST-5071,2/1/2025 5:25,38,Female,UK,Desktop,1067,8,248.8,4,Electronics,Net Banking,TRUE,TRUE,18.83,1
+CUST-7659,2/1/2025 21:44,35,Female,UK,Desktop,2395,16,191.02,2,Home Decor,Credit Card,TRUE,FALSE,52.71,0
+CUST-1284,2/2/2025 3:15,38,Male,India,Tablet,3059,18,269.88,4,Clothing,Cryptocurrency,FALSE,TRUE,16.11,1
+CUST-6466,2/1/2025 5:28,49,Female,Germany,Tablet,1194,7,478.07,4,Sports,Net Banking,FALSE,TRUE,24.17,1
+CUST-9027,2/1/2025 21:56,37,Other,India,Mobile,2281,5,221.15,3,Electronics,Debit Card,FALSE,TRUE,51.36,0
+CUST-8347,2/1/2025 16:30,42,Male,UK,Mobile,1941,19,254.5,3,Electronics,Cryptocurrency,TRUE,TRUE,32.07,0
+CUST-5661,2/1/2025 22:04,46,Male,UK,Tablet,1976,14,33.5,3,Clothing,Credit Card,TRUE,FALSE,10.75,1
+CUST-1644,2/1/2025 11:04,39,Other,India,Tablet,859,6,202.66,5,Beauty,PayPal,FALSE,TRUE,34,0
+CUST-3828,2/1/2025 5:33,62,Female,UK,Tablet,1396,9,287.39,1,Clothing,Credit Card,TRUE,FALSE,11.04,1
+CUST-6423,2/1/2025 16:42,49,Male,UK,Mobile,3214,3,412.37,1,Beauty,Debit Card,FALSE,FALSE,7.03,1
+CUST-1767,2/1/2025 16:45,32,Female,Germany,Tablet,2198,7,261.96,1,Books,PayPal,TRUE,TRUE,85.13,0
+CUST-2776,2/1/2025 5:36,47,Female,UK,Desktop,1370,3,27.09,1,Home Decor,Credit Card,FALSE,FALSE,90.52,0
+CUST-1557,2/1/2025 5:37,51,Male,USA,Mobile,219,3,305.83,2,Sports,Cryptocurrency,TRUE,FALSE,45.56,0
+CUST-3657,2/1/2025 16:54,33,Other,Germany,Tablet,3253,1,101.16,4,Sports,Cryptocurrency,TRUE,TRUE,63.53,0
+CUST-3508,2/1/2025 11:18,46,Other,UK,Desktop,1760,12,485.45,0,Beauty,Cryptocurrency,TRUE,FALSE,89.43,0
+CUST-2674,2/1/2025 5:40,30,Other,India,Mobile,3542,12,187,0,Beauty,Credit Card,TRUE,TRUE,20.82,1
+CUST-1747,2/1/2025 17:03,50,Male,USA,Tablet,1090,6,174.53,2,Sports,PayPal,FALSE,TRUE,93.35,0
+CUST-4803,2/1/2025 11:24,55,Male,UK,Tablet,1508,5,469.43,4,Clothing,Debit Card,FALSE,TRUE,80.32,0
+CUST-3163,2/1/2025 11:26,44,Female,Australia,Mobile,1945,5,355.46,2,Electronics,Net Banking,FALSE,FALSE,93.12,0
+CUST-3440,2/1/2025 17:12,32,Other,UK,Desktop,3573,17,493.56,0,Clothing,PayPal,FALSE,TRUE,47.06,0
+CUST-1839,2/2/2025 4:45,45,Male,USA,Mobile,1924,20,42.44,1,Electronics,Debit Card,TRUE,FALSE,42.8,0
+CUST-1053,2/1/2025 17:18,26,Other,UK,Tablet,148,12,49.31,3,Home Decor,Credit Card,FALSE,FALSE,35.26,0
+CUST-8285,2/1/2025 11:34,45,Male,Canada,Desktop,2383,8,250.32,3,Sports,PayPal,FALSE,TRUE,30.35,0
+CUST-6811,2/1/2025 5:48,24,Other,Canada,Mobile,898,12,81.28,5,Beauty,PayPal,TRUE,FALSE,59.69,0
+CUST-7380,2/2/2025 5:05,33,Female,USA,Mobile,2388,4,97.42,2,Electronics,PayPal,FALSE,TRUE,76.62,0
+CUST-2856,2/1/2025 17:30,45,Female,India,Mobile,508,9,461.81,4,Home Decor,Credit Card,FALSE,FALSE,20.26,1
+CUST-3636,2/1/2025 23:24,41,Other,Germany,Mobile,2342,18,184.32,1,Electronics,Cryptocurrency,TRUE,TRUE,5.31,1
+CUST-4813,2/2/2025 5:20,44,Male,Australia,Desktop,885,11,214.77,4,Books,Cryptocurrency,TRUE,TRUE,50.99,0
+CUST-2254,2/1/2025 5:53,54,Female,Australia,Tablet,644,11,87.22,1,Clothing,PayPal,TRUE,FALSE,30.06,0
+CUST-2820,2/2/2025 5:30,64,Male,Germany,Mobile,430,20,259.91,4,Books,Debit Card,TRUE,TRUE,40.39,0
+CUST-1436,2/1/2025 11:50,32,Male,Canada,Desktop,2859,18,75.99,3,Books,Debit Card,TRUE,TRUE,78.07,0
+CUST-2021,2/1/2025 17:48,47,Female,UK,Desktop,2112,7,164.9,2,Beauty,Credit Card,FALSE,TRUE,67.28,0
+CUST-6461,2/1/2025 23:48,45,Other,UK,Desktop,619,17,239.5,2,Beauty,Cryptocurrency,TRUE,FALSE,87.87,0
+CUST-1697,2/1/2025 17:54,40,Female,Australia,Tablet,1746,6,63.47,3,Books,Credit Card,FALSE,FALSE,89.86,0
+CUST-1564,2/1/2025 17:57,25,Male,Germany,Tablet,2808,2,75.53,2,Books,Net Banking,FALSE,TRUE,46.38,0
+CUST-4673,2/2/2025 0:00,30,Female,UK,Mobile,2822,13,132.48,2,Electronics,Debit Card,FALSE,TRUE,53.26,0
+CUST-2715,2/1/2025 18:03,32,Female,Canada,Mobile,1597,3,148.14,4,Home Decor,Cryptocurrency,FALSE,TRUE,40.63,0
+CUST-9234,2/1/2025 18:06,62,Other,UK,Tablet,391,12,54.99,2,Electronics,Net Banking,TRUE,FALSE,9.61,1
+CUST-4404,2/1/2025 6:03,63,Male,Australia,Tablet,452,5,133.64,5,Home Decor,Debit Card,FALSE,TRUE,93.84,0
+CUST-7471,2/2/2025 6:20,42,Female,UK,Desktop,2333,9,402.94,2,Clothing,Cryptocurrency,TRUE,TRUE,90.62,0
+CUST-5095,2/1/2025 6:05,49,Female,Canada,Tablet,1286,20,101.73,0,Books,Net Banking,TRUE,FALSE,60.75,0
+CUST-7122,2/2/2025 6:30,36,Female,Australia,Tablet,3176,8,315.65,1,Books,Credit Card,TRUE,TRUE,38.21,0
+CUST-8252,2/1/2025 6:07,33,Other,Australia,Mobile,887,20,393.67,3,Home Decor,Credit Card,TRUE,FALSE,83.31,0
+CUST-9440,2/1/2025 12:16,59,Male,UK,Desktop,2329,6,349.91,2,Beauty,Cryptocurrency,FALSE,TRUE,24.62,1
+CUST-1941,2/2/2025 0:36,49,Female,Canada,Desktop,2920,1,408.5,4,Electronics,PayPal,FALSE,TRUE,0.13,1
+CUST-9958,2/1/2025 18:30,53,Other,Canada,Tablet,1789,20,321.46,2,Home Decor,Net Banking,TRUE,TRUE,73.05,0
+CUST-2389,2/1/2025 18:33,29,Other,Australia,Tablet,572,19,396.01,3,Electronics,Net Banking,FALSE,FALSE,51.35,0
+CUST-5737,2/2/2025 7:00,39,Male,Australia,Tablet,66,17,497.01,2,Books,Debit Card,FALSE,TRUE,33.87,0
+CUST-1059,2/1/2025 6:13,28,Female,UK,Desktop,3208,4,90.8,0,Clothing,PayPal,FALSE,TRUE,54.2,0
+CUST-7891,2/1/2025 12:28,50,Male,USA,Tablet,3033,5,36.3,1,Books,PayPal,FALSE,FALSE,7.57,1
+CUST-8476,2/2/2025 1:00,27,Other,UK,Desktop,227,7,455.02,3,Sports,Cryptocurrency,TRUE,FALSE,88.85,0
+CUST-2897,2/1/2025 12:32,53,Male,UK,Desktop,399,6,343.54,3,Home Decor,PayPal,FALSE,FALSE,95.29,0
+CUST-5492,2/1/2025 12:34,37,Other,India,Tablet,742,12,479.52,5,Clothing,Debit Card,FALSE,TRUE,40.52,0
+CUST-1000,2/1/2025 6:18,23,Other,Australia,Tablet,1336,2,335.5,5,Home Decor,Credit Card,TRUE,TRUE,66.14,0
+CUST-1433,2/1/2025 18:57,58,Male,Australia,Mobile,260,9,443.56,0,Clothing,Cryptocurrency,FALSE,FALSE,34.75,0
+CUST-7229,2/1/2025 19:00,39,Other,Australia,Mobile,255,16,270.7,3,Home Decor,PayPal,FALSE,FALSE,55.74,0
+CUST-1764,2/1/2025 6:21,58,Other,Australia,Tablet,2827,16,365.98,0,Sports,Credit Card,FALSE,FALSE,56.54,0
+CUST-1543,2/1/2025 12:44,50,Other,USA,Tablet,112,4,183.03,4,Home Decor,Credit Card,FALSE,FALSE,35.94,0
+CUST-9353,2/1/2025 19:09,37,Male,USA,Tablet,31,7,453.68,0,Clothing,Credit Card,TRUE,FALSE,23.63,1
+CUST-9828,2/1/2025 19:12,41,Male,Australia,Tablet,1971,10,92.16,5,Beauty,PayPal,FALSE,TRUE,32,0
+CUST-7089,2/1/2025 12:50,53,Other,USA,Mobile,2095,15,32.76,5,Books,PayPal,FALSE,FALSE,82.3,0
+CUST-2684,2/1/2025 19:18,40,Other,India,Desktop,2727,6,376.27,4,Beauty,Debit Card,TRUE,FALSE,42.33,0
+CUST-1207,2/2/2025 8:15,18,Female,Germany,Tablet,940,6,199.73,1,Books,Debit Card,FALSE,FALSE,42.74,0
+CUST-2077,2/1/2025 12:56,64,Female,Australia,Mobile,2168,7,149.24,5,Clothing,Debit Card,FALSE,FALSE,37.2,0
+CUST-2969,2/1/2025 6:29,30,Other,Canada,Desktop,1447,5,215.3,3,Sports,PayPal,FALSE,FALSE,55.26,0
+CUST-9255,2/1/2025 19:30,22,Male,India,Desktop,2356,13,429.08,1,Home Decor,Net Banking,TRUE,TRUE,77.59,0
+CUST-3893,2/1/2025 13:02,40,Female,Australia,Tablet,1341,16,404.39,1,Home Decor,Net Banking,FALSE,TRUE,59.53,0
+CUST-4221,2/2/2025 2:08,41,Female,Canada,Mobile,1761,4,43.75,5,Electronics,Net Banking,TRUE,FALSE,71.1,0
+CUST-1187,2/1/2025 6:33,52,Female,Germany,Mobile,725,16,23.68,2,Clothing,Cryptocurrency,TRUE,FALSE,97.05,0
+CUST-7159,2/1/2025 13:08,25,Female,Canada,Mobile,2110,13,345.08,1,Electronics,PayPal,FALSE,TRUE,51.94,0
+CUST-8122,2/1/2025 13:10,34,Female,UK,Mobile,2197,13,259.2,4,Electronics,PayPal,FALSE,TRUE,6.06,1
+CUST-5063,2/1/2025 19:48,23,Other,USA,Desktop,2453,6,441.29,1,Books,Cryptocurrency,FALSE,FALSE,63.51,0
+CUST-8304,2/2/2025 2:28,60,Female,Australia,Mobile,2325,12,430.89,4,Electronics,Credit Card,FALSE,FALSE,29.43,1
+CUST-2245,2/2/2025 2:32,31,Male,USA,Tablet,2797,11,133.88,2,Home Decor,Credit Card,TRUE,FALSE,61.83,0
+CUST-6219,2/1/2025 6:39,65,Male,UK,Tablet,2726,12,370.29,5,Beauty,PayPal,TRUE,FALSE,26.08,1
+CUST-8032,2/2/2025 2:40,37,Female,Germany,Mobile,676,14,13.54,0,Sports,Debit Card,TRUE,FALSE,7.27,1
+CUST-4491,2/2/2025 2:44,23,Other,Australia,Mobile,1058,8,204.43,4,Electronics,Net Banking,FALSE,TRUE,85.79,0
+CUST-8373,2/1/2025 13:24,56,Male,UK,Desktop,611,12,190.42,1,Sports,Debit Card,FALSE,FALSE,29.61,1
+CUST-6236,2/2/2025 2:52,62,Female,Australia,Desktop,2995,1,475.08,3,Books,Net Banking,FALSE,FALSE,24.24,1
+CUST-1565,2/1/2025 20:12,61,Female,Canada,Mobile,2575,5,243.61,2,Beauty,Credit Card,FALSE,FALSE,96.71,0
+CUST-8205,2/1/2025 13:30,30,Other,India,Desktop,437,8,328.67,0,Beauty,Net Banking,FALSE,TRUE,54.08,0
+CUST-5879,2/2/2025 3:04,56,Male,India,Tablet,1390,19,313.6,3,Books,PayPal,TRUE,FALSE,3.44,1
+CUST-6972,2/2/2025 9:55,59,Male,Canada,Tablet,367,8,360.8,5,Sports,Cryptocurrency,TRUE,FALSE,60.61,0
+CUST-1846,2/1/2025 6:48,22,Male,Germany,Tablet,976,15,307.18,4,Sports,PayPal,FALSE,TRUE,54.41,0
+CUST-2370,2/1/2025 20:27,54,Female,Canada,Desktop,1527,7,449.95,1,Clothing,Net Banking,TRUE,TRUE,64.96,0
+CUST-4285,2/1/2025 6:50,27,Male,UK,Mobile,1394,15,132.43,3,Electronics,Debit Card,FALSE,FALSE,30.45,0
+CUST-3607,2/1/2025 20:33,60,Other,Germany,Mobile,1196,15,154.21,1,Beauty,Credit Card,TRUE,FALSE,56.78,0
+CUST-3198,2/1/2025 20:36,57,Female,Germany,Mobile,3387,5,381.31,5,Books,Net Banking,TRUE,TRUE,35.88,0
+CUST-7307,2/1/2025 20:39,35,Other,India,Mobile,2310,16,169.62,3,Books,Debit Card,TRUE,TRUE,23.12,1
+CUST-2897,2/2/2025 10:30,41,Other,India,Desktop,2718,12,260.6,3,Sports,PayPal,TRUE,TRUE,80.29,0
+CUST-4326,2/2/2025 10:35,33,Male,Canada,Mobile,3059,2,326.79,3,Electronics,Net Banking,FALSE,FALSE,80.13,0
+CUST-1136,2/1/2025 6:56,43,Male,UK,Desktop,2521,15,92.22,5,Sports,Debit Card,FALSE,TRUE,84.02,0
+CUST-6426,2/1/2025 20:51,44,Female,Germany,Tablet,792,20,418.89,2,Clothing,Credit Card,TRUE,TRUE,38.96,0
+CUST-5789,2/2/2025 10:50,29,Other,India,Desktop,2625,12,328.13,2,Books,Debit Card,TRUE,TRUE,54.87,0
+CUST-8276,2/1/2025 13:58,47,Female,Australia,Mobile,1274,16,492.99,3,Clothing,PayPal,TRUE,FALSE,0.85,1
+CUST-8747,2/2/2025 11:00,32,Other,USA,Mobile,2537,11,275.17,4,Electronics,PayPal,FALSE,FALSE,3.15,1
+CUST-3997,2/1/2025 7:01,18,Other,UK,Tablet,1140,5,129.07,4,Beauty,PayPal,TRUE,TRUE,29.3,1
+CUST-3363,2/1/2025 7:02,23,Other,Germany,Mobile,1388,10,92.94,4,Electronics,Credit Card,FALSE,TRUE,78.29,0
+CUST-6206,2/1/2025 7:03,44,Female,India,Mobile,2739,7,264.1,2,Books,Debit Card,FALSE,FALSE,13.59,1
+CUST-4183,2/2/2025 11:20,35,Other,Germany,Tablet,774,12,489.49,0,Beauty,Net Banking,TRUE,FALSE,78.97,0
+CUST-1137,2/2/2025 11:25,37,Other,India,Mobile,2088,1,301.29,3,Electronics,PayPal,FALSE,TRUE,20.88,1
+CUST-3208,2/2/2025 4:24,49,Male,Canada,Desktop,2222,2,189.08,1,Sports,Net Banking,FALSE,TRUE,37.11,0
+CUST-1642,2/1/2025 21:21,42,Male,UK,Desktop,3071,11,166.45,5,Electronics,PayPal,TRUE,FALSE,25.98,1
+CUST-1468,2/1/2025 21:24,51,Female,USA,Tablet,763,11,392,0,Clothing,Credit Card,TRUE,FALSE,7.67,1
+CUST-1433,2/2/2025 4:36,43,Male,Australia,Mobile,702,17,59.12,5,Clothing,Debit Card,FALSE,TRUE,36.14,0
+CUST-4622,2/2/2025 11:50,39,Other,USA,Desktop,331,6,461.93,3,Books,Cryptocurrency,FALSE,FALSE,99.63,0
+CUST-7881,2/1/2025 14:22,53,Other,India,Desktop,3431,13,456.48,3,Clothing,Credit Card,TRUE,FALSE,73.72,0
+CUST-8230,2/2/2025 12:00,63,Female,UK,Desktop,3117,2,299.88,2,Clothing,Credit Card,TRUE,TRUE,67.3,0
+CUST-9642,2/2/2025 4:52,46,Female,India,Tablet,2733,19,484.01,3,Beauty,PayPal,FALSE,FALSE,16.25,1
+CUST-7504,2/1/2025 21:42,62,Female,Canada,Tablet,1462,12,412.48,3,Home Decor,PayPal,TRUE,FALSE,21.21,1
+CUST-6530,2/2/2025 12:15,48,Male,India,Tablet,1348,10,192.57,4,Books,Cryptocurrency,TRUE,TRUE,51.16,0
+CUST-6564,2/1/2025 14:32,38,Female,Australia,Desktop,3576,20,408.63,5,Books,PayPal,TRUE,FALSE,88.54,0
+CUST-8702,2/2/2025 5:08,48,Male,UK,Tablet,1618,10,214.05,1,Books,Net Banking,FALSE,TRUE,10.64,1
+CUST-9503,2/2/2025 5:12,55,Male,Australia,Tablet,213,14,191.14,5,Sports,Net Banking,FALSE,FALSE,95.9,0
+CUST-2743,2/2/2025 5:16,40,Other,Germany,Mobile,288,1,164.72,2,Home Decor,PayPal,TRUE,TRUE,87,0
+CUST-6159,2/1/2025 22:00,51,Female,Canada,Tablet,3470,17,384.23,2,Beauty,PayPal,TRUE,TRUE,79.85,0
+CUST-2965,2/2/2025 12:45,33,Other,Germany,Desktop,2778,11,457.36,0,Beauty,Cryptocurrency,FALSE,FALSE,40.5,0
+CUST-5460,2/2/2025 12:50,53,Female,UK,Mobile,1411,14,237.4,0,Clothing,PayPal,TRUE,FALSE,44.91,0
+CUST-9281,2/1/2025 7:23,65,Male,Australia,Desktop,1173,3,181.79,0,Beauty,Net Banking,FALSE,TRUE,21.15,1
+CUST-7192,2/2/2025 13:00,44,Female,Australia,Tablet,1560,3,472.14,5,Beauty,Debit Card,FALSE,FALSE,88.02,0
+CUST-2330,2/2/2025 5:40,47,Other,Australia,Mobile,162,18,31.1,2,Home Decor,PayPal,FALSE,FALSE,46.47,0
+CUST-4037,2/1/2025 14:52,44,Other,India,Mobile,2556,19,236.32,4,Clothing,PayPal,FALSE,FALSE,4.96,1
+CUST-9971,2/2/2025 13:15,39,Other,USA,Tablet,541,11,201.82,4,Clothing,Net Banking,TRUE,FALSE,44.97,0
+CUST-4348,2/2/2025 5:52,30,Female,Germany,Tablet,2172,17,82.47,2,Beauty,PayPal,FALSE,TRUE,32.76,0
+CUST-3190,2/2/2025 13:25,24,Female,USA,Desktop,1440,12,415.39,4,Books,Debit Card,FALSE,FALSE,74.37,0
+CUST-8411,2/2/2025 13:30,22,Male,UK,Mobile,2798,1,138.28,0,Beauty,Cryptocurrency,TRUE,FALSE,97.96,0
+CUST-7640,2/2/2025 6:04,60,Female,UK,Mobile,3528,11,21.7,5,Beauty,PayPal,TRUE,FALSE,3.73,1
+CUST-7082,2/1/2025 7:32,51,Female,Germany,Desktop,1884,5,184.16,2,Beauty,Cryptocurrency,TRUE,FALSE,83.43,0
+CUST-7801,2/1/2025 15:06,41,Female,Australia,Tablet,2081,17,478.5,0,Home Decor,Debit Card,TRUE,FALSE,18.93,1
+CUST-1340,2/2/2025 6:16,54,Female,Australia,Desktop,2554,16,11.57,2,Books,Debit Card,TRUE,FALSE,57.21,0
+CUST-9437,2/2/2025 13:55,65,Other,Germany,Mobile,224,6,174.97,5,Electronics,Net Banking,TRUE,FALSE,11.06,1
+CUST-6622,2/1/2025 22:48,41,Female,Germany,Desktop,3259,8,436.8,3,Beauty,PayPal,FALSE,FALSE,3.88,1
+CUST-2965,2/1/2025 7:37,45,Other,Germany,Mobile,498,3,212.91,3,Electronics,Credit Card,TRUE,FALSE,19.24,1
+CUST-4519,2/1/2025 22:54,52,Other,India,Tablet,2279,11,495.83,4,Clothing,Net Banking,FALSE,TRUE,87.71,0
+CUST-2197,2/1/2025 15:18,24,Female,Australia,Desktop,1034,13,411.11,3,Books,Cryptocurrency,FALSE,FALSE,65.63,0
+CUST-9468,2/2/2025 14:20,24,Other,UK,Tablet,2648,8,314.23,2,Clothing,Debit Card,TRUE,TRUE,66.59,0
+CUST-3171,2/2/2025 14:25,54,Other,UK,Desktop,863,2,334.82,4,Electronics,Cryptocurrency,TRUE,FALSE,96.62,0
+CUST-5988,2/2/2025 14:30,45,Male,UK,Desktop,2204,9,282.67,1,Electronics,Debit Card,FALSE,TRUE,94.21,0
+CUST-1015,2/2/2025 14:35,49,Female,India,Desktop,1050,16,191.64,2,Clothing,Cryptocurrency,TRUE,TRUE,45.3,0
+CUST-1867,2/1/2025 7:44,21,Female,India,Desktop,2281,6,21.06,5,Electronics,Cryptocurrency,FALSE,FALSE,76.26,0
+CUST-4732,2/1/2025 23:15,39,Male,Canada,Mobile,640,19,149.62,4,Beauty,Cryptocurrency,FALSE,TRUE,65.29,0
+CUST-5819,2/2/2025 14:50,44,Male,USA,Desktop,2018,8,289.33,5,Sports,Debit Card,FALSE,TRUE,80.12,0
+CUST-1993,2/2/2025 14:55,54,Female,Canada,Mobile,1686,12,388.05,3,Electronics,PayPal,TRUE,TRUE,41.36,0
+CUST-6159,2/2/2025 7:12,41,Other,India,Desktop,2155,18,390.71,0,Books,PayPal,FALSE,TRUE,36.72,0
+CUST-3821,2/2/2025 15:05,38,Female,USA,Mobile,1504,5,406.14,3,Sports,Debit Card,TRUE,TRUE,7.92,1
+CUST-7526,2/1/2025 15:40,39,Female,Australia,Desktop,3090,11,120.96,4,Sports,Net Banking,TRUE,FALSE,9.02,1
+CUST-2737,2/1/2025 23:33,55,Female,Germany,Desktop,207,3,118.13,4,Beauty,Credit Card,FALSE,FALSE,46.79,0
+CUST-2263,2/2/2025 15:20,52,Female,Australia,Tablet,778,15,399.88,0,Beauty,Cryptocurrency,FALSE,FALSE,24.61,1
+CUST-4281,2/2/2025 15:25,48,Other,India,Tablet,2237,5,373.66,1,Clothing,Credit Card,TRUE,TRUE,63.34,0
+CUST-9253,2/2/2025 15:30,49,Female,Australia,Mobile,202,11,392.54,0,Electronics,Credit Card,TRUE,FALSE,67.87,0
+CUST-2614,2/2/2025 7:40,40,Female,Canada,Tablet,3030,10,74.9,5,Beauty,Credit Card,FALSE,TRUE,12.4,1
+CUST-6691,2/1/2025 7:56,37,Female,UK,Mobile,2604,5,111.71,5,Sports,Credit Card,FALSE,FALSE,65.03,0
+CUST-3662,2/1/2025 7:57,26,Male,Canada,Desktop,3022,20,134.85,0,Clothing,Net Banking,TRUE,FALSE,56.68,0
+CUST-4787,2/2/2025 15:50,29,Male,USA,Mobile,1740,7,280.63,2,Beauty,Net Banking,TRUE,FALSE,59.49,0
+CUST-1805,2/1/2025 15:58,55,Female,UK,Tablet,2839,18,336.17,1,Beauty,PayPal,TRUE,TRUE,79.35,0
+CUST-9694,2/1/2025 16:00,36,Female,India,Mobile,2530,10,247.32,4,Home Decor,PayPal,FALSE,FALSE,78.54,0
+CUST-6969,2/2/2025 16:05,63,Other,India,Desktop,3512,7,64.05,5,Clothing,Credit Card,TRUE,FALSE,82.17,0
+CUST-4916,2/2/2025 0:06,54,Other,India,Desktop,2527,18,495.34,3,Sports,Credit Card,FALSE,FALSE,0.32,1
+CUST-7415,2/1/2025 16:06,61,Female,Canada,Tablet,463,5,432.91,1,Electronics,Debit Card,FALSE,TRUE,96.88,0
+CUST-9331,2/2/2025 16:20,55,Male,Australia,Mobile,2154,8,110.28,2,Electronics,PayPal,FALSE,TRUE,42.86,0
+CUST-3221,2/1/2025 8:05,39,Female,Australia,Desktop,2468,17,498.54,3,Clothing,PayPal,FALSE,TRUE,17.18,1
+CUST-8354,2/2/2025 8:24,24,Other,India,Tablet,1367,19,407.51,0,Home Decor,Debit Card,FALSE,TRUE,83.51,0
+CUST-4669,2/2/2025 16:35,37,Other,Australia,Mobile,2339,7,25.04,3,Sports,Debit Card,TRUE,FALSE,9.03,1
+CUST-6411,2/1/2025 16:16,48,Other,India,Mobile,1574,12,255.69,5,Electronics,Credit Card,TRUE,TRUE,10.46,1
+CUST-7709,2/1/2025 8:09,19,Female,UK,Mobile,2042,9,37.18,0,Home Decor,Net Banking,FALSE,FALSE,1.36,1
+CUST-6851,2/2/2025 8:40,38,Female,USA,Mobile,2148,3,45.95,4,Clothing,Net Banking,TRUE,FALSE,35.78,0
+CUST-6142,2/2/2025 8:44,58,Other,UK,Mobile,3217,20,390.13,3,Clothing,Net Banking,FALSE,FALSE,44.41,0
+CUST-2102,2/1/2025 16:24,50,Male,Canada,Tablet,1216,4,441.32,5,Beauty,PayPal,TRUE,FALSE,54.88,0
+CUST-5775,2/1/2025 16:26,49,Other,Germany,Mobile,3510,9,63.72,5,Home Decor,Credit Card,FALSE,TRUE,70.42,0
+CUST-9322,2/2/2025 8:56,45,Other,UK,Tablet,370,9,413.2,5,Books,Debit Card,TRUE,FALSE,31.2,0
+CUST-5666,2/2/2025 17:15,50,Male,Germany,Tablet,2480,3,247.09,3,Home Decor,Cryptocurrency,TRUE,TRUE,33.55,0
+CUST-6557,2/1/2025 8:16,52,Female,India,Tablet,575,1,389.48,0,Books,Credit Card,TRUE,TRUE,44.51,0
+CUST-2902,2/2/2025 0:51,18,Male,India,Mobile,2050,12,487.1,1,Electronics,Credit Card,TRUE,TRUE,55.41,0
+CUST-7649,2/2/2025 9:12,39,Female,Germany,Mobile,496,17,237.67,3,Clothing,Net Banking,FALSE,TRUE,7.38,1
+CUST-7676,2/2/2025 0:57,29,Female,India,Tablet,869,5,102.05,3,Books,Debit Card,TRUE,FALSE,72.43,0
+CUST-6411,2/1/2025 16:40,64,Female,Australia,Mobile,2065,15,366.91,2,Beauty,PayPal,FALSE,FALSE,60.04,0
+CUST-4680,2/2/2025 17:45,28,Other,Canada,Desktop,3473,15,156.95,5,Books,Debit Card,TRUE,FALSE,83.03,0
+CUST-1963,2/1/2025 8:22,57,Other,UK,Tablet,1124,6,53.18,3,Home Decor,Net Banking,FALSE,FALSE,82.14,0
+CUST-1745,2/1/2025 8:23,53,Male,Australia,Tablet,337,13,408.18,4,Books,Debit Card,FALSE,TRUE,33.01,0
+CUST-7335,2/1/2025 8:24,62,Male,USA,Tablet,1378,4,56.12,1,Beauty,PayPal,FALSE,TRUE,25.98,1
+CUST-8990,2/2/2025 18:05,48,Other,Australia,Mobile,2711,1,298.52,4,Home Decor,Net Banking,FALSE,FALSE,6.83,1
+CUST-9419,2/1/2025 8:26,36,Other,Australia,Tablet,775,12,167.07,1,Clothing,Cryptocurrency,TRUE,TRUE,28.81,1
+CUST-1970,2/2/2025 1:21,49,Female,USA,Desktop,1524,11,89.02,4,Home Decor,Cryptocurrency,TRUE,FALSE,94.45,0
+CUST-3462,2/2/2025 9:52,35,Other,Germany,Desktop,1394,14,317.06,1,Beauty,Net Banking,TRUE,FALSE,56.17,0
+CUST-6639,2/2/2025 18:25,43,Female,India,Mobile,1663,13,119.17,2,Beauty,Credit Card,FALSE,TRUE,99.85,0
+CUST-1995,2/2/2025 18:30,63,Female,USA,Desktop,127,18,169.87,4,Beauty,PayPal,FALSE,FALSE,21.81,1
+CUST-4773,2/2/2025 18:35,21,Female,Germany,Mobile,2273,10,261.87,4,Electronics,Credit Card,FALSE,TRUE,45.66,0
+CUST-8923,2/1/2025 17:04,32,Other,USA,Desktop,1485,6,280.15,4,Books,Debit Card,TRUE,TRUE,85.31,0
+CUST-4657,2/1/2025 17:06,24,Female,Canada,Desktop,167,1,442.86,0,Home Decor,Cryptocurrency,TRUE,TRUE,92.45,0
+CUST-4833,2/2/2025 1:42,50,Female,UK,Mobile,141,13,447.7,4,Home Decor,Cryptocurrency,TRUE,TRUE,14.01,1
+CUST-2159,2/2/2025 10:20,25,Female,UK,Mobile,3139,2,241.81,3,Sports,PayPal,FALSE,TRUE,36.77,0
+CUST-8712,2/1/2025 8:36,52,Other,India,Mobile,1386,10,155.56,2,Home Decor,Cryptocurrency,FALSE,FALSE,39.19,0
+CUST-6287,2/2/2025 19:05,25,Male,Australia,Tablet,409,2,366.75,4,Beauty,Cryptocurrency,TRUE,FALSE,39.42,0
+CUST-5622,2/1/2025 17:16,46,Male,UK,Desktop,3013,14,269.42,0,Electronics,Debit Card,TRUE,TRUE,57.61,0
+CUST-3644,2/2/2025 1:57,30,Female,Australia,Mobile,1575,16,194.87,0,Beauty,PayPal,TRUE,TRUE,55.1,0
+CUST-8545,2/1/2025 17:20,31,Female,USA,Desktop,1036,11,395.28,4,Sports,Cryptocurrency,FALSE,FALSE,44.89,0
+CUST-2646,2/2/2025 10:44,22,Female,UK,Tablet,1914,16,146.67,5,Sports,Credit Card,TRUE,FALSE,21.26,1
+CUST-7946,2/2/2025 10:48,32,Other,Australia,Desktop,319,10,226.51,4,Clothing,Net Banking,TRUE,FALSE,16.66,1
+CUST-1475,2/2/2025 19:35,59,Male,India,Tablet,1835,8,269.41,3,Sports,Cryptocurrency,FALSE,FALSE,83.87,0
+CUST-1906,2/1/2025 8:44,65,Other,India,Desktop,741,10,96.04,5,Beauty,Net Banking,TRUE,TRUE,97.54,0
+CUST-8004,2/1/2025 8:45,47,Male,UK,Desktop,673,15,30.53,2,Electronics,Credit Card,FALSE,FALSE,83.46,0
+CUST-3105,2/1/2025 8:46,38,Male,Australia,Tablet,1830,7,273.7,0,Electronics,Net Banking,TRUE,FALSE,74.46,0
+CUST-8774,2/2/2025 2:21,53,Other,Germany,Mobile,2808,13,454.24,4,Sports,Credit Card,FALSE,FALSE,49.1,0
+CUST-3817,2/1/2025 17:36,44,Male,UK,Mobile,3508,3,276.76,5,Clothing,PayPal,TRUE,FALSE,54.63,0
+CUST-5992,2/1/2025 17:38,36,Female,Australia,Desktop,2796,2,339.7,5,Electronics,PayPal,TRUE,FALSE,65.55,0
+CUST-2135,2/1/2025 17:40,49,Other,UK,Tablet,3396,4,156.28,1,Beauty,Credit Card,TRUE,FALSE,75.25,0
+CUST-4539,2/2/2025 2:33,33,Female,USA,Tablet,3211,7,105.09,4,Beauty,Cryptocurrency,TRUE,FALSE,79.6,0
+CUST-2284,2/1/2025 8:52,37,Other,India,Tablet,2070,11,253.92,0,Books,Cryptocurrency,TRUE,TRUE,49.36,0
+CUST-4906,2/1/2025 8:53,20,Other,Australia,Mobile,650,8,17.67,4,Sports,PayPal,FALSE,FALSE,19.51,1
+CUST-6087,2/1/2025 8:54,36,Other,Canada,Desktop,422,9,54.69,1,Clothing,Net Banking,FALSE,TRUE,58.45,0
+CUST-7982,2/2/2025 2:45,51,Male,USA,Tablet,2865,13,126.56,0,Sports,Cryptocurrency,TRUE,TRUE,63.77,0
+CUST-5423,2/2/2025 20:40,63,Female,Canada,Tablet,2882,19,248.64,1,Electronics,PayPal,FALSE,TRUE,80.27,0
+CUST-8800,2/1/2025 8:57,25,Female,UK,Tablet,3196,1,146.33,5,Beauty,PayPal,TRUE,FALSE,22.07,1
+CUST-8890,2/1/2025 17:56,57,Other,Germany,Mobile,2652,6,74.77,3,Beauty,Debit Card,FALSE,TRUE,74.86,0
+CUST-7610,2/2/2025 20:55,24,Male,Germany,Mobile,2696,3,49.94,4,Beauty,Net Banking,FALSE,FALSE,15.11,1
+CUST-6649,2/1/2025 18:00,29,Other,Germany,Tablet,2499,12,254.94,3,Beauty,PayPal,TRUE,FALSE,26.34,1
+CUST-7814,2/1/2025 9:01,65,Male,Australia,Tablet,1579,4,233.45,4,Home Decor,Net Banking,TRUE,TRUE,88.7,0
+CUST-4441,2/2/2025 3:06,46,Other,India,Desktop,749,1,90.71,3,Electronics,Credit Card,TRUE,TRUE,16.28,1
+CUST-2862,2/2/2025 12:12,59,Female,UK,Tablet,2366,5,353.85,3,Home Decor,Debit Card,TRUE,FALSE,38.89,0
+CUST-3510,2/1/2025 18:08,19,Other,India,Desktop,2916,15,88.29,0,Beauty,Debit Card,TRUE,FALSE,27,1
+CUST-8043,2/2/2025 21:25,32,Female,Canada,Desktop,1262,17,334.62,4,Sports,Cryptocurrency,TRUE,TRUE,51.51,0
+CUST-3154,2/2/2025 12:24,58,Female,India,Tablet,2873,5,350.16,4,Electronics,Net Banking,FALSE,TRUE,35.82,0
+CUST-5592,2/1/2025 9:07,65,Female,Canada,Mobile,3034,9,68.34,1,Clothing,Debit Card,TRUE,TRUE,44.21,0
+CUST-6999,2/1/2025 9:08,54,Other,UK,Tablet,2455,9,0.37,4,Electronics,Cryptocurrency,TRUE,FALSE,69.49,0
+CUST-2091,2/1/2025 9:09,57,Female,UK,Tablet,2297,19,282.85,4,Electronics,PayPal,FALSE,FALSE,56.06,0
+CUST-6008,2/2/2025 21:50,46,Female,Germany,Tablet,2090,17,357.35,2,Books,Net Banking,TRUE,FALSE,25.05,1
+CUST-5365,2/1/2025 18:22,48,Male,UK,Mobile,1623,3,71.26,2,Sports,Cryptocurrency,FALSE,FALSE,32.62,0
+CUST-6831,2/2/2025 12:48,49,Male,Germany,Tablet,163,16,422.96,5,Beauty,Debit Card,FALSE,TRUE,7.95,1
+CUST-7153,2/2/2025 3:39,44,Other,India,Mobile,3426,7,153.11,1,Electronics,Net Banking,FALSE,TRUE,91.09,0
+CUST-9033,2/1/2025 9:14,63,Other,UK,Tablet,614,9,129.86,0,Clothing,Debit Card,TRUE,FALSE,22.9,1
+CUST-3292,2/2/2025 3:45,19,Female,Germany,Desktop,2668,15,332.87,1,Books,PayPal,TRUE,TRUE,30.76,0
+CUST-2287,2/2/2025 22:20,63,Male,USA,Mobile,1742,17,258.17,2,Clothing,Cryptocurrency,TRUE,FALSE,90.29,0
+CUST-4569,2/2/2025 3:51,34,Female,Germany,Desktop,1399,12,193.02,3,Books,Net Banking,TRUE,FALSE,92.55,0
+CUST-2411,2/1/2025 9:18,51,Female,USA,Desktop,945,3,436.36,0,Clothing,PayPal,FALSE,FALSE,74.79,0
+CUST-5972,2/2/2025 13:16,29,Male,Germany,Desktop,3394,3,268.67,5,Books,PayPal,FALSE,TRUE,89.65,0
+CUST-4820,2/2/2025 22:40,42,Male,Canada,Mobile,3088,15,476.25,3,Home Decor,Debit Card,TRUE,TRUE,34.35,0
+CUST-6241,2/1/2025 9:21,28,Other,Canada,Mobile,2691,15,207.66,2,Electronics,Debit Card,FALSE,FALSE,24.03,1
+CUST-1285,2/2/2025 4:06,59,Male,UK,Desktop,46,11,264.91,3,Clothing,Net Banking,FALSE,FALSE,69.84,0
+CUST-1501,2/2/2025 4:09,22,Other,Canada,Mobile,1206,17,220.06,4,Beauty,PayPal,FALSE,FALSE,17.43,1
+CUST-2588,2/1/2025 18:48,52,Female,USA,Tablet,637,19,277.78,2,Beauty,PayPal,FALSE,TRUE,62.28,0
+CUST-9980,2/2/2025 23:05,25,Male,Canada,Mobile,1298,17,231.6,0,Sports,Credit Card,TRUE,FALSE,95.81,0
+CUST-6946,2/2/2025 4:18,55,Female,Australia,Tablet,2858,10,459.65,5,Home Decor,Debit Card,FALSE,TRUE,65.8,0
+CUST-5294,2/1/2025 18:54,62,Female,Germany,Tablet,3019,15,63.55,4,Beauty,Cryptocurrency,FALSE,FALSE,2.4,1
+CUST-1691,2/2/2025 4:24,51,Other,India,Desktop,3150,15,32.19,3,Beauty,Net Banking,TRUE,FALSE,6.59,1
+CUST-9895,2/1/2025 9:29,47,Other,UK,Tablet,2181,3,44.19,4,Clothing,Credit Card,TRUE,FALSE,16.41,1
+CUST-6126,2/1/2025 9:30,42,Female,USA,Desktop,1211,9,105.18,4,Home Decor,Credit Card,FALSE,FALSE,57.93,0
+CUST-3808,2/2/2025 14:04,65,Male,Canada,Desktop,403,11,369.16,1,Sports,Net Banking,TRUE,TRUE,39.19,0
+CUST-7889,2/1/2025 19:04,40,Male,Canada,Tablet,61,13,490.24,0,Books,PayPal,TRUE,FALSE,82.29,0
+CUST-1610,2/1/2025 19:06,36,Other,Germany,Desktop,3299,14,496.46,3,Clothing,Credit Card,TRUE,TRUE,83.11,0
+CUST-3970,2/1/2025 19:08,40,Female,UK,Tablet,2474,10,101.5,1,Clothing,Credit Card,FALSE,FALSE,59.89,0
+CUST-3227,2/1/2025 9:35,31,Male,India,Mobile,801,5,372.88,1,Clothing,PayPal,FALSE,TRUE,85.45,0
+CUST-3421,2/3/2025 0:00,30,Other,Canada,Mobile,3532,15,389.09,2,Clothing,PayPal,TRUE,TRUE,46.02,0
+CUST-7475,2/1/2025 19:14,34,Other,Australia,Tablet,121,20,279.26,3,Beauty,Credit Card,FALSE,FALSE,1.9,1
+CUST-1818,2/2/2025 4:54,41,Other,USA,Mobile,1103,11,232.3,4,Sports,Cryptocurrency,FALSE,TRUE,55.43,0
+CUST-4486,2/3/2025 0:15,20,Other,UK,Mobile,3528,8,347.94,2,Home Decor,Credit Card,TRUE,FALSE,21.43,1
+CUST-1805,2/2/2025 5:00,45,Male,Germany,Mobile,568,1,454.7,1,Sports,PayPal,TRUE,FALSE,69.51,0
+CUST-2308,2/2/2025 14:44,48,Other,Canada,Mobile,3357,7,319.94,1,Books,Net Banking,TRUE,FALSE,8.11,1
+CUST-7728,2/2/2025 14:48,54,Other,India,Tablet,2825,4,306.98,0,Sports,Credit Card,FALSE,TRUE,88.25,0
+CUST-6851,2/3/2025 0:35,51,Female,USA,Tablet,2305,13,228.35,1,Beauty,PayPal,FALSE,TRUE,78.49,0
+CUST-6370,2/3/2025 0:40,44,Other,Canada,Mobile,2677,2,84.75,0,Sports,PayPal,FALSE,FALSE,46.46,0
+CUST-8145,2/1/2025 9:45,19,Female,Canada,Tablet,2204,1,253.6,0,Beauty,PayPal,TRUE,TRUE,71.03,0
+CUST-8265,2/2/2025 5:18,44,Male,Australia,Desktop,3464,14,415.3,4,Beauty,Net Banking,FALSE,TRUE,92.97,0
+CUST-8172,2/3/2025 0:55,35,Other,UK,Mobile,1225,12,79.23,4,Electronics,Net Banking,TRUE,FALSE,24.81,1
+CUST-3968,2/1/2025 9:48,30,Female,Canada,Mobile,2219,10,483.99,4,Electronics,Credit Card,TRUE,TRUE,40.04,0
+CUST-3124,2/2/2025 15:16,32,Female,India,Desktop,858,18,328.12,3,Sports,Debit Card,FALSE,FALSE,33,0
+CUST-3783,2/3/2025 1:10,25,Male,Australia,Tablet,3549,3,368.04,2,Electronics,Net Banking,FALSE,TRUE,37.2,0
+CUST-8735,2/1/2025 9:51,20,Female,Canada,Mobile,116,13,214.13,4,Books,Debit Card,TRUE,FALSE,61.52,0
+CUST-2109,2/1/2025 9:52,54,Female,Canada,Tablet,1303,14,308.6,0,Electronics,Cryptocurrency,TRUE,FALSE,58.39,0
+CUST-3034,2/1/2025 9:53,34,Male,Australia,Desktop,2808,19,235.54,0,Sports,Debit Card,TRUE,TRUE,96.31,0
+CUST-9024,2/2/2025 15:36,44,Male,Australia,Desktop,1775,6,45.26,0,Home Decor,Net Banking,FALSE,FALSE,11.47,1
+CUST-3562,2/2/2025 15:40,61,Other,Canada,Desktop,2725,9,14.67,4,Home Decor,Credit Card,FALSE,FALSE,98.82,0
+CUST-4053,2/1/2025 9:56,64,Male,Germany,Tablet,817,14,269.68,2,Clothing,PayPal,FALSE,FALSE,89.82,0
+CUST-3760,2/2/2025 5:51,47,Male,UK,Desktop,1157,14,303.78,3,Beauty,Net Banking,FALSE,TRUE,34.32,0
+CUST-3459,2/2/2025 15:52,46,Other,UK,Desktop,3059,14,375.82,4,Electronics,Credit Card,FALSE,FALSE,33.03,0
+CUST-9090,2/3/2025 1:55,42,Female,Germany,Desktop,2892,18,406.15,0,Electronics,Debit Card,FALSE,TRUE,30.67,0
+CUST-1451,2/1/2025 10:00,54,Male,Canada,Mobile,3487,19,353.89,2,Books,Net Banking,TRUE,FALSE,34.03,0
+CUST-8704,2/3/2025 2:05,52,Male,Germany,Mobile,3420,12,80.39,4,Clothing,Cryptocurrency,TRUE,TRUE,93.25,0
+CUST-3131,2/2/2025 16:08,62,Female,UK,Tablet,308,15,3.5,2,Books,Cryptocurrency,TRUE,FALSE,14.56,1
+CUST-4982,2/2/2025 6:09,18,Male,Germany,Desktop,3217,2,5.72,5,Electronics,Debit Card,FALSE,FALSE,57.99,0
+CUST-9685,2/2/2025 6:12,22,Female,India,Tablet,659,4,103.97,5,Books,PayPal,TRUE,FALSE,51.91,0
+CUST-6242,2/1/2025 20:10,65,Female,Canada,Desktop,853,1,196.41,3,Home Decor,PayPal,FALSE,TRUE,13.85,1
+CUST-1009,2/1/2025 10:06,34,Male,Australia,Tablet,3235,13,44.45,3,Sports,PayPal,FALSE,FALSE,32.46,0
+CUST-8423,2/2/2025 16:28,64,Female,Canada,Desktop,586,11,136.45,5,Electronics,Net Banking,FALSE,TRUE,24.61,1
+CUST-2542,2/1/2025 20:16,32,Female,Germany,Desktop,2447,15,220.75,5,Beauty,Net Banking,TRUE,TRUE,6.57,1
+CUST-6436,2/2/2025 16:36,34,Male,Canada,Tablet,2444,11,195.97,1,Sports,Cryptocurrency,FALSE,FALSE,18.07,1
+CUST-9523,2/2/2025 16:40,59,Male,USA,Tablet,1844,8,186.99,0,Books,PayPal,FALSE,FALSE,60.46,0
+CUST-8694,2/1/2025 10:11,55,Other,India,Desktop,1246,5,442.15,0,Home Decor,Net Banking,FALSE,FALSE,92.71,0
+CUST-4441,2/2/2025 16:48,64,Other,USA,Tablet,194,17,196.24,1,Books,PayPal,TRUE,TRUE,81.28,0
+CUST-6200,2/2/2025 16:52,53,Female,Germany,Mobile,2857,3,494.55,5,Home Decor,Net Banking,FALSE,TRUE,4.83,1
+CUST-6241,2/1/2025 10:14,56,Female,Australia,Mobile,1781,13,100.31,3,Electronics,Debit Card,TRUE,FALSE,24.99,1
+CUST-6098,2/1/2025 20:30,33,Male,UK,Mobile,2920,9,70.16,1,Sports,PayPal,TRUE,FALSE,67.55,0
+CUST-8593,2/3/2025 3:20,55,Female,India,Mobile,393,6,428.03,1,Home Decor,Debit Card,FALSE,TRUE,95.34,0
+CUST-2017,2/1/2025 10:17,20,Female,Australia,Mobile,1214,5,124.1,5,Beauty,Cryptocurrency,TRUE,FALSE,62.82,0
+CUST-5128,2/1/2025 20:36,33,Female,India,Desktop,613,4,497.36,1,Beauty,Net Banking,TRUE,FALSE,82.99,0
+CUST-9666,2/2/2025 17:16,58,Other,Germany,Desktop,3573,15,60.09,0,Sports,Credit Card,FALSE,FALSE,1.33,1
+CUST-5131,2/1/2025 10:20,44,Male,Canada,Desktop,1197,18,427.59,2,Clothing,Debit Card,TRUE,FALSE,12.96,1
+CUST-8384,2/2/2025 7:03,46,Female,Canada,Tablet,366,13,261.8,4,Clothing,Net Banking,FALSE,FALSE,61.84,0
+CUST-2916,2/3/2025 3:50,30,Female,India,Desktop,1829,13,410.6,4,Clothing,PayPal,TRUE,FALSE,8.1,1
+CUST-7751,2/2/2025 17:32,50,Other,Canada,Tablet,2219,14,114.34,1,Beauty,PayPal,TRUE,TRUE,96.83,0
+CUST-7837,2/1/2025 10:24,59,Other,Australia,Tablet,279,8,162.05,5,Beauty,Cryptocurrency,TRUE,FALSE,49.31,0
+CUST-8580,2/3/2025 4:05,27,Male,India,Desktop,167,18,236.88,2,Beauty,Cryptocurrency,FALSE,FALSE,9.08,1
+CUST-2621,2/1/2025 20:52,22,Male,India,Tablet,2545,20,486.72,4,Beauty,PayPal,TRUE,FALSE,46.97,0
+CUST-6746,2/3/2025 4:15,45,Male,USA,Tablet,697,13,301.38,2,Beauty,Debit Card,FALSE,TRUE,61.67,0
+CUST-3557,2/1/2025 20:56,41,Male,Australia,Tablet,1124,5,344.98,0,Sports,Cryptocurrency,FALSE,FALSE,53.51,0
+CUST-2892,2/1/2025 10:29,31,Female,India,Mobile,3014,14,243.88,0,Books,Debit Card,FALSE,FALSE,23.04,1
+CUST-2812,2/1/2025 21:00,51,Male,Canada,Mobile,3549,4,249.3,0,Home Decor,Cryptocurrency,TRUE,TRUE,94.34,0
+CUST-1517,2/3/2025 4:35,52,Other,Canada,Tablet,1044,19,64.8,0,Electronics,Credit Card,TRUE,TRUE,6.94,1
+CUST-4135,2/2/2025 7:36,35,Female,UK,Mobile,731,13,422.5,2,Sports,Debit Card,FALSE,FALSE,90.72,0
+CUST-5932,2/2/2025 18:12,49,Female,USA,Tablet,3128,14,488.01,4,Beauty,Net Banking,FALSE,FALSE,54.45,0
+CUST-6014,2/1/2025 10:34,19,Other,Australia,Desktop,1058,2,474.5,0,Clothing,PayPal,FALSE,FALSE,50.17,0
+CUST-4496,2/3/2025 4:55,51,Male,UK,Tablet,737,13,466.02,1,Home Decor,Credit Card,TRUE,TRUE,63.26,0
+CUST-3419,2/3/2025 5:00,59,Other,USA,Tablet,1995,15,71.75,3,Electronics,Debit Card,FALSE,TRUE,1.47,1
+CUST-5956,2/1/2025 10:37,30,Male,USA,Tablet,1585,11,240.34,0,Beauty,Cryptocurrency,TRUE,TRUE,15.01,1
+CUST-7915,2/2/2025 18:32,44,Female,Canada,Tablet,2204,6,16.88,2,Electronics,Net Banking,TRUE,FALSE,61.11,0
+CUST-9055,2/2/2025 18:36,47,Other,USA,Desktop,2151,15,38.14,2,Books,Credit Card,FALSE,FALSE,0.43,1
+CUST-4501,2/2/2025 18:40,42,Other,UK,Desktop,363,18,249.97,3,Beauty,Net Banking,TRUE,TRUE,21.95,1
+CUST-3327,2/1/2025 21:22,49,Female,Australia,Tablet,1235,10,127.09,3,Books,PayPal,FALSE,FALSE,34.88,0
+CUST-7989,2/2/2025 18:48,18,Female,UK,Desktop,1140,4,8.24,3,Books,Cryptocurrency,TRUE,FALSE,15.57,1
+CUST-6301,2/1/2025 21:26,36,Male,Germany,Tablet,2283,20,169.12,3,Sports,Credit Card,TRUE,TRUE,60.86,0
+CUST-5391,2/3/2025 5:40,35,Male,UK,Desktop,1712,8,371.73,4,Books,Credit Card,FALSE,TRUE,85.17,0
+CUST-2708,2/3/2025 5:45,24,Male,Canada,Desktop,1753,8,491.03,2,Sports,Credit Card,FALSE,TRUE,73.77,0
+CUST-7925,2/2/2025 19:04,44,Male,India,Tablet,1054,12,309.61,5,Clothing,Net Banking,FALSE,TRUE,47.09,0
+CUST-2963,2/1/2025 10:47,25,Male,USA,Mobile,509,16,272.05,1,Books,Credit Card,FALSE,FALSE,90.07,0
+CUST-4920,2/1/2025 10:48,33,Male,India,Mobile,2616,10,21.27,3,Clothing,Net Banking,TRUE,FALSE,26.42,1
+CUST-1937,2/2/2025 19:16,35,Female,India,Desktop,3252,20,136.86,3,Books,Debit Card,TRUE,FALSE,17.72,1
+CUST-4846,2/2/2025 19:20,19,Female,India,Mobile,1923,3,187.77,1,Electronics,Credit Card,FALSE,TRUE,66.48,0
+CUST-6666,2/2/2025 8:33,51,Other,Australia,Tablet,2210,19,263.79,2,Sports,Net Banking,FALSE,TRUE,83.36,0
+CUST-9194,2/3/2025 6:20,60,Male,India,Mobile,2606,16,67.31,2,Books,Net Banking,TRUE,TRUE,44.87,0
+CUST-6491,2/2/2025 8:39,38,Male,Germany,Mobile,622,16,264.98,2,Books,PayPal,FALSE,FALSE,43.09,0
+CUST-5937,2/2/2025 19:36,19,Male,Australia,Tablet,925,8,319.49,1,Clothing,PayPal,TRUE,TRUE,82.25,0
+CUST-3354,2/1/2025 10:55,39,Male,India,Mobile,791,4,63,0,Home Decor,Cryptocurrency,FALSE,FALSE,67.83,0
+CUST-8446,2/1/2025 10:56,47,Other,Germany,Tablet,3235,6,267.96,4,Electronics,Credit Card,TRUE,FALSE,55,0
+CUST-1250,2/1/2025 21:54,37,Female,Germany,Mobile,1851,17,268.11,3,Electronics,PayPal,TRUE,FALSE,25.22,1
+CUST-1541,2/1/2025 10:58,18,Female,UK,Desktop,2693,17,490.77,5,Electronics,Credit Card,FALSE,TRUE,71.74,0
+CUST-9014,2/2/2025 8:57,30,Other,Canada,Desktop,3049,12,470.57,5,Electronics,PayPal,FALSE,TRUE,82.57,0
+CUST-3274,2/2/2025 20:00,23,Female,Australia,Tablet,162,11,117.66,1,Electronics,Cryptocurrency,FALSE,TRUE,63.58,0
+CUST-7272,2/2/2025 20:04,57,Female,UK,Desktop,200,12,213.92,1,Beauty,Credit Card,FALSE,FALSE,43.54,0
+CUST-5311,2/2/2025 20:08,34,Other,UK,Desktop,982,15,142.55,3,Beauty,Credit Card,FALSE,TRUE,16.02,1
+CUST-2730,2/3/2025 7:15,34,Other,UK,Tablet,298,13,56.52,0,Home Decor,Debit Card,FALSE,TRUE,39.54,0
+CUST-8387,2/1/2025 22:08,19,Other,Germany,Desktop,2523,15,108.16,1,Electronics,Net Banking,TRUE,FALSE,76.75,0
+CUST-2415,2/3/2025 7:25,29,Female,Australia,Tablet,3505,18,105.85,2,Electronics,Debit Card,TRUE,TRUE,59.15,0
+CUST-9320,2/1/2025 11:06,23,Male,Australia,Desktop,493,19,230.14,4,Beauty,Cryptocurrency,TRUE,TRUE,47.66,0
+CUST-6420,2/1/2025 22:14,20,Male,India,Desktop,1750,6,47.05,1,Electronics,Credit Card,TRUE,FALSE,70.85,0
+CUST-6956,2/1/2025 11:08,59,Male,USA,Tablet,2250,1,236.07,4,Books,Cryptocurrency,TRUE,TRUE,32.84,0
+CUST-9471,2/1/2025 22:18,62,Female,Australia,Tablet,3416,5,4.91,2,Books,Net Banking,FALSE,FALSE,91.46,0
+CUST-1206,2/2/2025 20:40,41,Other,India,Desktop,686,15,356.91,4,Electronics,Credit Card,FALSE,TRUE,90.03,0
+CUST-3568,2/1/2025 11:11,45,Male,Australia,Desktop,3341,2,272.25,1,Beauty,Credit Card,FALSE,TRUE,3.14,1
+CUST-8469,2/1/2025 22:24,52,Male,USA,Tablet,664,19,360.99,1,Sports,Credit Card,TRUE,TRUE,57.45,0
+CUST-4136,2/1/2025 22:26,48,Other,Germany,Mobile,366,12,98.88,2,Clothing,PayPal,FALSE,FALSE,99.88,0
+CUST-5826,2/1/2025 22:28,64,Female,Australia,Tablet,1341,15,302.44,5,Electronics,Credit Card,FALSE,TRUE,83.41,0
+CUST-7214,2/2/2025 21:00,24,Male,Australia,Desktop,2878,11,478.22,5,Home Decor,Credit Card,FALSE,FALSE,54.99,0
+CUST-1308,2/3/2025 8:20,22,Male,USA,Desktop,2285,6,453.32,1,Sports,PayPal,TRUE,TRUE,71.79,0
+CUST-5950,2/2/2025 21:08,28,Female,USA,Desktop,2161,13,478.84,0,Electronics,PayPal,FALSE,TRUE,0.93,1
+CUST-2429,2/2/2025 21:12,25,Male,India,Desktop,2356,1,333.54,3,Books,Credit Card,FALSE,FALSE,70.45,0
+CUST-6510,2/1/2025 11:19,42,Male,Australia,Tablet,2205,7,434.29,3,Electronics,Net Banking,FALSE,FALSE,26.45,1
+CUST-8928,2/2/2025 10:00,31,Female,Canada,Mobile,3583,6,108.71,4,Home Decor,Credit Card,FALSE,FALSE,71.99,0
+CUST-3660,2/1/2025 22:42,47,Other,Germany,Tablet,3154,8,475.3,0,Home Decor,Cryptocurrency,FALSE,FALSE,7.12,1
+CUST-5131,2/2/2025 21:28,41,Other,Australia,Mobile,3562,9,201.92,4,Electronics,Debit Card,FALSE,FALSE,25.59,1
+CUST-6421,2/2/2025 21:32,46,Female,Germany,Desktop,2972,10,176.26,4,Books,Cryptocurrency,TRUE,FALSE,67.17,0
+CUST-1100,2/2/2025 21:36,49,Male,Germany,Tablet,3272,4,483.92,1,Electronics,Net Banking,TRUE,FALSE,69.37,0
+CUST-7141,2/3/2025 9:05,31,Female,India,Desktop,755,1,328.37,5,Home Decor,Credit Card,FALSE,FALSE,59.85,0
+CUST-8259,2/1/2025 22:52,21,Female,UK,Mobile,2109,19,126.25,1,Electronics,Credit Card,FALSE,FALSE,51.11,0
+CUST-2540,2/1/2025 22:54,49,Other,India,Desktop,1746,12,97.1,0,Sports,PayPal,FALSE,TRUE,52.38,0
+CUST-6776,2/3/2025 9:20,22,Male,Canada,Desktop,1459,13,93.51,2,Clothing,Credit Card,TRUE,FALSE,4.31,1
+CUST-5671,2/2/2025 10:27,47,Female,Germany,Mobile,1300,19,396.23,2,Clothing,Net Banking,FALSE,TRUE,49.78,0
+CUST-9726,2/3/2025 9:30,64,Other,Canada,Desktop,3245,12,81.85,3,Sports,Debit Card,FALSE,FALSE,51.08,0
+CUST-3523,2/3/2025 9:35,60,Female,Canada,Desktop,1300,1,24.54,5,Home Decor,Credit Card,TRUE,FALSE,49.69,0
+CUST-6850,2/2/2025 10:36,48,Female,Germany,Mobile,508,20,287.63,0,Electronics,Cryptocurrency,FALSE,FALSE,75.32,0
+CUST-4626,2/1/2025 11:33,62,Other,USA,Desktop,764,14,474.8,5,Sports,Net Banking,TRUE,TRUE,63.12,0
+CUST-3108,2/2/2025 10:42,19,Other,Germany,Desktop,2867,1,268.71,2,Home Decor,Cryptocurrency,TRUE,TRUE,43.63,0
+CUST-7935,2/1/2025 11:35,19,Male,USA,Desktop,2738,18,133.88,5,Clothing,Cryptocurrency,TRUE,FALSE,81.39,0
+CUST-9102,2/1/2025 23:12,35,Other,UK,Tablet,3259,9,462.57,0,Beauty,Net Banking,FALSE,FALSE,34.07,0
+CUST-5943,2/2/2025 22:28,43,Female,Australia,Mobile,3524,4,412.44,0,Home Decor,PayPal,FALSE,TRUE,63.68,0
+CUST-9120,2/2/2025 22:32,56,Female,Australia,Mobile,1396,18,385.7,0,Home Decor,Debit Card,TRUE,FALSE,42.64,0
+CUST-8935,2/2/2025 22:36,59,Female,USA,Desktop,57,3,141.45,0,Books,Net Banking,FALSE,TRUE,89.36,0
+CUST-1571,2/1/2025 11:40,30,Female,Canada,Desktop,67,8,126.49,0,Sports,Credit Card,FALSE,FALSE,16.02,1
+CUST-6389,2/1/2025 23:22,32,Male,Australia,Mobile,3406,3,475.12,2,Beauty,Cryptocurrency,TRUE,TRUE,93.44,0
+CUST-9432,2/2/2025 11:06,30,Male,Canada,Desktop,3572,8,164.52,2,Home Decor,Credit Card,TRUE,TRUE,3.99,1
+CUST-7521,2/1/2025 23:26,21,Male,UK,Mobile,1782,6,166.33,2,Beauty,Debit Card,TRUE,TRUE,56.46,0
+CUST-6247,2/1/2025 23:28,63,Other,Germany,Mobile,1895,10,447.54,4,Books,Net Banking,TRUE,TRUE,64.24,0
+CUST-8774,2/2/2025 23:00,64,Male,Germany,Desktop,236,6,115.76,4,Home Decor,Net Banking,TRUE,FALSE,45.77,0
+CUST-5819,2/1/2025 11:46,21,Other,India,Mobile,1010,11,234.64,5,Clothing,Credit Card,TRUE,TRUE,73.96,0
+CUST-8219,2/1/2025 11:47,27,Other,India,Tablet,2246,9,28.46,4,Clothing,Cryptocurrency,TRUE,FALSE,61.18,0
+CUST-4465,2/3/2025 11:00,50,Male,UK,Mobile,129,3,293.01,1,Sports,Debit Card,FALSE,TRUE,93.61,0
+CUST-8788,2/2/2025 11:27,57,Female,Germany,Mobile,546,17,243.56,4,Home Decor,Net Banking,TRUE,TRUE,55.08,0
+CUST-8134,2/2/2025 11:30,42,Other,Australia,Mobile,2343,13,458.8,3,Beauty,Credit Card,FALSE,FALSE,34.69,0
+CUST-1665,2/1/2025 23:42,22,Other,UK,Tablet,796,4,336.94,3,Beauty,Debit Card,FALSE,FALSE,83.96,0
+CUST-3205,2/2/2025 23:28,55,Other,India,Mobile,2101,3,223.33,0,Sports,Debit Card,FALSE,TRUE,74.25,0
+CUST-2064,2/3/2025 11:25,22,Female,Canada,Mobile,2463,20,106.21,2,Clothing,PayPal,TRUE,TRUE,52.76,0
+CUST-2995,2/2/2025 11:42,20,Other,Canada,Mobile,414,11,7.91,3,Sports,Cryptocurrency,FALSE,FALSE,65.62,0
+CUST-2685,2/1/2025 23:50,42,Male,UK,Desktop,2381,12,116.97,1,Sports,Debit Card,FALSE,FALSE,80.81,0
+CUST-2714,2/2/2025 23:44,33,Other,Canada,Tablet,1797,16,399.11,5,Books,Net Banking,FALSE,TRUE,0.23,1
+CUST-5229,2/1/2025 11:57,45,Female,Germany,Desktop,768,5,455.76,5,Beauty,Cryptocurrency,TRUE,TRUE,36.94,0
+CUST-7705,2/2/2025 11:54,63,Male,India,Mobile,539,7,23.81,4,Electronics,Net Banking,FALSE,FALSE,41.4,0
+CUST-5445,2/2/2025 23:56,52,Other,Canada,Desktop,2716,12,431.36,0,Home Decor,PayPal,TRUE,FALSE,84.51,0
+CUST-3931,2/1/2025 12:00,30,Female,UK,Mobile,2787,20,189.45,2,Sports,Cryptocurrency,TRUE,TRUE,83.61,0
+CUST-7843,2/2/2025 12:03,39,Other,Germany,Tablet,387,6,289.39,3,Sports,Debit Card,TRUE,TRUE,63.78,0
+CUST-4829,2/2/2025 0:04,52,Other,Australia,Mobile,3290,16,271.4,3,Beauty,Cryptocurrency,FALSE,FALSE,77.56,0
+CUST-1265,2/2/2025 0:06,41,Other,Germany,Tablet,1647,2,322.75,1,Beauty,Debit Card,TRUE,FALSE,80.21,0
+CUST-6398,2/1/2025 12:04,31,Other,India,Tablet,757,8,277.76,1,Electronics,Net Banking,FALSE,FALSE,91.59,0
+CUST-8295,2/3/2025 12:25,59,Male,Canada,Desktop,3373,15,440.76,0,Books,PayPal,TRUE,TRUE,81.27,0
+CUST-8593,2/2/2025 12:18,22,Female,Germany,Tablet,2991,2,55.74,0,Electronics,Credit Card,TRUE,TRUE,14.7,1
+CUST-2837,2/1/2025 12:07,49,Male,Canada,Desktop,3236,14,282.85,3,Clothing,Net Banking,FALSE,TRUE,47.84,0
+CUST-1585,2/3/2025 12:40,50,Other,USA,Mobile,1787,12,384.02,3,Sports,Net Banking,TRUE,TRUE,71.67,0
+CUST-4923,2/1/2025 12:09,28,Male,Canada,Desktop,1113,1,292.46,4,Beauty,Debit Card,TRUE,TRUE,47.33,0
+CUST-3525,2/2/2025 0:20,44,Male,Australia,Desktop,2202,6,2.13,5,Sports,Credit Card,FALSE,FALSE,17.64,1
+CUST-2571,2/1/2025 12:11,22,Male,Germany,Tablet,1180,20,367.36,3,Books,Cryptocurrency,FALSE,TRUE,58.86,0
+CUST-4017,2/2/2025 0:24,25,Female,Canada,Desktop,3178,19,122.87,1,Clothing,Credit Card,TRUE,FALSE,3.44,1
+CUST-9465,2/3/2025 13:05,18,Other,USA,Desktop,3585,13,134.07,5,Books,Debit Card,FALSE,FALSE,70.85,0
+CUST-5895,2/2/2025 12:42,34,Female,Canada,Mobile,3443,15,353.37,0,Books,Cryptocurrency,FALSE,TRUE,83.53,0
+CUST-5376,2/1/2025 12:15,25,Male,UK,Mobile,1065,16,271.66,3,Books,Cryptocurrency,TRUE,FALSE,1.16,1
+CUST-1150,2/1/2025 12:16,52,Female,Canada,Desktop,576,15,132.44,3,Sports,PayPal,TRUE,TRUE,32.01,0
+CUST-4807,2/3/2025 13:25,35,Other,Canada,Mobile,2662,18,377.38,2,Electronics,PayPal,FALSE,TRUE,83.57,0
+CUST-7168,2/2/2025 12:54,33,Other,UK,Mobile,2664,15,6.95,1,Books,Cryptocurrency,TRUE,FALSE,36.1,0
+CUST-6059,2/2/2025 0:38,39,Male,Canada,Desktop,2122,10,152.68,2,Clothing,Debit Card,FALSE,FALSE,18.18,1
+CUST-4157,2/1/2025 12:20,20,Other,Canada,Tablet,2569,15,156.48,3,Books,Credit Card,TRUE,FALSE,67.7,0
+CUST-9239,2/3/2025 13:45,64,Female,India,Mobile,3118,2,73.02,4,Electronics,PayPal,FALSE,FALSE,62.99,0
+CUST-3567,2/3/2025 13:50,50,Other,Australia,Tablet,534,18,434.68,3,Home Decor,PayPal,FALSE,TRUE,19.53,1
+CUST-9906,2/2/2025 13:09,34,Other,Canada,Desktop,1119,18,78.19,4,Home Decor,Credit Card,FALSE,TRUE,6.42,1
+CUST-2633,2/1/2025 12:24,60,Female,USA,Desktop,1640,13,60.66,3,Books,Debit Card,TRUE,FALSE,49.52,0
+CUST-3775,2/1/2025 12:25,47,Female,Canada,Tablet,2699,17,206.43,4,Home Decor,Debit Card,TRUE,TRUE,46.87,0
+CUST-8615,2/3/2025 1:44,30,Male,India,Tablet,1400,7,325.27,1,Electronics,Cryptocurrency,FALSE,FALSE,52.23,0
+CUST-2678,2/2/2025 0:54,48,Female,USA,Mobile,1514,17,61.35,4,Books,Debit Card,FALSE,FALSE,86.76,0
+CUST-9913,2/1/2025 12:28,63,Female,India,Tablet,764,15,328.1,5,Electronics,Net Banking,TRUE,TRUE,75.95,0
+CUST-8598,2/3/2025 1:56,51,Female,UK,Desktop,1689,10,1,0,Electronics,PayPal,TRUE,FALSE,13.46,1
+CUST-4476,2/1/2025 12:30,21,Female,USA,Mobile,3544,10,366.67,1,Books,PayPal,TRUE,FALSE,26.04,1
+CUST-8783,2/2/2025 13:33,59,Other,UK,Desktop,2560,5,50.89,3,Electronics,Debit Card,TRUE,TRUE,47.15,0
+CUST-2609,2/2/2025 1:04,56,Female,India,Tablet,2727,1,277.82,0,Books,Credit Card,TRUE,TRUE,45.49,0
+CUST-7545,2/2/2025 1:06,19,Female,UK,Mobile,502,17,243.5,1,Books,Debit Card,FALSE,TRUE,62.69,0
+CUST-8209,2/2/2025 13:42,35,Male,Canada,Tablet,2502,14,100.43,5,Sports,Cryptocurrency,FALSE,FALSE,17.71,1
+CUST-9956,2/1/2025 12:35,64,Female,UK,Desktop,2944,15,151.83,3,Electronics,Net Banking,TRUE,TRUE,73.35,0
+CUST-3016,2/2/2025 13:48,36,Female,Australia,Tablet,3139,18,263.06,1,Beauty,Debit Card,TRUE,TRUE,43.66,0
+CUST-5615,2/2/2025 1:14,59,Male,USA,Mobile,2887,17,314.42,1,Sports,Debit Card,FALSE,FALSE,62.38,0
+CUST-8237,2/2/2025 1:16,64,Male,Canada,Tablet,3534,5,435,3,Books,Credit Card,TRUE,TRUE,24.62,1
+CUST-2415,2/1/2025 12:39,38,Female,UK,Tablet,512,8,412.12,0,Home Decor,Net Banking,TRUE,FALSE,22.17,1
+CUST-8017,2/3/2025 2:40,30,Other,Germany,Tablet,2482,3,435.82,0,Beauty,Debit Card,FALSE,TRUE,98.28,0
+CUST-2178,2/3/2025 15:25,52,Female,Germany,Tablet,3137,8,267.47,5,Home Decor,Debit Card,FALSE,TRUE,8.21,1
+CUST-5771,2/1/2025 12:42,20,Other,UK,Mobile,2944,8,244.82,5,Beauty,Net Banking,FALSE,FALSE,67.11,0
+CUST-1956,2/2/2025 14:09,21,Male,India,Desktop,1726,12,453.07,0,Home Decor,Cryptocurrency,FALSE,TRUE,71.78,0
+CUST-2231,2/2/2025 14:12,48,Male,Australia,Desktop,2269,20,193.19,2,Clothing,Net Banking,FALSE,FALSE,13.09,1
+CUST-3794,2/2/2025 1:30,30,Female,Australia,Tablet,823,3,199.19,5,Beauty,Net Banking,FALSE,FALSE,21.99,1
+CUST-7076,2/2/2025 14:18,52,Male,Australia,Mobile,3483,3,315.53,5,Books,Cryptocurrency,TRUE,TRUE,12.96,1
+CUST-6538,2/3/2025 3:08,65,Female,USA,Tablet,2057,16,364.09,0,Sports,PayPal,FALSE,TRUE,34.6,0
+CUST-5962,2/1/2025 12:48,59,Male,Canada,Mobile,3257,4,363.36,3,Clothing,Debit Card,TRUE,TRUE,12.18,1
+CUST-5236,2/3/2025 16:05,65,Female,India,Desktop,2073,19,247.33,3,Books,PayPal,TRUE,TRUE,54.49,0
+CUST-8146,2/2/2025 1:40,23,Other,India,Desktop,2990,8,32.78,3,Beauty,Debit Card,FALSE,FALSE,19.36,1
+CUST-4575,2/3/2025 16:15,20,Other,USA,Mobile,1478,20,396.55,4,Sports,Debit Card,FALSE,FALSE,34.07,0
+CUST-7804,2/3/2025 16:20,64,Male,Australia,Mobile,790,18,183.58,5,Clothing,Cryptocurrency,FALSE,TRUE,3.72,1
+CUST-5710,2/2/2025 1:46,44,Female,Canada,Tablet,2442,10,89.9,3,Sports,Credit Card,FALSE,FALSE,41.39,0
+CUST-8799,2/3/2025 16:30,57,Male,Canada,Mobile,3014,4,86.61,3,Electronics,Net Banking,FALSE,TRUE,33.45,0
+CUST-1448,2/3/2025 16:35,43,Male,USA,Desktop,1645,13,441.35,3,Home Decor,Cryptocurrency,FALSE,TRUE,85.66,0
+CUST-8216,2/3/2025 3:44,46,Male,Germany,Mobile,799,5,212.48,4,Home Decor,Net Banking,FALSE,FALSE,73.81,0
+CUST-1102,2/1/2025 12:57,29,Other,India,Mobile,2857,14,286.67,1,Beauty,PayPal,TRUE,TRUE,72.23,0
+CUST-3383,2/2/2025 1:56,55,Other,Germany,Mobile,1984,15,439.39,2,Books,Net Banking,FALSE,TRUE,64.01,0
+CUST-2414,2/2/2025 14:57,25,Other,USA,Tablet,3067,2,242.39,5,Sports,Cryptocurrency,FALSE,TRUE,15.06,1
+CUST-5754,2/3/2025 4:00,64,Other,UK,Desktop,2177,1,97.75,2,Clothing,Cryptocurrency,TRUE,TRUE,69.96,0
+CUST-2178,2/3/2025 17:05,21,Female,USA,Desktop,2206,16,340.56,0,Books,Credit Card,TRUE,FALSE,43.74,0
+CUST-5091,2/3/2025 17:10,46,Male,USA,Mobile,1355,11,301.81,2,Clothing,Net Banking,FALSE,TRUE,21.92,1
+CUST-6077,2/2/2025 2:06,47,Female,UK,Tablet,445,19,460.65,5,Electronics,Net Banking,TRUE,TRUE,33.55,0
+CUST-1435,2/3/2025 4:16,29,Female,Germany,Desktop,3128,8,459.02,2,Home Decor,Net Banking,TRUE,TRUE,88.67,0
+CUST-4786,2/2/2025 2:10,44,Female,UK,Mobile,2618,14,376.83,2,Beauty,Net Banking,TRUE,TRUE,7.08,1
+CUST-1627,2/3/2025 4:24,54,Female,Australia,Mobile,2785,16,175.88,1,Beauty,Net Banking,TRUE,FALSE,15.26,1
+CUST-4041,2/3/2025 4:28,29,Male,Germany,Tablet,2653,20,66.17,3,Sports,Cryptocurrency,TRUE,FALSE,25.77,1
+CUST-9461,2/3/2025 4:32,24,Female,UK,Mobile,2319,4,96.44,1,Sports,Credit Card,FALSE,TRUE,91.58,0
+CUST-2091,2/3/2025 17:45,25,Female,Germany,Mobile,2562,10,88.79,4,Beauty,Net Banking,TRUE,FALSE,52.23,0
+CUST-3124,2/2/2025 2:20,61,Female,India,Tablet,3574,1,415.43,5,Clothing,Cryptocurrency,TRUE,FALSE,39.81,0
+CUST-1735,2/3/2025 4:44,61,Female,USA,Tablet,1025,12,154.9,4,Home Decor,Debit Card,TRUE,TRUE,72.68,0
+CUST-5474,2/2/2025 2:24,37,Other,Canada,Desktop,395,12,110.51,3,Clothing,Credit Card,FALSE,FALSE,78.25,0
+CUST-4581,2/2/2025 2:26,53,Other,Germany,Mobile,1791,12,453.07,1,Clothing,Debit Card,TRUE,FALSE,49.33,0
+CUST-4320,2/2/2025 2:28,51,Female,India,Mobile,2094,11,324.49,1,Electronics,PayPal,TRUE,FALSE,29.02,1
+CUST-3385,2/3/2025 18:15,49,Male,Canada,Tablet,449,1,139.46,1,Electronics,Credit Card,FALSE,FALSE,62.4,0
+CUST-5205,2/1/2025 13:16,44,Other,USA,Desktop,3157,10,258.7,0,Clothing,Net Banking,TRUE,TRUE,22.75,1
+CUST-6642,2/3/2025 18:25,47,Other,UK,Desktop,506,8,51.49,0,Beauty,Net Banking,TRUE,TRUE,13.17,1
+CUST-3080,2/2/2025 2:36,41,Other,India,Tablet,3562,13,482.2,0,Sports,Net Banking,FALSE,FALSE,56.65,0
+CUST-6963,2/1/2025 13:19,42,Male,UK,Desktop,410,2,172.87,4,Books,Cryptocurrency,TRUE,FALSE,96.89,0
+CUST-8685,2/1/2025 13:20,56,Female,India,Tablet,1759,20,13.78,2,Electronics,PayPal,FALSE,FALSE,52.67,0
+CUST-2197,2/1/2025 13:21,59,Male,Australia,Desktop,689,15,339.21,3,Sports,Debit Card,FALSE,TRUE,90.1,0
+CUST-8698,2/3/2025 5:28,50,Other,Germany,Mobile,3127,18,57.59,0,Electronics,PayPal,TRUE,FALSE,88.45,0
+CUST-7423,2/3/2025 18:55,36,Other,UK,Mobile,74,18,459.87,2,Beauty,PayPal,TRUE,FALSE,96.82,0
+CUST-3138,2/3/2025 19:00,55,Other,USA,Tablet,1665,6,439.07,2,Sports,Credit Card,FALSE,TRUE,43.66,0
+CUST-4940,2/1/2025 13:25,64,Female,Australia,Mobile,1301,5,115.61,2,Books,Cryptocurrency,FALSE,TRUE,97.67,0
+CUST-8413,2/2/2025 16:18,52,Other,UK,Tablet,2436,2,127.85,2,Clothing,Cryptocurrency,FALSE,FALSE,80.13,0
+CUST-1595,2/2/2025 16:21,43,Female,India,Desktop,2619,18,182.82,2,Books,Cryptocurrency,TRUE,TRUE,43.38,0
+CUST-9526,2/1/2025 13:28,23,Male,Australia,Mobile,1143,17,497.32,4,Home Decor,Net Banking,FALSE,FALSE,10.16,1
+CUST-7504,2/3/2025 19:25,25,Other,Canada,Desktop,441,10,31.8,0,Sports,Cryptocurrency,FALSE,FALSE,56.42,0
+CUST-5610,2/2/2025 3:00,63,Male,USA,Desktop,1949,8,176.11,4,Beauty,Debit Card,FALSE,TRUE,71.33,0
+CUST-5748,2/2/2025 3:02,21,Other,Germany,Mobile,2670,6,434.53,4,Clothing,Credit Card,FALSE,FALSE,17.62,1
+CUST-5326,2/2/2025 16:36,64,Female,USA,Tablet,3408,11,50.69,4,Beauty,Net Banking,FALSE,FALSE,90.48,0
+CUST-5551,2/3/2025 6:12,52,Male,Australia,Mobile,2558,10,73.05,4,Clothing,Credit Card,TRUE,FALSE,84.26,0
+CUST-9508,2/2/2025 3:08,59,Male,USA,Mobile,2463,16,64.95,4,Clothing,Credit Card,TRUE,FALSE,64.55,0
+CUST-1648,2/2/2025 16:45,35,Other,Germany,Mobile,1442,8,76.12,3,Beauty,Cryptocurrency,FALSE,TRUE,70.94,0
+CUST-2070,2/3/2025 6:24,55,Female,USA,Mobile,2075,11,405.72,0,Books,Net Banking,TRUE,FALSE,88.86,0
+CUST-1950,2/3/2025 6:28,47,Female,USA,Tablet,1109,11,468.91,1,Books,Cryptocurrency,FALSE,TRUE,83.49,0
+CUST-7172,2/3/2025 20:10,34,Male,Canada,Tablet,2912,4,442.78,3,Sports,Credit Card,FALSE,FALSE,32.91,0
+CUST-1734,2/3/2025 20:15,28,Other,USA,Tablet,3002,17,318.33,0,Sports,Credit Card,TRUE,FALSE,14.02,1
+CUST-7618,2/2/2025 17:00,23,Male,Australia,Desktop,1835,7,169.02,2,Clothing,PayPal,FALSE,FALSE,97.02,0
+CUST-4443,2/3/2025 20:25,51,Male,Canada,Mobile,2870,18,286.87,1,Books,PayPal,FALSE,FALSE,49.89,0
+CUST-1450,2/3/2025 6:48,33,Female,India,Tablet,690,7,396.93,5,Beauty,Net Banking,FALSE,FALSE,69.22,0
+CUST-8946,2/3/2025 6:52,35,Female,USA,Desktop,468,13,467.57,3,Sports,PayPal,TRUE,TRUE,55.5,0
+CUST-4549,2/3/2025 20:40,19,Male,USA,Mobile,1436,10,385.34,0,Electronics,PayPal,FALSE,TRUE,16.2,1
+CUST-7090,2/3/2025 20:45,38,Other,India,Tablet,997,9,92.21,3,Books,PayPal,TRUE,FALSE,41.59,0
+CUST-5645,2/2/2025 3:32,39,Female,Canada,Tablet,1661,18,387.35,4,Clothing,Net Banking,FALSE,TRUE,38.03,0
+CUST-7670,2/3/2025 20:55,31,Other,Germany,Tablet,3374,9,376.53,0,Books,Cryptocurrency,FALSE,FALSE,3.51,1
+CUST-5438,2/3/2025 7:12,39,Other,Australia,Desktop,2507,18,79.18,2,Books,Debit Card,FALSE,FALSE,15.27,1
+CUST-3105,2/3/2025 21:05,49,Other,India,Mobile,3147,18,355.79,3,Home Decor,Credit Card,TRUE,FALSE,43.34,0
+CUST-1477,2/3/2025 7:20,55,Other,Canada,Desktop,444,13,413.47,4,Sports,Cryptocurrency,FALSE,TRUE,35.82,0
+CUST-1251,2/3/2025 21:15,39,Other,Germany,Desktop,2192,1,90.24,4,Sports,PayPal,TRUE,TRUE,45.89,0
+CUST-6480,2/3/2025 7:28,49,Female,Germany,Mobile,3320,14,111.14,0,Clothing,PayPal,FALSE,TRUE,4.96,1
+CUST-3642,2/2/2025 3:46,63,Male,Australia,Desktop,1494,19,274.22,2,Electronics,Net Banking,TRUE,TRUE,79.23,0
+CUST-6983,2/3/2025 21:30,61,Female,USA,Mobile,3576,9,448.79,1,Books,Debit Card,TRUE,FALSE,25.06,1
+CUST-6800,2/2/2025 17:45,25,Female,Germany,Tablet,110,14,50.77,4,Sports,Net Banking,TRUE,TRUE,69.49,0
+CUST-5977,2/2/2025 3:52,40,Female,UK,Tablet,3065,18,291.88,0,Sports,Debit Card,TRUE,FALSE,70.03,0
+CUST-8235,2/3/2025 7:48,63,Male,USA,Tablet,3027,12,177.99,2,Home Decor,Cryptocurrency,TRUE,TRUE,41.62,0
+CUST-8323,2/3/2025 7:52,62,Female,Germany,Tablet,537,20,362.13,1,Sports,Net Banking,TRUE,FALSE,83.11,0
+CUST-9451,2/2/2025 17:57,54,Male,UK,Mobile,3266,7,99.74,1,Electronics,Debit Card,FALSE,TRUE,14.48,1
+CUST-2244,2/2/2025 4:00,47,Male,UK,Desktop,2059,11,192.04,1,Beauty,Debit Card,TRUE,FALSE,80.52,0
+CUST-2468,2/2/2025 4:02,20,Other,India,Tablet,1478,8,436.05,2,Clothing,PayPal,TRUE,TRUE,15.58,1
+CUST-8579,2/1/2025 14:02,19,Other,India,Desktop,3211,11,163.83,5,Sports,Credit Card,FALSE,TRUE,49.29,0
+CUST-4301,2/3/2025 22:15,37,Male,Germany,Mobile,1518,14,413.04,5,Books,PayPal,FALSE,TRUE,45.14,0
+CUST-4219,2/1/2025 14:04,58,Male,Australia,Tablet,39,10,261.35,3,Electronics,PayPal,FALSE,FALSE,33.07,0
+CUST-7126,2/2/2025 4:10,60,Male,Canada,Tablet,722,1,410.67,1,Electronics,Net Banking,FALSE,TRUE,56.08,0
+CUST-5414,2/3/2025 8:24,36,Other,Australia,Desktop,577,6,309.6,4,Books,PayPal,TRUE,TRUE,66.55,0
+CUST-3511,2/1/2025 14:07,36,Other,Germany,Tablet,2465,8,35.06,5,Electronics,PayPal,FALSE,FALSE,38.93,0
+CUST-3046,2/3/2025 8:32,52,Female,Australia,Tablet,712,12,97.74,4,Beauty,Credit Card,FALSE,TRUE,88.94,0
+CUST-6397,2/2/2025 18:27,58,Other,India,Mobile,764,4,95.64,4,Books,PayPal,TRUE,TRUE,39.17,0
+CUST-6753,2/3/2025 22:50,38,Female,Germany,Desktop,1131,15,302.88,1,Beauty,Credit Card,FALSE,TRUE,2.33,1
+CUST-5416,2/3/2025 8:44,33,Female,Australia,Desktop,2675,4,102.01,3,Clothing,Debit Card,FALSE,TRUE,50.85,0
+CUST-7590,2/3/2025 23:00,24,Female,Germany,Desktop,1428,12,107.7,0,Beauty,Net Banking,FALSE,TRUE,23.05,1
+CUST-1814,2/1/2025 14:13,46,Male,Germany,Desktop,755,9,256.19,5,Beauty,Debit Card,TRUE,FALSE,64.73,0
+CUST-4957,2/2/2025 18:42,44,Male,Germany,Mobile,165,16,258.75,0,Clothing,PayPal,FALSE,FALSE,62.71,0
+CUST-8003,2/3/2025 23:15,20,Female,Germany,Tablet,1254,13,135.23,4,Books,Credit Card,TRUE,TRUE,91.55,0
+CUST-1769,2/3/2025 9:04,21,Female,UK,Mobile,184,16,498.24,5,Electronics,PayPal,FALSE,FALSE,69.4,0
+CUST-4365,2/3/2025 23:25,48,Male,Germany,Desktop,901,9,318.37,5,Electronics,Net Banking,FALSE,FALSE,33.75,0
+CUST-3637,2/2/2025 18:54,25,Other,USA,Desktop,1185,8,497.12,2,Books,Credit Card,TRUE,TRUE,89.42,0
+CUST-1266,2/3/2025 23:35,36,Other,Australia,Tablet,568,4,95.22,4,Sports,Cryptocurrency,TRUE,FALSE,89.13,0
+CUST-6005,2/1/2025 14:20,57,Male,UK,Desktop,262,7,252.49,1,Electronics,Credit Card,TRUE,TRUE,21.36,1
+CUST-9367,2/1/2025 14:21,36,Female,UK,Tablet,2216,13,402.79,5,Sports,Debit Card,FALSE,FALSE,9.32,1
+CUST-1061,2/3/2025 9:28,25,Female,India,Desktop,2095,11,356.8,0,Sports,Net Banking,TRUE,TRUE,76.38,0
+CUST-8907,2/1/2025 14:23,18,Female,Germany,Tablet,3034,15,96.92,1,Clothing,Credit Card,FALSE,TRUE,60.94,0
+CUST-2405,2/1/2025 14:24,19,Male,Canada,Mobile,134,12,13.09,5,Electronics,PayPal,FALSE,FALSE,28.32,1
+CUST-1416,2/4/2025 0:05,22,Male,Canada,Mobile,2217,1,419.64,2,Books,Cryptocurrency,FALSE,TRUE,21.11,1
+CUST-9786,2/1/2025 14:26,55,Other,Australia,Tablet,1941,7,179.76,1,Clothing,Debit Card,TRUE,TRUE,11.95,1
+CUST-3309,2/4/2025 0:15,27,Other,UK,Desktop,1455,3,105.55,0,Electronics,PayPal,FALSE,TRUE,94.66,0
+CUST-1044,2/3/2025 9:52,23,Male,Canada,Desktop,1439,16,399.9,1,Books,Credit Card,FALSE,TRUE,12.72,1
+CUST-4702,2/4/2025 0:25,34,Female,India,Tablet,3200,18,416.84,3,Books,PayPal,TRUE,FALSE,80.8,0
+CUST-1062,2/4/2025 0:30,20,Female,UK,Mobile,439,4,177.15,1,Electronics,Cryptocurrency,FALSE,TRUE,47.55,0
+CUST-4782,2/2/2025 19:33,39,Male,USA,Desktop,2879,2,403.01,4,Sports,Credit Card,FALSE,TRUE,20,1
+CUST-5579,2/2/2025 19:36,61,Female,UK,Tablet,3081,11,485.78,3,Beauty,Debit Card,TRUE,TRUE,20.28,1
+CUST-2761,2/4/2025 0:45,65,Other,USA,Desktop,859,16,408.7,1,Beauty,Cryptocurrency,TRUE,TRUE,91.69,0
+CUST-9804,2/4/2025 0:50,57,Female,India,Tablet,2823,5,219.72,1,Sports,Cryptocurrency,FALSE,FALSE,73.63,0
+CUST-8725,2/1/2025 14:35,18,Female,UK,Tablet,2633,2,227.31,1,Sports,PayPal,TRUE,TRUE,55.08,0
+CUST-1314,2/1/2025 14:36,48,Female,Australia,Mobile,2743,20,105.44,0,Beauty,Net Banking,FALSE,TRUE,2.85,1
+CUST-8257,2/2/2025 5:14,40,Female,UK,Tablet,674,10,340.69,4,Electronics,Net Banking,FALSE,FALSE,50.58,0
+CUST-7587,2/4/2025 1:10,46,Male,UK,Tablet,1536,8,439.12,5,Books,Cryptocurrency,FALSE,TRUE,75.35,0
+CUST-2612,2/3/2025 10:36,39,Male,India,Tablet,2072,3,397.57,4,Home Decor,Debit Card,FALSE,TRUE,26.09,1
+CUST-4400,2/2/2025 20:00,42,Other,India,Tablet,419,6,338.19,2,Clothing,Net Banking,FALSE,TRUE,90.38,0
+CUST-3889,2/1/2025 14:41,27,Female,Canada,Mobile,1526,20,373.15,4,Beauty,Net Banking,TRUE,FALSE,2.9,1
+CUST-1209,2/4/2025 1:30,39,Female,USA,Mobile,624,9,349.48,0,Clothing,PayPal,FALSE,FALSE,59.95,0
+CUST-3611,2/2/2025 5:26,29,Female,India,Tablet,1796,9,2.94,2,Electronics,Debit Card,FALSE,FALSE,73.12,0
+CUST-1999,2/4/2025 1:40,63,Female,Germany,Desktop,2452,4,250.62,5,Clothing,Cryptocurrency,FALSE,TRUE,21.91,1
+CUST-6391,2/2/2025 5:30,56,Other,India,Tablet,3151,4,29.7,3,Sports,Debit Card,FALSE,FALSE,21.14,1
+CUST-4499,2/2/2025 20:18,37,Male,Germany,Tablet,385,11,486.93,3,Clothing,Net Banking,FALSE,TRUE,25.98,1
+CUST-9677,2/1/2025 14:47,38,Other,India,Desktop,2917,10,138.77,0,Home Decor,Net Banking,FALSE,FALSE,93.11,0
+CUST-5997,2/3/2025 11:12,23,Male,Australia,Desktop,1906,1,349.78,5,Clothing,PayPal,FALSE,TRUE,39.81,0
+CUST-3730,2/4/2025 2:05,58,Male,UK,Desktop,798,18,337.01,5,Home Decor,Net Banking,FALSE,TRUE,78.77,0
+CUST-8500,2/2/2025 5:40,48,Female,UK,Desktop,3311,18,44.25,3,Beauty,Net Banking,FALSE,FALSE,12.81,1
+CUST-4067,2/4/2025 2:15,31,Male,India,Mobile,937,17,276.32,2,Beauty,Credit Card,TRUE,TRUE,89.97,0
+CUST-2408,2/2/2025 20:36,43,Male,India,Mobile,1426,4,302,3,Sports,Net Banking,FALSE,FALSE,76.17,0
+CUST-9644,2/2/2025 5:46,33,Female,UK,Desktop,3582,11,141.56,2,Electronics,Debit Card,TRUE,FALSE,16.11,1
+CUST-9809,2/2/2025 20:42,59,Female,Australia,Mobile,2402,16,474.15,1,Sports,Credit Card,FALSE,TRUE,13.76,1
+CUST-3119,2/2/2025 5:50,51,Female,Canada,Desktop,1945,10,194.46,2,Beauty,PayPal,FALSE,TRUE,5.16,1
+CUST-9254,2/2/2025 20:48,18,Other,USA,Tablet,2698,20,105.28,3,Sports,PayPal,TRUE,TRUE,10.85,1
+CUST-8179,2/2/2025 20:51,61,Male,Australia,Tablet,924,3,205.14,3,Home Decor,Credit Card,TRUE,FALSE,40.6,0
+CUST-7351,2/1/2025 14:58,45,Other,Australia,Tablet,1026,17,127.66,5,Beauty,Net Banking,FALSE,FALSE,8.1,1
+CUST-8406,2/4/2025 2:55,65,Other,India,Tablet,1443,6,59.99,1,Home Decor,Credit Card,TRUE,FALSE,48.5,0
+CUST-9798,2/3/2025 12:00,64,Other,Canada,Desktop,2771,19,380.68,4,Books,Net Banking,TRUE,FALSE,53.55,0
+CUST-9213,2/2/2025 6:02,37,Female,Germany,Tablet,2902,10,308.59,3,Clothing,Net Banking,FALSE,FALSE,37.62,0
+CUST-2454,2/3/2025 12:08,41,Female,India,Desktop,163,18,34.5,2,Books,PayPal,FALSE,FALSE,73.8,0
+CUST-2689,2/2/2025 6:06,55,Other,Germany,Tablet,2601,14,224.83,5,Sports,Credit Card,TRUE,FALSE,32.78,0
+CUST-5112,2/1/2025 15:04,35,Other,USA,Tablet,3323,14,381,4,Home Decor,PayPal,TRUE,TRUE,67.01,0
+CUST-6769,2/3/2025 12:20,49,Female,India,Tablet,1686,13,166.41,0,Beauty,Cryptocurrency,FALSE,FALSE,74.5,0
+CUST-2779,2/2/2025 6:12,21,Other,Germany,Desktop,1112,1,136.55,4,Home Decor,Credit Card,TRUE,TRUE,94.38,0
+CUST-1352,2/1/2025 15:07,19,Male,USA,Mobile,2219,19,323.47,5,Books,Credit Card,FALSE,TRUE,57.26,0
+CUST-7827,2/4/2025 3:40,54,Male,India,Mobile,2227,7,256.36,1,Clothing,PayPal,FALSE,TRUE,21.15,1
+CUST-7649,2/4/2025 3:45,65,Other,India,Desktop,413,12,482.69,0,Electronics,Cryptocurrency,TRUE,TRUE,24.91,1
+CUST-2952,2/2/2025 21:30,46,Other,Australia,Desktop,2769,7,337.58,1,Beauty,Net Banking,FALSE,FALSE,76.6,0
+CUST-1113,2/2/2025 6:22,30,Other,USA,Mobile,796,7,301.18,2,Sports,Cryptocurrency,TRUE,FALSE,76.24,0
+CUST-1718,2/4/2025 4:00,34,Other,UK,Desktop,2783,10,280.13,5,Electronics,Credit Card,TRUE,TRUE,39.07,0
+CUST-1201,2/2/2025 21:39,33,Female,Canada,Mobile,2677,17,184.91,2,Books,PayPal,FALSE,TRUE,27.74,1
+CUST-4786,2/1/2025 15:14,23,Other,India,Desktop,2805,5,480.91,0,Beauty,Cryptocurrency,FALSE,FALSE,33.24,0
+CUST-8273,2/2/2025 21:45,49,Male,Canada,Desktop,2837,6,419.72,3,Home Decor,Net Banking,FALSE,TRUE,74.38,0
+CUST-2530,2/4/2025 4:20,60,Other,India,Mobile,2979,12,446.62,4,Home Decor,PayPal,TRUE,FALSE,10.77,1
+CUST-3906,2/2/2025 6:34,43,Male,UK,Mobile,575,7,333.64,3,Beauty,Net Banking,TRUE,FALSE,8.02,1
+CUST-5936,2/2/2025 6:36,55,Male,UK,Tablet,1318,18,171.97,2,Home Decor,Credit Card,TRUE,FALSE,71.72,0
+CUST-9321,2/4/2025 4:35,43,Male,Germany,Tablet,2354,1,427.74,4,Electronics,Debit Card,TRUE,TRUE,81.79,0
+CUST-6390,2/4/2025 4:40,42,Male,Australia,Desktop,1713,7,265.42,3,Books,PayPal,TRUE,TRUE,95.07,0
+CUST-9545,2/1/2025 15:21,29,Female,Canada,Desktop,2497,1,234.33,4,Clothing,Cryptocurrency,FALSE,FALSE,70.61,0
+CUST-3505,2/2/2025 6:44,38,Female,Australia,Tablet,263,5,103.43,2,Electronics,Debit Card,TRUE,FALSE,39.99,0
+CUST-4626,2/4/2025 4:55,49,Male,Germany,Mobile,1713,2,106.32,0,Sports,Cryptocurrency,TRUE,FALSE,62.87,0
+CUST-2149,2/1/2025 15:24,32,Other,Australia,Desktop,1045,3,18.76,0,Beauty,Debit Card,TRUE,FALSE,3.94,1
+CUST-5952,2/3/2025 13:40,44,Female,Canada,Mobile,2947,13,150.77,1,Sports,Credit Card,FALSE,TRUE,93.01,0
+CUST-1325,2/2/2025 6:52,44,Other,India,Desktop,981,18,214.12,1,Clothing,Net Banking,TRUE,FALSE,74.42,0
+CUST-5404,2/3/2025 13:48,22,Other,UK,Mobile,3415,10,183.22,2,Books,Cryptocurrency,TRUE,TRUE,20.46,1
+CUST-8636,2/2/2025 22:24,63,Male,USA,Mobile,618,19,316.21,1,Electronics,Credit Card,TRUE,FALSE,20.79,1
+CUST-2900,2/2/2025 6:58,32,Female,Canada,Tablet,1847,6,205.85,1,Electronics,PayPal,FALSE,TRUE,1.16,1
+CUST-8892,2/3/2025 14:00,36,Other,India,Mobile,2808,1,106.09,1,Books,PayPal,TRUE,TRUE,56.89,0
+CUST-1218,2/1/2025 15:31,47,Other,India,Mobile,396,7,43.46,3,Beauty,Net Banking,TRUE,FALSE,98.41,0
+CUST-2179,2/3/2025 14:08,42,Other,Canada,Mobile,2214,18,57.55,4,Sports,Debit Card,TRUE,FALSE,95.16,0
+CUST-9790,2/1/2025 15:33,26,Male,USA,Mobile,3435,17,70.86,4,Beauty,Credit Card,FALSE,FALSE,10.57,1
+CUST-5816,2/1/2025 15:34,36,Other,USA,Mobile,2957,11,119.51,3,Beauty,Cryptocurrency,FALSE,FALSE,94.44,0
+CUST-6675,2/4/2025 5:55,30,Male,USA,Desktop,2675,8,100.01,5,Electronics,PayPal,FALSE,TRUE,59.65,0
+CUST-4507,2/3/2025 14:24,65,Female,UK,Mobile,1035,12,64.43,3,Books,Cryptocurrency,TRUE,FALSE,62.22,0
+CUST-8777,2/2/2025 7:14,40,Male,Australia,Mobile,475,5,350.02,4,Clothing,PayPal,TRUE,FALSE,25.74,1
+CUST-3906,2/1/2025 15:38,44,Female,Germany,Desktop,939,8,140.37,1,Sports,Credit Card,FALSE,TRUE,23.02,1
+CUST-9237,2/1/2025 15:39,33,Male,USA,Tablet,2157,1,109.47,5,Sports,Net Banking,FALSE,FALSE,89.98,0
+CUST-8858,2/2/2025 7:20,44,Other,UK,Desktop,380,18,155.04,2,Sports,Debit Card,TRUE,FALSE,95.89,0
+CUST-8064,2/4/2025 6:25,28,Female,Canada,Tablet,1432,4,78.01,2,Sports,Net Banking,FALSE,TRUE,14.73,1
+CUST-2972,2/4/2025 6:30,38,Male,India,Tablet,2533,17,309.85,0,Books,PayPal,FALSE,FALSE,69.96,0
+CUST-5263,2/2/2025 7:26,41,Male,UK,Desktop,657,18,384.07,5,Beauty,PayPal,FALSE,TRUE,98.34,0
+CUST-4000,2/1/2025 15:44,23,Other,India,Desktop,2929,13,177.83,4,Electronics,Net Banking,TRUE,TRUE,54.99,0
+CUST-7618,2/4/2025 6:45,62,Male,Australia,Tablet,1761,5,458.33,3,Electronics,PayPal,TRUE,FALSE,22.11,1
+CUST-2589,2/2/2025 7:32,53,Male,Australia,Mobile,3338,3,477.13,3,Sports,Net Banking,FALSE,FALSE,66.89,0
+CUST-9783,2/3/2025 15:08,48,Male,UK,Tablet,2252,15,156.73,5,Books,Credit Card,FALSE,FALSE,95.92,0
+CUST-5377,2/3/2025 15:12,33,Male,USA,Mobile,658,6,119.7,0,Electronics,Net Banking,TRUE,TRUE,56.31,0
+CUST-8838,2/3/2025 15:16,19,Other,USA,Desktop,1325,1,17.15,2,Beauty,Net Banking,TRUE,FALSE,34.96,0
+CUST-6012,2/2/2025 23:30,45,Female,Australia,Mobile,2643,19,65.99,3,Home Decor,Net Banking,TRUE,FALSE,47.81,0
+CUST-7543,2/2/2025 23:33,19,Male,Canada,Tablet,2763,6,334.31,1,Electronics,Net Banking,TRUE,TRUE,98.17,0
+CUST-4958,2/1/2025 15:52,29,Other,USA,Tablet,1103,9,296.13,3,Beauty,Net Banking,FALSE,TRUE,33.08,0
+CUST-3609,2/4/2025 7:25,37,Other,Germany,Tablet,501,6,165.12,5,Electronics,Cryptocurrency,TRUE,TRUE,9.78,1
+CUST-6538,2/2/2025 7:48,23,Other,India,Desktop,2334,9,285.8,4,Clothing,Debit Card,FALSE,TRUE,29.36,1
+CUST-3051,2/2/2025 7:50,30,Female,Australia,Mobile,1402,15,55.64,4,Sports,PayPal,TRUE,FALSE,32.36,0
+CUST-2848,2/1/2025 15:56,65,Female,UK,Tablet,2232,20,424.99,3,Clothing,Net Banking,TRUE,TRUE,21.3,1
+CUST-1044,2/1/2025 15:57,41,Male,Canada,Mobile,1731,9,236.39,5,Home Decor,Debit Card,TRUE,FALSE,56.13,0
+CUST-7723,2/4/2025 7:50,38,Female,UK,Mobile,696,9,450.7,4,Beauty,Net Banking,FALSE,FALSE,5.91,1
+CUST-8513,2/4/2025 7:55,37,Female,India,Mobile,2150,17,53.02,0,Sports,Credit Card,FALSE,TRUE,18.35,1
+CUST-9748,2/2/2025 8:00,51,Male,UK,Tablet,745,2,380.29,5,Home Decor,Net Banking,TRUE,FALSE,43.01,0
+CUST-1096,2/4/2025 8:05,30,Female,India,Mobile,3380,16,462.45,3,Clothing,Net Banking,TRUE,TRUE,12.31,1
+CUST-1683,2/3/2025 16:08,21,Male,Canada,Desktop,632,4,255.75,2,Clothing,Debit Card,FALSE,FALSE,81.13,0
+CUST-8051,2/3/2025 0:09,50,Other,Australia,Desktop,3474,5,144.05,1,Electronics,Cryptocurrency,FALSE,FALSE,50.4,0
+CUST-6789,2/4/2025 8:20,55,Male,Canada,Desktop,1494,8,294.22,4,Home Decor,Cryptocurrency,FALSE,FALSE,90.57,0
+CUST-6033,2/3/2025 16:20,25,Other,Canada,Desktop,2371,8,304.27,1,Books,Credit Card,FALSE,FALSE,98.57,0
+CUST-1244,2/4/2025 8:30,52,Other,India,Mobile,1830,4,97.78,2,Clothing,Net Banking,FALSE,TRUE,4.26,1
+CUST-8028,2/3/2025 0:21,42,Other,Canada,Tablet,2225,4,300.08,2,Beauty,Credit Card,FALSE,TRUE,5.92,1
+CUST-1774,2/3/2025 0:24,57,Other,India,Tablet,1678,9,308.83,0,Books,Net Banking,TRUE,TRUE,79.1,0
+CUST-6546,2/3/2025 16:36,60,Male,India,Desktop,1082,19,282.87,4,Clothing,Cryptocurrency,TRUE,FALSE,53.1,0
+CUST-6390,2/4/2025 8:50,21,Female,Canada,Desktop,2719,4,147.27,4,Books,Cryptocurrency,TRUE,FALSE,92.28,0
+CUST-4534,2/2/2025 8:22,62,Male,India,Mobile,2267,1,423.72,5,Clothing,Debit Card,TRUE,TRUE,89.87,0
+CUST-2948,2/3/2025 0:36,37,Male,USA,Desktop,2155,13,217,5,Clothing,Cryptocurrency,FALSE,TRUE,13.46,1
+CUST-1853,2/3/2025 16:52,63,Other,Canada,Mobile,527,13,393.49,3,Home Decor,PayPal,FALSE,TRUE,27.66,1
+CUST-3724,2/1/2025 16:14,51,Other,USA,Desktop,231,11,296.14,1,Electronics,Debit Card,FALSE,FALSE,71.75,0
+CUST-1215,2/3/2025 17:00,36,Female,Canada,Desktop,3207,5,292.3,0,Electronics,Credit Card,FALSE,TRUE,23.88,1
+CUST-3942,2/4/2025 9:20,57,Other,USA,Tablet,2096,1,413.13,2,Beauty,Net Banking,TRUE,FALSE,84.62,0
+CUST-1933,2/3/2025 17:08,47,Female,Germany,Desktop,2263,20,141.02,2,Electronics,Net Banking,FALSE,TRUE,43.51,0
+CUST-2671,2/3/2025 17:12,20,Other,USA,Mobile,3297,5,378.05,3,Clothing,PayPal,TRUE,FALSE,3.81,1
+CUST-6191,2/1/2025 16:19,44,Other,USA,Desktop,1698,3,402.52,5,Sports,PayPal,TRUE,TRUE,35.93,0
+CUST-9875,2/3/2025 1:00,53,Female,Australia,Mobile,1970,6,77.71,2,Books,Credit Card,TRUE,TRUE,41.75,0
+CUST-9618,2/4/2025 9:45,52,Other,Australia,Desktop,375,10,420.01,1,Sports,Debit Card,FALSE,TRUE,45.8,0
+CUST-3705,2/4/2025 9:50,45,Male,UK,Mobile,2976,8,265.35,3,Sports,Debit Card,FALSE,FALSE,30.96,0
+CUST-1709,2/1/2025 16:23,32,Male,Canada,Tablet,816,6,108.25,2,Home Decor,PayPal,TRUE,FALSE,83.66,0
+CUST-3124,2/2/2025 8:48,41,Female,India,Mobile,695,6,27.35,4,Electronics,Credit Card,TRUE,FALSE,68.91,0
+CUST-2331,2/1/2025 16:25,23,Other,USA,Desktop,496,16,133.07,3,Home Decor,PayPal,FALSE,FALSE,94.99,0
+CUST-5327,2/3/2025 17:44,32,Other,India,Desktop,1974,15,164.78,4,Sports,Cryptocurrency,TRUE,FALSE,65.33,0
+CUST-6660,2/3/2025 1:21,25,Other,USA,Desktop,1295,15,401.46,1,Electronics,Debit Card,FALSE,TRUE,44.54,0
+CUST-7401,2/4/2025 10:20,21,Male,UK,Mobile,1170,11,82.01,4,Beauty,Cryptocurrency,FALSE,FALSE,23.96,1
+CUST-2541,2/4/2025 10:25,49,Male,Australia,Desktop,1437,17,343.73,0,Beauty,Debit Card,TRUE,FALSE,45.08,0
+CUST-2961,2/3/2025 18:00,51,Other,Canada,Mobile,3312,16,58.95,1,Electronics,PayPal,TRUE,FALSE,71.88,0
+CUST-6147,2/3/2025 1:33,22,Other,Germany,Tablet,1084,15,231.31,3,Books,Cryptocurrency,TRUE,TRUE,60.58,0
+CUST-1339,2/3/2025 1:36,50,Other,USA,Tablet,1375,18,446.78,5,Home Decor,Cryptocurrency,TRUE,TRUE,17.53,1
+CUST-6712,2/2/2025 9:06,34,Male,Canada,Mobile,2443,14,91.73,3,Books,PayPal,FALSE,FALSE,70.54,0
+CUST-7428,2/2/2025 9:08,58,Female,UK,Tablet,1132,2,441.38,2,Home Decor,Debit Card,TRUE,TRUE,44.67,0
+CUST-8255,2/3/2025 1:45,22,Female,Germany,Tablet,3385,17,190.79,4,Clothing,Net Banking,TRUE,FALSE,9.73,1
+CUST-2610,2/1/2025 16:36,29,Female,Australia,Tablet,177,13,168.49,5,Electronics,Credit Card,FALSE,FALSE,10.95,1
+CUST-8602,2/4/2025 11:05,59,Other,USA,Desktop,542,1,478.47,4,Clothing,Debit Card,TRUE,TRUE,96.47,0
+CUST-9858,2/3/2025 18:32,65,Female,India,Mobile,595,18,290.97,1,Beauty,Debit Card,TRUE,FALSE,75.46,0
+CUST-8485,2/3/2025 1:57,58,Male,Australia,Mobile,2997,19,495.71,0,Clothing,Credit Card,TRUE,TRUE,82.63,0
+CUST-2360,2/2/2025 9:20,32,Other,Canada,Tablet,3221,10,47.39,5,Home Decor,Net Banking,FALSE,FALSE,27.66,1
+CUST-5351,2/3/2025 2:03,25,Female,India,Mobile,2061,3,45.34,4,Clothing,Net Banking,TRUE,FALSE,26.33,1
+CUST-1966,2/4/2025 11:30,61,Male,Germany,Mobile,50,15,365.71,5,Beauty,Credit Card,FALSE,FALSE,86.25,0
+CUST-6508,2/3/2025 18:52,55,Female,Canada,Tablet,2394,16,294.62,0,Home Decor,Credit Card,TRUE,FALSE,45.29,0
+CUST-7235,2/3/2025 2:12,44,Female,UK,Mobile,1603,19,442.96,4,Clothing,PayPal,FALSE,FALSE,63.85,0
+CUST-8713,2/2/2025 9:30,29,Other,Australia,Desktop,1369,5,45.2,4,Home Decor,PayPal,TRUE,FALSE,82.93,0
+CUST-3232,2/1/2025 16:46,27,Female,USA,Desktop,1524,10,18.7,5,Books,Net Banking,TRUE,FALSE,36.21,0
+CUST-3360,2/2/2025 9:34,60,Female,USA,Desktop,181,14,210.04,0,Sports,Net Banking,TRUE,TRUE,32.09,0
+CUST-9358,2/4/2025 12:00,40,Male,USA,Desktop,189,10,277.86,5,Home Decor,Net Banking,FALSE,FALSE,52.12,0
+CUST-8034,2/1/2025 16:49,64,Other,USA,Desktop,1081,5,371.35,4,Beauty,Net Banking,TRUE,TRUE,65.46,0
+CUST-4979,2/3/2025 2:30,38,Other,Germany,Mobile,3533,4,138.35,4,Electronics,Debit Card,FALSE,TRUE,61.13,0
+CUST-7258,2/1/2025 16:51,42,Female,India,Desktop,3049,13,41.92,5,Beauty,Credit Card,TRUE,FALSE,79.52,0
+CUST-8602,2/4/2025 12:20,38,Other,UK,Tablet,101,13,235.91,4,Home Decor,Cryptocurrency,FALSE,FALSE,72.32,0
+CUST-5498,2/4/2025 12:25,19,Other,Germany,Tablet,1166,10,215.97,2,Clothing,Debit Card,FALSE,FALSE,76.19,0
+CUST-1595,2/2/2025 9:48,59,Female,India,Mobile,2386,20,137.72,3,Electronics,Credit Card,FALSE,FALSE,54.42,0
+CUST-8175,2/3/2025 2:45,20,Male,Australia,Desktop,2824,11,415.09,0,Home Decor,Debit Card,FALSE,TRUE,52.69,0
+CUST-7832,2/2/2025 9:52,42,Male,Germany,Tablet,3531,2,28.6,3,Books,Credit Card,TRUE,FALSE,35.31,0
+CUST-6786,2/4/2025 12:45,28,Female,USA,Mobile,3461,20,174.59,5,Home Decor,Credit Card,TRUE,TRUE,31.58,0
+CUST-8328,2/3/2025 2:54,35,Female,UK,Tablet,3519,15,10.64,2,Home Decor,Debit Card,FALSE,FALSE,95.55,0
+CUST-7682,2/1/2025 16:59,40,Male,Germany,Desktop,2904,14,441.59,0,Sports,Credit Card,FALSE,FALSE,68.42,0
+CUST-3471,2/4/2025 13:00,20,Female,Germany,Tablet,3232,19,478.77,0,Clothing,Net Banking,TRUE,FALSE,29.76,1
+CUST-1573,2/2/2025 10:02,52,Female,UK,Tablet,393,7,353.72,1,Beauty,Cryptocurrency,FALSE,FALSE,17.7,1
+CUST-5697,2/2/2025 10:04,41,Male,Australia,Tablet,607,20,380.69,3,Home Decor,Net Banking,TRUE,FALSE,47.59,0
+CUST-8997,2/3/2025 3:09,62,Female,USA,Tablet,1156,19,394.74,3,Clothing,Debit Card,TRUE,FALSE,98.15,0
+CUST-7873,2/3/2025 20:16,28,Female,Canada,Tablet,47,16,304.95,1,Beauty,PayPal,TRUE,TRUE,58.54,0
+CUST-3196,2/1/2025 17:05,22,Female,India,Tablet,3024,7,222.13,1,Home Decor,Cryptocurrency,FALSE,TRUE,44.48,0
+CUST-3020,2/3/2025 20:24,25,Other,Germany,Desktop,1634,19,76.23,3,Sports,Cryptocurrency,FALSE,TRUE,38.32,0
+CUST-8309,2/1/2025 17:07,47,Male,UK,Mobile,191,16,225.76,5,Home Decor,Cryptocurrency,TRUE,FALSE,44.66,0
+CUST-5648,2/4/2025 13:40,37,Male,Australia,Tablet,3130,5,167.2,4,Books,Net Banking,FALSE,TRUE,67.46,0
+CUST-9985,2/1/2025 17:09,42,Other,Germany,Desktop,3359,18,390.01,3,Books,Credit Card,FALSE,FALSE,28.83,1
+CUST-7755,2/2/2025 10:20,23,Other,USA,Desktop,175,12,63.66,2,Home Decor,Net Banking,TRUE,TRUE,89.76,0
+CUST-7967,2/2/2025 10:22,54,Male,Canada,Tablet,1243,14,465.89,3,Clothing,Cryptocurrency,TRUE,TRUE,21.92,1
+CUST-7327,2/3/2025 3:36,25,Other,India,Mobile,2669,16,305.5,0,Home Decor,Net Banking,FALSE,TRUE,94.83,0
+CUST-7674,2/2/2025 10:26,29,Male,UK,Desktop,748,17,68.72,5,Books,PayPal,FALSE,TRUE,46.22,0
+CUST-2732,2/1/2025 17:14,34,Female,Germany,Desktop,3546,11,488.58,0,Beauty,Credit Card,TRUE,TRUE,60.02,0
+CUST-9372,2/1/2025 17:15,24,Other,USA,Mobile,2170,17,311.13,1,Clothing,Debit Card,FALSE,FALSE,73.23,0
+CUST-8904,2/2/2025 10:32,29,Male,Australia,Tablet,2974,17,399.94,0,Books,PayPal,TRUE,TRUE,34.26,0
+CUST-5460,2/3/2025 21:08,57,Male,India,Tablet,268,10,224.65,3,Beauty,Debit Card,TRUE,TRUE,22.09,1
+CUST-8775,2/2/2025 10:36,51,Other,India,Tablet,2648,6,79.15,2,Books,PayPal,TRUE,TRUE,72.39,0
+CUST-2314,2/2/2025 10:38,65,Female,UK,Mobile,329,18,164,0,Home Decor,Net Banking,TRUE,FALSE,45.94,0
+CUST-8439,2/3/2025 21:20,34,Other,Germany,Tablet,3431,8,7.02,5,Sports,PayPal,FALSE,FALSE,5.19,1
+CUST-9019,2/2/2025 10:42,51,Other,USA,Mobile,2446,4,162.6,2,Clothing,Debit Card,TRUE,FALSE,35.72,0
+CUST-8737,2/3/2025 4:06,41,Female,USA,Mobile,765,7,474.39,5,Clothing,Cryptocurrency,TRUE,TRUE,28.58,1
+CUST-5007,2/4/2025 14:55,49,Male,India,Mobile,1251,1,397.41,0,Books,PayPal,TRUE,FALSE,55.98,0
+CUST-8322,2/1/2025 17:24,22,Male,USA,Tablet,622,2,31.89,3,Beauty,Debit Card,TRUE,FALSE,77.09,0
+CUST-7496,2/2/2025 10:50,28,Other,Australia,Tablet,831,14,6.79,4,Sports,Credit Card,FALSE,FALSE,58.55,0
+CUST-7664,2/3/2025 4:18,57,Male,UK,Tablet,1733,19,37.31,4,Books,Cryptocurrency,FALSE,FALSE,40.85,0
+CUST-1982,2/1/2025 17:27,29,Other,USA,Tablet,2377,4,111.87,2,Beauty,Net Banking,TRUE,FALSE,46.77,0
+CUST-2840,2/1/2025 17:28,37,Male,India,Tablet,621,12,257.99,0,Home Decor,PayPal,TRUE,TRUE,46.24,0
+CUST-8644,2/3/2025 4:27,48,Male,India,Mobile,1464,13,370.71,5,Electronics,Credit Card,TRUE,TRUE,27.93,1
+CUST-1565,2/4/2025 15:30,24,Male,India,Tablet,162,9,163.32,4,Beauty,PayPal,TRUE,FALSE,29.47,1
+CUST-7978,2/3/2025 4:33,45,Other,UK,Mobile,1390,12,55.54,2,Beauty,Credit Card,FALSE,TRUE,10.25,1
+CUST-2886,2/2/2025 11:04,60,Other,Australia,Mobile,1849,5,441.75,0,Home Decor,Credit Card,FALSE,FALSE,89.02,0
+CUST-1306,2/2/2025 11:06,38,Other,UK,Tablet,2939,13,26.9,3,Books,PayPal,TRUE,FALSE,83.63,0
+CUST-2633,2/3/2025 4:42,34,Male,UK,Desktop,1748,5,72.9,5,Beauty,Credit Card,FALSE,FALSE,71.98,0
+CUST-6265,2/4/2025 15:55,27,Male,India,Desktop,644,7,91.81,1,Sports,Cryptocurrency,FALSE,TRUE,93.45,0
+CUST-7762,2/2/2025 11:12,24,Female,Germany,Desktop,526,13,52.29,4,Books,PayPal,TRUE,TRUE,58.68,0
+CUST-9890,2/2/2025 11:14,22,Other,Canada,Tablet,2489,1,438.79,5,Electronics,Net Banking,FALSE,FALSE,54.9,0
+CUST-4858,2/3/2025 4:54,54,Other,Canada,Desktop,597,17,87.78,0,Home Decor,Credit Card,FALSE,FALSE,47.44,0
+CUST-2448,2/4/2025 16:15,45,Male,UK,Tablet,1367,13,386.24,3,Books,Cryptocurrency,FALSE,TRUE,55.02,0
+CUST-6796,2/2/2025 11:20,58,Male,Canada,Desktop,1320,19,408.61,5,Beauty,PayPal,TRUE,FALSE,45.91,0
+CUST-7298,2/4/2025 16:25,30,Male,Australia,Tablet,2786,8,247.39,1,Home Decor,Credit Card,FALSE,TRUE,11.53,1
+CUST-4889,2/3/2025 22:48,42,Male,Australia,Tablet,1245,12,228.55,3,Electronics,Debit Card,FALSE,FALSE,33.87,0
+CUST-4462,2/2/2025 11:26,53,Other,UK,Tablet,1149,4,226.04,3,Electronics,Credit Card,FALSE,FALSE,33.22,0
+CUST-9967,2/3/2025 22:56,35,Male,Germany,Mobile,1023,14,178.81,5,Beauty,PayPal,FALSE,TRUE,31.06,0
+CUST-3027,2/2/2025 11:30,25,Female,Germany,Tablet,226,16,202.25,3,Clothing,Credit Card,TRUE,TRUE,29.74,1
+CUST-5838,2/4/2025 16:50,36,Male,UK,Tablet,2729,2,321.42,4,Beauty,PayPal,TRUE,TRUE,62.54,0
+CUST-3022,2/3/2025 23:08,44,Female,UK,Mobile,3553,20,305.59,1,Home Decor,Net Banking,TRUE,TRUE,82.44,0
+CUST-6747,2/3/2025 5:24,63,Female,Germany,Mobile,1868,5,390.31,4,Books,Net Banking,TRUE,TRUE,94.4,0
+CUST-5201,2/3/2025 5:27,65,Male,UK,Mobile,1881,7,477.58,0,Clothing,PayPal,TRUE,TRUE,73.08,0
+CUST-9866,2/3/2025 5:30,64,Other,UK,Desktop,1084,6,151.61,3,Sports,PayPal,FALSE,FALSE,3.33,1
+CUST-3146,2/3/2025 5:33,19,Other,Germany,Desktop,1090,12,164.97,4,Clothing,PayPal,TRUE,TRUE,24.96,1
+CUST-8657,2/2/2025 11:44,59,Male,Germany,Tablet,2949,19,36.52,4,Sports,PayPal,TRUE,FALSE,53.05,0
+CUST-4765,2/4/2025 17:25,27,Other,India,Tablet,1982,18,113.08,5,Books,PayPal,FALSE,FALSE,19.55,1
+CUST-2441,2/3/2025 5:42,57,Other,Australia,Desktop,709,20,50.74,3,Beauty,PayPal,TRUE,FALSE,77.89,0
+CUST-7267,2/3/2025 5:45,37,Other,Australia,Desktop,1217,3,427.27,2,Home Decor,Cryptocurrency,TRUE,TRUE,64.92,0
+CUST-6744,2/3/2025 23:44,19,Other,Australia,Tablet,1269,7,251.95,3,Sports,Net Banking,TRUE,FALSE,73.24,0
+CUST-6157,2/1/2025 17:57,63,Other,UK,Mobile,3118,15,297.2,1,Beauty,Net Banking,TRUE,TRUE,60.34,0
+CUST-9668,2/3/2025 23:52,33,Other,USA,Tablet,2411,1,219.2,5,Books,Debit Card,FALSE,FALSE,6.4,1
+CUST-4084,2/3/2025 5:57,54,Other,USA,Mobile,680,3,120.65,4,Beauty,Debit Card,FALSE,TRUE,50.51,0
+CUST-8818,2/2/2025 12:00,29,Other,Australia,Mobile,3600,12,30.16,1,Electronics,PayPal,TRUE,FALSE,79.91,0
+CUST-2722,2/2/2025 12:02,50,Other,Germany,Tablet,972,9,282.89,3,Electronics,Credit Card,FALSE,TRUE,30.02,0
+CUST-5695,2/1/2025 18:02,28,Other,Canada,Desktop,592,10,181.51,2,Home Decor,Debit Card,TRUE,TRUE,82.58,0
+CUST-7060,2/4/2025 18:15,62,Other,India,Desktop,3421,6,247.7,1,Electronics,Credit Card,FALSE,TRUE,35.85,0
+CUST-6695,2/4/2025 18:20,46,Other,Germany,Desktop,2848,12,1.78,5,Home Decor,Credit Card,TRUE,FALSE,47.24,0
+CUST-3150,2/3/2025 6:15,41,Female,Germany,Mobile,206,10,342.67,4,Clothing,Net Banking,FALSE,FALSE,16.4,1
+CUST-9856,2/3/2025 6:18,47,Female,India,Tablet,3330,6,425.84,3,Sports,Debit Card,TRUE,TRUE,36.71,0
+CUST-9169,2/2/2025 12:14,22,Male,USA,Desktop,2872,9,368.64,4,Clothing,Debit Card,TRUE,FALSE,31.87,0
+CUST-2612,2/4/2025 18:40,50,Female,Canada,Tablet,239,16,380.01,4,Home Decor,PayPal,FALSE,TRUE,32.03,0
+CUST-3254,2/4/2025 18:45,64,Other,Germany,Tablet,878,2,490.75,1,Books,Credit Card,FALSE,TRUE,59.47,0
+CUST-6679,2/4/2025 18:50,61,Female,USA,Tablet,2163,6,273.14,1,Beauty,Cryptocurrency,FALSE,TRUE,32.08,0
+CUST-6329,2/4/2025 0:44,55,Other,USA,Tablet,1496,7,465.66,4,Clothing,PayPal,TRUE,FALSE,90.44,0
+CUST-7624,2/3/2025 6:36,64,Female,India,Tablet,701,20,109.06,4,Books,Credit Card,FALSE,FALSE,22.44,1
+CUST-7335,2/3/2025 6:39,21,Male,Canada,Desktop,312,13,180.16,3,Sports,Debit Card,TRUE,TRUE,30.7,0
+CUST-3634,2/2/2025 12:28,21,Male,Germany,Desktop,85,10,467.82,1,Books,Credit Card,FALSE,TRUE,58.28,0
+CUST-5554,2/2/2025 12:30,56,Male,India,Desktop,3522,16,439.36,3,Books,Debit Card,FALSE,TRUE,85.57,0
+CUST-8719,2/3/2025 6:48,55,Female,USA,Tablet,2435,3,29.43,0,Sports,Debit Card,FALSE,FALSE,50.83,0
+CUST-3196,2/3/2025 6:51,20,Female,Germany,Mobile,396,10,98.32,2,Beauty,Debit Card,FALSE,FALSE,19.97,1
+CUST-3012,2/4/2025 1:12,28,Other,Australia,Desktop,2735,6,343.34,4,Books,Net Banking,FALSE,TRUE,83.66,0
+CUST-8628,2/3/2025 6:57,36,Other,Canada,Mobile,1573,10,0.21,4,Electronics,Net Banking,TRUE,FALSE,15.01,1
+CUST-2471,2/1/2025 18:20,19,Other,Canada,Desktop,2439,8,400.65,3,Clothing,Debit Card,TRUE,TRUE,46.97,0
+CUST-6948,2/1/2025 18:21,51,Female,India,Desktop,1409,10,182.23,2,Beauty,PayPal,FALSE,TRUE,85.84,0
+CUST-5789,2/1/2025 18:22,54,Female,UK,Tablet,1407,11,115.07,0,Home Decor,Net Banking,FALSE,FALSE,38.18,0
+CUST-8563,2/1/2025 18:23,51,Male,Canada,Desktop,3481,14,174.53,4,Books,Cryptocurrency,TRUE,FALSE,55.69,0
+CUST-1720,2/2/2025 12:48,50,Female,UK,Mobile,2438,19,52.7,0,Home Decor,PayPal,FALSE,FALSE,1.35,1
+CUST-1722,2/4/2025 1:40,34,Male,Australia,Mobile,394,16,374.49,3,Sports,Debit Card,FALSE,TRUE,49,0
+CUST-9984,2/4/2025 1:44,45,Male,Australia,Mobile,1207,19,197.44,3,Clothing,Cryptocurrency,TRUE,FALSE,71.69,0
+CUST-1972,2/2/2025 12:54,27,Male,Germany,Desktop,455,3,36.8,1,Electronics,Cryptocurrency,FALSE,FALSE,42.3,0
+CUST-6999,2/4/2025 1:52,43,Male,India,Desktop,2820,4,467.47,2,Home Decor,Net Banking,FALSE,TRUE,29.09,1
+CUST-9413,2/2/2025 12:58,26,Female,USA,Desktop,1087,4,256.09,1,Clothing,Debit Card,FALSE,TRUE,51.69,0
+CUST-1968,2/4/2025 2:00,20,Other,UK,Mobile,1344,8,53.91,1,Books,PayPal,FALSE,FALSE,64.85,0
+CUST-4354,2/1/2025 18:31,45,Female,UK,Mobile,1020,9,466.62,3,Electronics,Credit Card,FALSE,FALSE,9.34,1
+CUST-2770,2/4/2025 20:40,46,Other,USA,Desktop,1900,10,310.23,2,Electronics,Credit Card,FALSE,TRUE,93.32,0
+CUST-9572,2/4/2025 20:45,25,Female,India,Mobile,838,8,244.94,0,Beauty,Debit Card,FALSE,FALSE,90.09,0
+CUST-4057,2/4/2025 20:50,49,Male,Australia,Mobile,3157,10,253.75,5,Electronics,Debit Card,TRUE,FALSE,15.19,1
+CUST-5492,2/2/2025 13:10,35,Female,UK,Desktop,1608,10,313.19,2,Beauty,Net Banking,FALSE,TRUE,88.64,0
+CUST-5398,2/3/2025 7:48,22,Other,India,Mobile,3568,2,184.4,4,Electronics,Net Banking,FALSE,TRUE,23.76,1
+CUST-2201,2/3/2025 7:51,26,Other,Canada,Mobile,697,16,164.44,5,Home Decor,Debit Card,FALSE,FALSE,99.83,0
+CUST-6835,2/4/2025 2:32,61,Other,Germany,Mobile,2129,17,495.18,1,Books,Credit Card,FALSE,TRUE,13.36,1
+CUST-5837,2/4/2025 21:15,62,Female,India,Mobile,401,8,483.05,2,Sports,Cryptocurrency,FALSE,TRUE,41.92,0
+CUST-8170,2/4/2025 2:40,38,Other,Germany,Tablet,950,18,140.3,0,Electronics,Cryptocurrency,FALSE,TRUE,31.07,0
+CUST-8973,2/4/2025 21:25,61,Male,USA,Desktop,1202,10,437.99,5,Electronics,PayPal,TRUE,FALSE,62.12,0
+CUST-2554,2/3/2025 8:06,42,Female,Canada,Desktop,2826,9,256.06,3,Sports,Credit Card,FALSE,FALSE,22.11,1
+CUST-4913,2/3/2025 8:09,33,Female,UK,Desktop,3149,8,468.56,4,Home Decor,PayPal,TRUE,TRUE,68.29,0
+CUST-6944,2/3/2025 8:12,23,Female,Germany,Desktop,3346,1,423.85,4,Clothing,PayPal,FALSE,FALSE,57.47,0
+CUST-2706,2/1/2025 18:45,26,Other,Germany,Desktop,1116,9,397.5,0,Home Decor,Credit Card,TRUE,FALSE,86.19,0
+CUST-1956,2/1/2025 18:46,42,Female,USA,Mobile,2643,16,277.45,5,Electronics,Cryptocurrency,TRUE,TRUE,10.24,1
+CUST-9892,2/3/2025 8:21,21,Other,Australia,Tablet,2803,5,47.16,4,Sports,Net Banking,TRUE,FALSE,16.84,1
+CUST-7820,2/2/2025 13:36,45,Male,UK,Mobile,1317,11,176.42,3,Sports,Debit Card,TRUE,TRUE,98.57,0
+CUST-1060,2/2/2025 13:38,22,Female,USA,Tablet,2281,1,428.25,4,Home Decor,PayPal,FALSE,FALSE,1.91,1
+CUST-3172,2/1/2025 18:50,24,Female,Germany,Tablet,2259,3,491.04,4,Electronics,Cryptocurrency,TRUE,TRUE,50.69,0
+CUST-3473,2/2/2025 13:42,31,Other,Canada,Desktop,1083,19,446.73,2,Clothing,Cryptocurrency,TRUE,FALSE,48.65,0
+CUST-6072,2/4/2025 3:28,60,Female,India,Mobile,484,9,36.94,0,Books,Cryptocurrency,TRUE,FALSE,73.68,0
+CUST-4865,2/3/2025 8:39,45,Other,India,Desktop,513,11,78.98,1,Electronics,PayPal,TRUE,TRUE,77.97,0
+CUST-6946,2/4/2025 3:36,64,Male,USA,Desktop,1517,5,234,1,Books,PayPal,TRUE,FALSE,28.79,1
+CUST-3264,2/4/2025 22:35,19,Male,Canada,Mobile,461,6,64.92,4,Clothing,Credit Card,TRUE,FALSE,67.3,0
+CUST-3026,2/3/2025 8:48,42,Female,Germany,Tablet,2386,13,233.55,0,Home Decor,Cryptocurrency,TRUE,FALSE,83.82,0
+CUST-4669,2/3/2025 8:51,44,Male,USA,Desktop,1019,17,251.11,4,Clothing,Cryptocurrency,FALSE,TRUE,1.85,1
+CUST-4377,2/1/2025 18:58,64,Male,USA,Mobile,933,16,230.5,2,Beauty,Credit Card,TRUE,TRUE,13.64,1
+CUST-1016,2/3/2025 8:57,23,Other,USA,Desktop,2028,20,332.96,3,Books,Cryptocurrency,TRUE,FALSE,22.31,1
+CUST-9430,2/4/2025 23:00,37,Other,Canada,Tablet,2759,3,79.38,3,Clothing,Credit Card,FALSE,TRUE,64.01,0
+CUST-9441,2/1/2025 19:01,42,Female,UK,Tablet,3139,2,316.85,3,Home Decor,Net Banking,FALSE,FALSE,95.68,0
+CUST-9464,2/1/2025 19:02,25,Male,Canada,Desktop,132,5,139.75,0,Electronics,Cryptocurrency,FALSE,FALSE,30.88,0
+CUST-8495,2/3/2025 9:09,50,Female,Australia,Mobile,1862,16,301.44,4,Clothing,Debit Card,FALSE,FALSE,25.09,1
+CUST-6195,2/2/2025 14:08,35,Female,Germany,Tablet,584,15,290.08,4,Clothing,Debit Card,FALSE,FALSE,66.83,0
+CUST-9096,2/4/2025 4:20,63,Male,UK,Desktop,3164,10,480.58,5,Books,Cryptocurrency,TRUE,FALSE,2.72,1
+CUST-1790,2/2/2025 14:12,49,Male,India,Desktop,3402,7,37.94,5,Clothing,Cryptocurrency,FALSE,FALSE,41.28,0
+CUST-9265,2/1/2025 19:07,36,Other,USA,Mobile,1603,12,252.66,0,Home Decor,Debit Card,TRUE,FALSE,70.25,0
+CUST-3614,2/1/2025 19:08,43,Male,Germany,Tablet,2114,20,122.15,0,Home Decor,Net Banking,FALSE,FALSE,9.53,1
+CUST-8262,2/4/2025 4:36,22,Other,UK,Tablet,2246,16,368.07,3,Electronics,Cryptocurrency,FALSE,TRUE,29.76,1
+CUST-2495,2/2/2025 14:20,55,Female,USA,Tablet,683,19,19.19,1,Books,PayPal,FALSE,FALSE,23.26,1
+CUST-8882,2/4/2025 4:44,45,Male,USA,Mobile,2280,13,37.1,2,Electronics,Cryptocurrency,FALSE,FALSE,44.21,0
+CUST-8877,2/5/2025 0:00,37,Male,USA,Mobile,202,14,181.78,1,Electronics,Debit Card,FALSE,TRUE,59,0
+CUST-7907,2/1/2025 19:13,57,Male,Australia,Mobile,1396,1,209.34,2,Home Decor,PayPal,TRUE,TRUE,68.46,0
+CUST-1788,2/3/2025 9:42,44,Female,Germany,Desktop,2184,11,347.04,2,Books,Debit Card,TRUE,TRUE,85.2,0
+CUST-2521,2/2/2025 14:30,20,Other,Canada,Tablet,2558,18,246.58,4,Sports,Cryptocurrency,FALSE,FALSE,0.5,1
+CUST-9978,2/2/2025 14:32,39,Other,India,Desktop,2081,14,95.35,4,Electronics,Net Banking,TRUE,FALSE,45.44,0
+CUST-6094,2/1/2025 19:17,63,Other,Australia,Desktop,2533,18,177.09,1,Electronics,Credit Card,FALSE,FALSE,39.23,0
+CUST-2750,2/5/2025 0:30,62,Female,Germany,Mobile,2382,2,17.98,3,Electronics,Net Banking,TRUE,FALSE,90,0
+CUST-4562,2/5/2025 0:35,45,Other,UK,Desktop,2766,13,454.28,3,Beauty,PayPal,FALSE,FALSE,85.52,0
+CUST-8977,2/5/2025 0:40,53,Other,Germany,Tablet,112,8,201.09,2,Sports,PayPal,TRUE,TRUE,33.48,0
+CUST-9981,2/1/2025 19:21,60,Female,Germany,Mobile,1056,14,189.7,5,Home Decor,Net Banking,FALSE,FALSE,85.54,0
+CUST-7408,2/1/2025 19:22,32,Female,UK,Tablet,1025,18,188.68,1,Sports,PayPal,TRUE,FALSE,72.83,0
+CUST-8105,2/4/2025 5:32,49,Other,USA,Tablet,2581,8,285.79,1,Beauty,Credit Card,FALSE,TRUE,42.06,0
+CUST-6930,2/3/2025 10:12,26,Female,Germany,Tablet,1086,2,259.49,0,Home Decor,Net Banking,TRUE,FALSE,32.84,0
+CUST-7073,2/4/2025 5:40,50,Other,Australia,Desktop,1596,13,210.77,0,Books,PayPal,TRUE,TRUE,65.61,0
+CUST-6728,2/1/2025 19:26,41,Male,Australia,Mobile,2008,17,73.31,3,Beauty,Debit Card,TRUE,TRUE,29.83,1
+CUST-9299,2/2/2025 14:54,46,Other,Australia,Desktop,518,11,187.75,0,Electronics,Cryptocurrency,TRUE,FALSE,50.68,0
+CUST-1445,2/1/2025 19:28,31,Male,Germany,Tablet,979,3,206.4,5,Beauty,Credit Card,TRUE,TRUE,76.23,0
+CUST-3695,2/3/2025 10:27,33,Other,Germany,Tablet,362,19,310.89,5,Beauty,PayPal,TRUE,TRUE,79.62,0
+CUST-6967,2/5/2025 1:30,21,Other,Canada,Tablet,2695,19,103.02,3,Sports,PayPal,TRUE,FALSE,89.03,0
+CUST-8769,2/5/2025 1:35,61,Other,Germany,Mobile,2293,16,65.74,2,Books,Credit Card,FALSE,TRUE,71.5,0
+CUST-4258,2/3/2025 10:36,32,Female,Germany,Desktop,2745,10,267.72,5,Electronics,PayPal,TRUE,FALSE,27.97,1
+CUST-4418,2/2/2025 15:06,24,Female,India,Mobile,1324,16,192.73,3,Clothing,Debit Card,TRUE,FALSE,71.54,0
+CUST-2895,2/4/2025 6:16,54,Other,UK,Mobile,82,8,397.56,2,Sports,Credit Card,TRUE,TRUE,77.78,0
+CUST-1382,2/3/2025 10:45,56,Male,UK,Tablet,542,14,474.18,0,Clothing,Debit Card,FALSE,TRUE,16.65,1
+CUST-4210,2/3/2025 10:48,27,Other,Germany,Desktop,989,4,70.1,0,Clothing,PayPal,TRUE,TRUE,31.69,0
+CUST-2108,2/2/2025 15:14,28,Female,USA,Tablet,3284,8,185.67,0,Home Decor,Net Banking,FALSE,FALSE,89.62,0
+CUST-1584,2/2/2025 15:16,47,Female,UK,Mobile,1669,3,493.71,5,Beauty,Debit Card,TRUE,FALSE,61.62,0
+CUST-4275,2/2/2025 15:18,58,Other,UK,Desktop,3214,8,326.72,1,Sports,Credit Card,FALSE,FALSE,63.15,0
+CUST-7086,2/3/2025 11:00,57,Other,Germany,Desktop,2779,20,193.88,5,Books,Debit Card,TRUE,TRUE,22.51,1
+CUST-6488,2/2/2025 15:22,46,Male,Germany,Desktop,3326,14,389.77,4,Clothing,Debit Card,TRUE,TRUE,30.25,0
+CUST-8150,2/2/2025 15:24,51,Other,Australia,Desktop,1813,15,470.08,3,Clothing,Cryptocurrency,TRUE,FALSE,6.96,1
+CUST-2108,2/1/2025 19:43,57,Female,USA,Mobile,829,5,275.14,0,Electronics,Cryptocurrency,FALSE,FALSE,48.2,0
+CUST-2644,2/4/2025 6:56,64,Female,Canada,Mobile,2772,8,284.71,5,Books,Cryptocurrency,TRUE,TRUE,77.9,0
+CUST-3081,2/5/2025 2:45,37,Other,India,Mobile,1854,13,384.91,5,Beauty,Net Banking,FALSE,TRUE,33.14,0
+CUST-8106,2/5/2025 2:50,65,Male,UK,Tablet,2577,10,430.25,2,Sports,Net Banking,TRUE,TRUE,23.02,1
+CUST-6006,2/5/2025 2:55,64,Other,Canada,Mobile,2388,12,228.81,1,Clothing,Credit Card,FALSE,TRUE,87.62,0
+CUST-3918,2/5/2025 3:00,32,Female,Canada,Desktop,710,11,376.8,5,Home Decor,Credit Card,FALSE,FALSE,92.27,0
+CUST-1406,2/4/2025 7:16,49,Other,Australia,Desktop,1608,12,180.3,3,Electronics,PayPal,TRUE,TRUE,98.07,0
+CUST-9173,2/1/2025 19:50,19,Male,UK,Mobile,284,14,236.58,0,Electronics,Credit Card,FALSE,TRUE,14.34,1
+CUST-7366,2/4/2025 7:24,25,Male,USA,Tablet,853,19,425.91,0,Clothing,Credit Card,FALSE,FALSE,24.93,1
+CUST-4988,2/5/2025 3:20,37,Female,USA,Tablet,2505,10,54.89,0,Beauty,Debit Card,FALSE,FALSE,63.09,0
+CUST-7925,2/5/2025 3:25,22,Other,Canada,Tablet,2567,1,131.45,0,Books,Credit Card,TRUE,FALSE,85.59,0
+CUST-2463,2/1/2025 19:54,26,Male,Canada,Mobile,389,4,240.45,0,Books,PayPal,TRUE,FALSE,4.41,1
+CUST-2496,2/4/2025 7:40,49,Female,Canada,Mobile,1084,4,219.91,1,Clothing,Credit Card,TRUE,TRUE,98.5,0
+CUST-2230,2/1/2025 19:56,55,Female,USA,Tablet,520,2,433.59,0,Clothing,PayPal,FALSE,FALSE,51.07,0
+CUST-6866,2/2/2025 15:54,40,Other,Australia,Mobile,3568,10,432.29,2,Home Decor,Net Banking,TRUE,TRUE,76.82,0
+CUST-3753,2/1/2025 19:58,55,Male,Germany,Tablet,3077,6,257.73,2,Sports,Net Banking,FALSE,FALSE,93.51,0
+CUST-8232,2/5/2025 3:55,26,Other,USA,Mobile,1109,16,408.63,5,Sports,PayPal,FALSE,FALSE,88.3,0
+CUST-3931,2/3/2025 12:00,29,Male,USA,Tablet,1581,18,166.03,1,Clothing,PayPal,TRUE,TRUE,10.26,1
+CUST-5864,2/3/2025 12:03,65,Male,UK,Mobile,266,6,126.9,4,Sports,PayPal,TRUE,FALSE,31.42,0
+CUST-1712,2/1/2025 20:02,36,Female,Germany,Desktop,779,6,294.22,5,Beauty,Cryptocurrency,FALSE,FALSE,78.5,0
+CUST-7832,2/1/2025 20:03,46,Male,Canada,Mobile,833,10,99.23,5,Sports,Net Banking,TRUE,FALSE,74.64,0
+CUST-1249,2/2/2025 16:08,65,Male,Canada,Mobile,3422,19,234.3,1,Sports,Credit Card,FALSE,TRUE,43.84,0
+CUST-7284,2/3/2025 12:15,20,Female,USA,Tablet,1776,12,201.05,3,Books,Net Banking,FALSE,FALSE,67.17,0
+CUST-9901,2/2/2025 16:12,47,Female,India,Mobile,1634,12,113.23,2,Home Decor,Credit Card,FALSE,TRUE,69.95,0
+CUST-9772,2/3/2025 12:21,37,Female,USA,Mobile,2834,9,425.93,5,Clothing,Credit Card,FALSE,TRUE,52.3,0
+CUST-3219,2/1/2025 20:08,60,Male,Australia,Mobile,131,12,101.32,4,Beauty,Debit Card,TRUE,FALSE,8.14,1
+CUST-6721,2/2/2025 16:18,35,Male,USA,Desktop,1567,3,451.69,0,Beauty,Credit Card,TRUE,FALSE,61.47,0
+CUST-9694,2/3/2025 12:30,64,Other,India,Tablet,2737,10,82.67,1,Clothing,Cryptocurrency,FALSE,FALSE,82.88,0
+CUST-7471,2/5/2025 4:55,27,Male,UK,Desktop,3435,3,160.43,3,Electronics,Debit Card,FALSE,TRUE,7.78,1
+CUST-6986,2/4/2025 8:48,20,Other,Germany,Mobile,1408,11,221.53,2,Sports,PayPal,FALSE,TRUE,29.09,1
+CUST-8150,2/5/2025 5:05,54,Female,Germany,Tablet,1422,20,52.51,5,Sports,Cryptocurrency,TRUE,TRUE,16.63,1
+CUST-9546,2/5/2025 5:10,20,Male,India,Desktop,2840,20,108.2,1,Beauty,Cryptocurrency,FALSE,TRUE,95.27,0
+CUST-4549,2/1/2025 20:15,47,Male,Canada,Mobile,2580,16,142.3,0,Clothing,PayPal,TRUE,FALSE,14.83,1
+CUST-7549,2/5/2025 5:20,46,Other,India,Mobile,1191,4,114.26,2,Electronics,Net Banking,TRUE,TRUE,82.61,0
+CUST-6826,2/3/2025 12:51,23,Female,USA,Desktop,2765,2,100.69,1,Home Decor,Debit Card,TRUE,TRUE,25.56,1
+CUST-5511,2/4/2025 9:12,35,Male,Germany,Mobile,2923,20,223,4,Beauty,Net Banking,TRUE,TRUE,92.92,0
+CUST-7053,2/2/2025 16:38,53,Other,Australia,Mobile,1008,4,29.34,3,Clothing,Debit Card,TRUE,FALSE,7.23,1
+CUST-4842,2/2/2025 16:40,49,Female,Canada,Tablet,2819,7,146.52,1,Books,PayPal,FALSE,FALSE,52.53,0
+CUST-1630,2/5/2025 5:45,28,Other,Germany,Tablet,641,4,156.05,5,Beauty,Credit Card,TRUE,FALSE,57.81,0
+CUST-5232,2/1/2025 20:22,37,Other,UK,Desktop,3240,9,250.12,4,Electronics,PayPal,FALSE,FALSE,78.51,0
+CUST-9912,2/1/2025 20:23,51,Male,Australia,Desktop,101,9,470.47,1,Home Decor,PayPal,TRUE,TRUE,30.65,0
+CUST-5504,2/5/2025 6:00,31,Female,India,Mobile,2400,11,180.58,5,Beauty,Credit Card,FALSE,FALSE,96.44,0
+CUST-9782,2/4/2025 9:40,35,Other,USA,Desktop,508,19,58.2,1,Home Decor,Net Banking,FALSE,FALSE,43.35,0
+CUST-9401,2/3/2025 13:18,33,Male,Germany,Tablet,3051,6,462.11,1,Books,Cryptocurrency,FALSE,FALSE,19.19,1
+CUST-1800,2/3/2025 13:21,36,Female,USA,Tablet,921,6,208.48,3,Beauty,Cryptocurrency,FALSE,TRUE,6.61,1
+CUST-6277,2/5/2025 6:20,36,Female,UK,Tablet,3522,19,428.83,5,Electronics,Credit Card,FALSE,TRUE,56.43,0
+CUST-1575,2/3/2025 13:27,39,Other,Germany,Tablet,2504,2,91.19,4,Sports,Net Banking,TRUE,FALSE,17.9,1
+CUST-8994,2/5/2025 6:30,41,Female,India,Tablet,1749,10,21.89,5,Books,Credit Card,TRUE,FALSE,45.03,0
+CUST-6451,2/5/2025 6:35,50,Female,Canada,Desktop,1613,12,64.98,3,Electronics,Net Banking,TRUE,FALSE,11.87,1
+CUST-7504,2/2/2025 17:04,42,Female,Germany,Mobile,3192,17,420.39,5,Home Decor,Credit Card,TRUE,FALSE,69.85,0
+CUST-8329,2/2/2025 17:06,21,Female,UK,Tablet,175,15,308.87,1,Beauty,PayPal,TRUE,FALSE,48.66,0
+CUST-8866,2/2/2025 17:08,41,Other,Canada,Desktop,1357,16,276.3,4,Electronics,Cryptocurrency,TRUE,FALSE,64.56,0
+CUST-8201,2/4/2025 10:20,58,Male,India,Mobile,473,13,40.03,0,Home Decor,PayPal,FALSE,FALSE,0.51,1
+CUST-2683,2/5/2025 7:00,26,Female,Canada,Tablet,883,2,9.92,2,Clothing,Credit Card,TRUE,FALSE,24.14,1
+CUST-1329,2/2/2025 17:14,45,Male,Canada,Mobile,1856,7,300.74,3,Electronics,PayPal,TRUE,FALSE,57.03,0
+CUST-4294,2/3/2025 13:54,46,Other,UK,Desktop,37,8,252.67,4,Sports,Debit Card,TRUE,FALSE,17.57,1
+CUST-4177,2/1/2025 20:39,24,Other,India,Tablet,1489,16,196.37,3,Home Decor,Net Banking,TRUE,TRUE,90.41,0
+CUST-9538,2/2/2025 17:20,53,Female,India,Mobile,2912,17,262.68,1,Home Decor,Cryptocurrency,TRUE,TRUE,47.5,0
+CUST-1625,2/3/2025 14:03,25,Male,Australia,Mobile,1340,7,431.16,1,Home Decor,Debit Card,FALSE,TRUE,68.94,0
+CUST-7076,2/3/2025 14:06,58,Male,Canada,Desktop,3402,15,468.12,0,Electronics,PayPal,FALSE,FALSE,9.21,1
+CUST-6746,2/2/2025 17:26,23,Other,Canada,Mobile,1951,11,269.33,0,Home Decor,Cryptocurrency,FALSE,FALSE,62.8,0
+CUST-8430,2/5/2025 7:40,33,Female,USA,Desktop,2065,9,236.42,4,Beauty,Credit Card,FALSE,TRUE,65.89,0
+CUST-3741,2/2/2025 17:30,62,Female,Germany,Desktop,2462,7,326.81,1,Clothing,Net Banking,FALSE,FALSE,48.41,0
+CUST-2773,2/2/2025 17:32,25,Female,UK,Tablet,1497,15,370.15,2,Beauty,Cryptocurrency,FALSE,TRUE,68.39,0
+CUST-1049,2/1/2025 20:47,50,Male,Canada,Tablet,432,17,397.15,4,Books,Credit Card,FALSE,FALSE,40.64,0
+CUST-4191,2/3/2025 14:24,48,Male,Australia,Desktop,881,17,439.08,0,Home Decor,Cryptocurrency,TRUE,TRUE,71.22,0
+CUST-5410,2/2/2025 17:38,39,Male,USA,Tablet,1966,1,135.56,1,Books,Net Banking,TRUE,FALSE,56.73,0
+CUST-6976,2/3/2025 14:30,64,Other,Germany,Tablet,793,3,127.52,5,Home Decor,Debit Card,FALSE,FALSE,41.45,0
+CUST-4582,2/5/2025 8:15,40,Female,UK,Tablet,2680,3,62.68,3,Home Decor,Credit Card,TRUE,FALSE,3.24,1
+CUST-7906,2/2/2025 17:44,51,Male,Germany,Mobile,2122,16,214.66,0,Sports,PayPal,TRUE,TRUE,6.77,1
+CUST-6385,2/1/2025 20:53,44,Male,Germany,Tablet,1060,20,98.15,5,Beauty,Debit Card,TRUE,FALSE,6.44,1
+CUST-6303,2/1/2025 20:54,62,Female,Germany,Mobile,1143,7,480.81,1,Clothing,Debit Card,FALSE,TRUE,9.24,1
+CUST-7954,2/2/2025 17:50,23,Male,Germany,Desktop,2561,9,189.28,2,Electronics,Net Banking,TRUE,TRUE,47.55,0
+CUST-7675,2/3/2025 14:48,54,Male,Germany,Desktop,3459,12,131.76,2,Sports,Net Banking,FALSE,TRUE,40.57,0
+CUST-1370,2/4/2025 11:48,53,Male,Australia,Tablet,1894,9,159.96,2,Sports,Credit Card,TRUE,TRUE,18.95,1
+CUST-9854,2/5/2025 8:50,43,Other,Canada,Mobile,2601,1,284.02,5,Sports,Cryptocurrency,TRUE,TRUE,65.89,0
+CUST-3677,2/1/2025 20:59,53,Other,Canada,Mobile,1416,11,193.15,0,Clothing,PayPal,TRUE,TRUE,50.13,0
+CUST-1708,2/3/2025 15:00,64,Female,Australia,Mobile,632,15,57.36,2,Electronics,Cryptocurrency,TRUE,FALSE,93.97,0
+CUST-9323,2/4/2025 12:04,25,Male,UK,Tablet,363,7,103.56,4,Sports,Cryptocurrency,FALSE,TRUE,55.87,0
+CUST-3668,2/1/2025 21:02,36,Male,India,Tablet,581,15,150.96,2,Home Decor,Debit Card,FALSE,FALSE,76.41,0
+CUST-3355,2/5/2025 9:15,42,Female,Canada,Tablet,3582,10,221.12,1,Beauty,Credit Card,TRUE,TRUE,22.65,1
+CUST-9460,2/4/2025 12:16,31,Male,USA,Mobile,3572,2,428.62,2,Clothing,PayPal,TRUE,FALSE,22.6,1
+CUST-4262,2/1/2025 21:05,43,Other,UK,Desktop,1164,18,316.64,0,Sports,Debit Card,FALSE,FALSE,80.59,0
+CUST-2121,2/5/2025 9:30,53,Other,USA,Desktop,1139,13,337.56,4,Books,Net Banking,TRUE,FALSE,95.11,0
+CUST-7101,2/5/2025 9:35,30,Female,Germany,Tablet,3527,11,274.58,2,Home Decor,Net Banking,FALSE,FALSE,67.45,0
+CUST-5079,2/3/2025 15:24,30,Female,USA,Mobile,274,1,254.18,0,Beauty,PayPal,FALSE,FALSE,82.39,0
+CUST-1322,2/4/2025 12:36,25,Male,India,Desktop,2933,8,30.91,3,Beauty,Net Banking,FALSE,FALSE,84.28,0
+CUST-4379,2/1/2025 21:10,19,Other,India,Tablet,1399,19,421.34,2,Books,PayPal,TRUE,TRUE,39.44,0
+CUST-2270,2/5/2025 9:55,39,Male,Canada,Mobile,609,8,21.96,1,Books,Net Banking,FALSE,FALSE,24.5,1
+CUST-4722,2/3/2025 15:36,48,Male,Australia,Mobile,2123,9,299.16,1,Beauty,Cryptocurrency,FALSE,TRUE,74.21,0
+CUST-6984,2/5/2025 10:05,26,Other,India,Desktop,1927,6,431.4,4,Beauty,Cryptocurrency,TRUE,TRUE,86.97,0
+CUST-7428,2/1/2025 21:14,59,Other,UK,Tablet,2889,16,324.9,4,Home Decor,Debit Card,FALSE,FALSE,73.55,0
+CUST-2101,2/3/2025 15:45,58,Female,Germany,Tablet,2647,18,102.55,0,Sports,Net Banking,TRUE,TRUE,18.62,1
+CUST-3276,2/1/2025 21:16,29,Female,Canada,Mobile,194,4,492.91,3,Books,Debit Card,FALSE,FALSE,20.15,1
+CUST-9180,2/4/2025 13:08,26,Other,Canada,Mobile,458,8,407.5,3,Sports,Net Banking,TRUE,TRUE,22.31,1
+CUST-5630,2/5/2025 10:30,31,Male,India,Desktop,481,7,339.75,5,Electronics,PayPal,FALSE,TRUE,56.39,0
+CUST-4037,2/3/2025 15:57,49,Female,Germany,Tablet,283,12,384.19,1,Books,PayPal,FALSE,TRUE,74.07,0
+CUST-5722,2/5/2025 10:40,54,Other,USA,Tablet,2107,10,441.98,3,Electronics,Debit Card,TRUE,FALSE,4.51,1
+CUST-8101,2/5/2025 10:45,56,Female,Australia,Desktop,470,11,203.4,3,Sports,Debit Card,FALSE,FALSE,29.17,1
+CUST-4901,2/4/2025 13:28,56,Male,Germany,Tablet,3339,10,158.48,5,Home Decor,Net Banking,TRUE,FALSE,99.7,0
+CUST-7249,2/2/2025 18:46,41,Male,Canada,Mobile,2100,3,118.87,3,Electronics,Cryptocurrency,TRUE,TRUE,70.35,0
+CUST-3584,2/2/2025 18:48,39,Female,India,Tablet,2436,2,392.05,4,Beauty,Debit Card,TRUE,FALSE,95.57,0
+CUST-8904,2/3/2025 16:15,54,Male,Australia,Tablet,3144,16,356.98,4,Electronics,PayPal,FALSE,TRUE,84.93,0
+CUST-4572,2/2/2025 18:52,22,Other,Germany,Mobile,928,16,240.79,4,Home Decor,Debit Card,FALSE,FALSE,63.53,0
+CUST-9236,2/1/2025 21:27,25,Other,India,Desktop,2407,7,287.09,3,Books,Credit Card,TRUE,TRUE,32.83,0
+CUST-1427,2/3/2025 16:24,40,Female,India,Tablet,137,3,230.26,4,Sports,Debit Card,FALSE,FALSE,44.97,0
+CUST-4664,2/3/2025 16:27,30,Male,India,Desktop,397,1,375.01,2,Home Decor,PayPal,FALSE,TRUE,82.21,0
+CUST-5433,2/4/2025 14:00,39,Male,USA,Mobile,3211,4,260.95,5,Electronics,PayPal,TRUE,TRUE,70.82,0
+CUST-4320,2/1/2025 21:31,58,Male,Germany,Tablet,2078,20,231.4,0,Beauty,Cryptocurrency,FALSE,FALSE,23.19,1
+CUST-6495,2/3/2025 16:36,25,Male,India,Tablet,1195,15,349.19,4,Home Decor,Cryptocurrency,TRUE,TRUE,46.01,0
+CUST-5302,2/3/2025 16:39,65,Other,Australia,Desktop,1943,16,239.24,3,Books,PayPal,FALSE,FALSE,37.04,0
+CUST-5790,2/5/2025 11:50,44,Other,Germany,Mobile,1706,14,90.92,5,Books,Cryptocurrency,TRUE,TRUE,24.2,1
+CUST-2269,2/5/2025 11:55,35,Female,Canada,Mobile,2113,14,207.8,2,Beauty,Cryptocurrency,TRUE,TRUE,86.26,0
+CUST-9982,2/3/2025 16:48,49,Female,Germany,Tablet,2699,8,34.1,0,Beauty,Cryptocurrency,FALSE,FALSE,30.67,0
+CUST-8206,2/3/2025 16:51,39,Female,India,Desktop,3530,12,310.32,3,Beauty,Credit Card,TRUE,TRUE,61.21,0
+CUST-3208,2/5/2025 12:10,65,Other,India,Mobile,1679,15,48.51,0,Beauty,Debit Card,FALSE,FALSE,62.88,0
+CUST-9610,2/3/2025 16:57,50,Male,USA,Desktop,2156,10,198.52,4,Sports,Cryptocurrency,TRUE,FALSE,49.01,0
+CUST-1193,2/2/2025 19:20,47,Other,UK,Desktop,2653,14,492.95,4,Home Decor,Credit Card,TRUE,TRUE,33.97,0
+CUST-4480,2/1/2025 21:41,47,Male,Canada,Mobile,1240,5,268.41,2,Electronics,Cryptocurrency,FALSE,TRUE,23.99,1
+CUST-7310,2/4/2025 14:48,49,Male,Germany,Desktop,2870,17,403.67,5,Books,Net Banking,FALSE,TRUE,19.25,1
+CUST-8174,2/1/2025 21:43,21,Other,UK,Tablet,2748,20,184.99,0,Clothing,Net Banking,TRUE,FALSE,63.89,0
+CUST-5726,2/2/2025 19:28,42,Female,Canada,Desktop,1981,3,117.26,5,Sports,Net Banking,FALSE,FALSE,58.81,0
+CUST-4995,2/1/2025 21:45,27,Female,Germany,Tablet,2336,12,365.1,5,Sports,Debit Card,TRUE,FALSE,58.57,0
+CUST-9673,2/2/2025 19:32,50,Other,USA,Desktop,2143,16,130.78,2,Sports,Credit Card,TRUE,TRUE,90.16,0
+CUST-6062,2/4/2025 15:08,18,Female,UK,Mobile,1930,12,489.05,1,Beauty,Cryptocurrency,FALSE,FALSE,61.56,0
+CUST-6798,2/1/2025 21:48,62,Female,UK,Desktop,1889,8,272.07,2,Beauty,Net Banking,TRUE,FALSE,95.23,0
+CUST-7144,2/5/2025 13:05,55,Female,Germany,Tablet,3592,1,392.17,1,Clothing,Net Banking,FALSE,TRUE,62.35,0
+CUST-8707,2/5/2025 13:10,56,Female,UK,Tablet,735,13,71.36,5,Books,Cryptocurrency,TRUE,FALSE,89.46,0
+CUST-6405,2/1/2025 21:51,65,Male,USA,Mobile,1619,13,246.23,5,Electronics,PayPal,TRUE,FALSE,45.6,0
+CUST-2472,2/1/2025 21:52,28,Other,Germany,Desktop,1760,12,141,0,Sports,Net Banking,TRUE,FALSE,92.46,0
+CUST-8726,2/1/2025 21:53,46,Male,Germany,Mobile,2190,1,170.72,1,Electronics,Debit Card,FALSE,TRUE,25.06,1
+CUST-9626,2/4/2025 15:36,37,Male,UK,Tablet,565,3,1.2,0,Electronics,Cryptocurrency,FALSE,FALSE,5.81,1
+CUST-9908,2/3/2025 17:45,27,Male,Australia,Tablet,2145,6,184.81,4,Sports,PayPal,TRUE,TRUE,8.56,1
+CUST-9778,2/2/2025 19:52,20,Other,India,Tablet,3311,18,174.6,4,Electronics,Net Banking,FALSE,FALSE,61.57,0
+CUST-8051,2/5/2025 13:45,47,Male,Australia,Tablet,2129,15,138.78,0,Beauty,Net Banking,TRUE,TRUE,56.53,0
+CUST-5861,2/1/2025 21:58,23,Female,UK,Mobile,1701,14,86.08,0,Electronics,Credit Card,TRUE,FALSE,6.6,1
+CUST-8028,2/1/2025 21:59,25,Other,Canada,Mobile,3270,19,447.34,2,Home Decor,PayPal,TRUE,TRUE,19.32,1
+CUST-6440,2/1/2025 22:00,57,Female,UK,Mobile,981,10,450.87,0,Beauty,Cryptocurrency,TRUE,TRUE,27,1
+CUST-7756,2/1/2025 22:01,64,Female,Canada,Tablet,77,17,412.19,4,Books,Net Banking,TRUE,TRUE,90.83,0
+CUST-7283,2/1/2025 22:02,46,Male,Australia,Desktop,447,11,419.07,0,Clothing,Cryptocurrency,TRUE,FALSE,55.55,0
+CUST-5205,2/2/2025 20:06,22,Male,Germany,Mobile,68,8,469.5,3,Books,Credit Card,TRUE,FALSE,72.22,0
+CUST-2540,2/4/2025 16:16,53,Female,USA,Mobile,1261,7,121.11,1,Electronics,Debit Card,FALSE,TRUE,60.95,0
+CUST-3164,2/5/2025 14:25,28,Male,Australia,Desktop,2767,12,492.35,4,Sports,PayPal,TRUE,FALSE,85.01,0
+CUST-1305,2/3/2025 18:18,57,Other,Canada,Desktop,1370,6,354.66,0,Electronics,PayPal,TRUE,FALSE,49.4,0
+CUST-6921,2/4/2025 16:28,39,Other,Australia,Desktop,2101,12,209.87,5,Clothing,PayPal,TRUE,TRUE,24.01,1
+CUST-9433,2/2/2025 20:16,25,Female,USA,Tablet,421,18,469.75,1,Beauty,Credit Card,FALSE,FALSE,74.64,0
+CUST-2862,2/2/2025 20:18,64,Other,Canada,Tablet,754,8,228.91,3,Clothing,Credit Card,TRUE,TRUE,51.04,0
+CUST-3042,2/2/2025 20:20,56,Other,Germany,Desktop,1022,19,193.47,4,Electronics,PayPal,TRUE,TRUE,2.49,1
+CUST-8619,2/4/2025 16:44,61,Female,India,Desktop,3375,3,395.5,3,Home Decor,Cryptocurrency,FALSE,FALSE,60.85,0
+CUST-6487,2/2/2025 20:24,29,Other,USA,Mobile,518,13,491.55,2,Clothing,Debit Card,FALSE,FALSE,56.35,0
+CUST-4933,2/4/2025 16:52,56,Other,Germany,Tablet,239,10,133.35,1,Electronics,Cryptocurrency,FALSE,TRUE,33.43,0
+CUST-3457,2/4/2025 16:56,46,Other,UK,Desktop,3462,9,207.89,5,Home Decor,Credit Card,FALSE,FALSE,40.78,0
+CUST-3853,2/1/2025 22:15,55,Other,USA,Tablet,2744,5,450.81,4,Beauty,Net Banking,FALSE,TRUE,73.61,0
+CUST-5741,2/4/2025 17:04,38,Male,USA,Mobile,52,11,433.41,1,Home Decor,Credit Card,FALSE,TRUE,47.95,0
+CUST-4624,2/3/2025 18:51,62,Male,Germany,Mobile,2959,8,12.68,4,Electronics,Credit Card,TRUE,FALSE,78.76,0
+CUST-5714,2/1/2025 22:18,30,Female,Canada,Desktop,231,12,194.42,3,Books,PayPal,FALSE,FALSE,40.9,0
+CUST-2981,2/4/2025 17:16,22,Male,USA,Mobile,2635,1,272.15,0,Books,Debit Card,TRUE,FALSE,39.35,0
+CUST-9867,2/3/2025 19:00,31,Male,India,Mobile,487,10,432.72,1,Books,Net Banking,TRUE,FALSE,92.51,0
+CUST-9905,2/1/2025 22:21,20,Male,Australia,Tablet,2643,13,235.96,3,Books,Credit Card,TRUE,FALSE,95.54,0
+CUST-4216,2/4/2025 17:28,62,Male,Germany,Tablet,3138,6,241.04,3,Home Decor,Cryptocurrency,FALSE,FALSE,4.89,1
+CUST-3494,2/4/2025 17:32,47,Female,Canada,Tablet,233,10,387.99,3,Clothing,Debit Card,FALSE,TRUE,13.14,1
+CUST-5894,2/3/2025 19:12,65,Female,India,Tablet,3035,11,65.04,5,Beauty,Credit Card,TRUE,TRUE,57.75,0
+CUST-6813,2/2/2025 20:50,21,Other,India,Tablet,772,9,175.39,4,Books,PayPal,TRUE,TRUE,90.82,0
+CUST-8134,2/1/2025 22:26,43,Other,India,Mobile,2229,4,171.47,2,Books,Credit Card,TRUE,TRUE,64.12,0
+CUST-2953,2/4/2025 17:48,60,Female,Australia,Tablet,1685,5,426.93,0,Beauty,Cryptocurrency,TRUE,TRUE,90.25,0
+CUST-1666,2/1/2025 22:28,35,Other,USA,Desktop,2789,13,129.7,3,Clothing,PayPal,TRUE,FALSE,78.33,0
+CUST-9954,2/2/2025 20:58,53,Other,UK,Tablet,1550,19,192.07,3,Sports,PayPal,FALSE,FALSE,6.28,1
+CUST-5316,2/5/2025 16:30,53,Female,Australia,Tablet,1605,3,7.2,4,Beauty,Cryptocurrency,FALSE,FALSE,55.19,0
+CUST-3937,2/4/2025 18:04,63,Male,USA,Mobile,2065,15,285.98,5,Sports,Debit Card,FALSE,TRUE,61.41,0
+CUST-7212,2/5/2025 16:40,48,Other,Australia,Desktop,771,8,94.98,0,Sports,Debit Card,TRUE,FALSE,20.98,1
+CUST-7194,2/2/2025 21:06,36,Female,UK,Desktop,2811,11,426.35,1,Clothing,Debit Card,FALSE,TRUE,68.54,0
+CUST-3222,2/5/2025 16:50,45,Male,Germany,Mobile,2062,3,212.55,1,Clothing,Debit Card,FALSE,FALSE,5.73,1
+CUST-3191,2/2/2025 21:10,59,Male,UK,Desktop,302,13,14.98,4,Beauty,Credit Card,FALSE,FALSE,91.15,0
+CUST-1002,2/5/2025 17:00,39,Female,Germany,Tablet,2870,20,138.45,0,Books,Debit Card,TRUE,TRUE,73.33,0
+CUST-3130,2/2/2025 21:14,47,Other,India,Mobile,60,16,348.64,5,Sports,Debit Card,TRUE,TRUE,44.06,0
+CUST-7474,2/3/2025 19:54,23,Other,Germany,Desktop,167,14,417.08,2,Sports,Credit Card,TRUE,FALSE,61.48,0
+CUST-2767,2/1/2025 22:39,22,Male,UK,Mobile,2030,9,30.52,4,Sports,Cryptocurrency,TRUE,FALSE,4.86,1
+CUST-4436,2/5/2025 17:20,26,Other,USA,Tablet,1243,15,369.79,4,Electronics,Credit Card,TRUE,TRUE,47.12,0
+CUST-9074,2/4/2025 18:44,47,Female,Australia,Tablet,3082,14,83.25,0,Electronics,Net Banking,TRUE,TRUE,67.58,0
+CUST-6387,2/1/2025 22:42,39,Other,USA,Desktop,3186,17,78.9,2,Clothing,Net Banking,FALSE,TRUE,73.08,0
+CUST-5594,2/1/2025 22:43,49,Female,USA,Desktop,1859,15,22.78,2,Beauty,Cryptocurrency,TRUE,FALSE,36.18,0
+CUST-3555,2/1/2025 22:44,21,Other,USA,Tablet,2249,11,156.73,0,Clothing,Cryptocurrency,TRUE,TRUE,0.08,1
+CUST-6692,2/5/2025 17:45,26,Male,India,Desktop,3340,5,299.26,5,Books,Debit Card,TRUE,FALSE,1.77,1
+CUST-3928,2/1/2025 22:46,33,Other,USA,Desktop,622,8,82.11,4,Sports,Debit Card,FALSE,TRUE,74.59,0
+CUST-3465,2/1/2025 22:47,24,Male,Germany,Tablet,3293,4,424.12,1,Home Decor,PayPal,TRUE,FALSE,15.94,1
+CUST-1158,2/4/2025 19:12,54,Male,India,Desktop,2172,2,12.6,4,Beauty,Debit Card,FALSE,FALSE,98.14,0
+CUST-4562,2/4/2025 19:16,42,Other,India,Mobile,450,5,43.77,2,Sports,Net Banking,FALSE,FALSE,18.52,1
+CUST-4602,2/5/2025 18:10,48,Female,Canada,Mobile,2056,3,348.1,4,Electronics,Credit Card,FALSE,TRUE,48.79,0
+CUST-2303,2/1/2025 22:51,55,Male,Canada,Tablet,1591,20,93.71,3,Books,Net Banking,FALSE,FALSE,90.98,0
+CUST-7454,2/5/2025 18:20,27,Other,Germany,Mobile,813,14,460.92,2,Books,Debit Card,FALSE,FALSE,13.5,1
+CUST-5276,2/2/2025 21:46,20,Other,UK,Mobile,2810,10,434.46,2,Clothing,Net Banking,FALSE,FALSE,5.1,1
+CUST-3346,2/3/2025 20:42,25,Female,India,Desktop,2317,6,73.02,0,Beauty,Cryptocurrency,FALSE,FALSE,76.51,0
+CUST-4859,2/1/2025 22:55,46,Other,Germany,Desktop,2063,16,466.58,3,Home Decor,Cryptocurrency,TRUE,TRUE,50.14,0
+CUST-7453,2/3/2025 20:48,28,Other,Canada,Desktop,1239,1,374.01,1,Clothing,Debit Card,FALSE,FALSE,84.56,0
+CUST-3674,2/1/2025 22:57,22,Female,UK,Desktop,2772,6,26.64,4,Books,Credit Card,TRUE,FALSE,16.59,1
+CUST-3715,2/3/2025 20:54,47,Male,Canada,Mobile,1693,11,195.41,2,Electronics,Debit Card,TRUE,FALSE,95.05,0
+CUST-7309,2/5/2025 18:55,55,Female,Canada,Desktop,1014,8,482.29,5,Clothing,Net Banking,FALSE,TRUE,95.31,0
+CUST-9398,2/3/2025 21:00,33,Other,India,Tablet,1449,20,375.92,1,Books,Credit Card,FALSE,TRUE,48.23,0
+CUST-4769,2/4/2025 20:04,25,Male,Germany,Mobile,1536,7,108.4,1,Beauty,Debit Card,FALSE,FALSE,40.84,0
+CUST-5670,2/5/2025 19:10,21,Female,Canada,Tablet,2407,2,195.56,5,Sports,Debit Card,FALSE,TRUE,13.39,1
+CUST-3196,2/1/2025 23:03,54,Female,UK,Mobile,3084,7,499.35,3,Sports,Net Banking,FALSE,TRUE,78.26,0
+CUST-8526,2/5/2025 19:20,45,Male,UK,Mobile,436,19,117.11,4,Books,Cryptocurrency,FALSE,FALSE,88.97,0
+CUST-4609,2/4/2025 20:20,28,Other,India,Desktop,2168,1,370.98,2,Home Decor,Cryptocurrency,FALSE,FALSE,50.02,0
+CUST-7383,2/2/2025 22:12,23,Female,Australia,Tablet,1979,6,316.97,4,Books,Cryptocurrency,TRUE,FALSE,17.9,1
+CUST-6936,2/3/2025 21:21,42,Female,Australia,Tablet,1708,13,380.67,0,Home Decor,Credit Card,TRUE,TRUE,72.41,0
+CUST-5419,2/4/2025 20:32,42,Other,Germany,Desktop,1981,1,129.16,3,Clothing,Cryptocurrency,TRUE,TRUE,84.65,0
+CUST-2951,2/3/2025 21:27,63,Other,Canada,Mobile,2953,1,201.71,5,Clothing,Debit Card,FALSE,FALSE,99.24,0
+CUST-1636,2/3/2025 21:30,52,Male,Germany,Tablet,3417,1,198.59,5,Electronics,Net Banking,TRUE,FALSE,44.92,0
+CUST-4914,2/3/2025 21:33,63,Other,India,Desktop,2097,12,467.14,3,Sports,Cryptocurrency,TRUE,TRUE,65.78,0
+CUST-5586,2/2/2025 22:24,48,Other,Germany,Mobile,820,5,140.41,4,Books,Credit Card,TRUE,TRUE,3.75,1
+CUST-4632,2/2/2025 22:26,59,Female,Canada,Desktop,2849,16,210.38,1,Books,Net Banking,FALSE,TRUE,44.21,0
+CUST-2496,2/2/2025 22:28,24,Other,India,Tablet,3133,12,85.26,1,Electronics,Cryptocurrency,TRUE,TRUE,80.37,0
+CUST-8431,2/5/2025 20:15,57,Female,USA,Desktop,2821,10,182.77,0,Sports,Debit Card,TRUE,FALSE,16.21,1
+CUST-9703,2/2/2025 22:32,43,Other,Germany,Mobile,1337,13,45.49,4,Beauty,Net Banking,FALSE,FALSE,91.63,0
+CUST-5000,2/1/2025 23:17,48,Female,India,Desktop,339,8,135.02,0,Books,Cryptocurrency,TRUE,TRUE,27.07,1
+CUST-5093,2/2/2025 22:36,49,Female,Canada,Mobile,863,6,355.35,2,Sports,Net Banking,TRUE,FALSE,89.92,0
+CUST-1343,2/4/2025 21:16,28,Other,UK,Desktop,721,2,68.42,2,Beauty,Debit Card,FALSE,FALSE,74.58,0
+CUST-6816,2/2/2025 22:40,25,Male,Australia,Tablet,2828,8,483.49,5,Home Decor,PayPal,FALSE,FALSE,28.35,1
+CUST-7912,2/2/2025 22:42,56,Female,Australia,Tablet,3194,3,97.44,4,Clothing,PayPal,FALSE,TRUE,76.76,0
+CUST-1541,2/3/2025 22:06,18,Female,UK,Tablet,3336,7,340.61,3,Clothing,Net Banking,TRUE,TRUE,68.48,0
+CUST-2534,2/2/2025 22:46,24,Male,UK,Tablet,3116,18,421.66,3,Books,Credit Card,TRUE,TRUE,11.68,1
+CUST-5519,2/5/2025 21:00,21,Other,India,Mobile,2009,17,251.37,4,Sports,Debit Card,TRUE,FALSE,11.79,1
+CUST-2525,2/2/2025 22:50,58,Other,UK,Tablet,430,13,472.79,4,Electronics,Credit Card,TRUE,FALSE,67.21,0
+CUST-5053,2/3/2025 22:18,62,Female,Germany,Mobile,3269,8,343.37,2,Electronics,PayPal,FALSE,FALSE,98.98,0
+CUST-7927,2/5/2025 21:15,51,Male,USA,Tablet,3533,9,121.12,3,Electronics,Credit Card,TRUE,TRUE,18.51,1
+CUST-7199,2/2/2025 22:56,48,Female,USA,Tablet,2512,9,158.35,4,Clothing,PayPal,TRUE,TRUE,65.28,0
+CUST-3736,2/1/2025 23:29,21,Other,UK,Tablet,1514,7,479.68,4,Electronics,Net Banking,FALSE,FALSE,61.11,0
+CUST-2630,2/4/2025 22:00,62,Male,Australia,Desktop,2575,1,302.37,1,Clothing,PayPal,TRUE,TRUE,18.01,1
+CUST-8648,2/1/2025 23:31,63,Female,Germany,Tablet,1895,18,101.83,3,Home Decor,Cryptocurrency,TRUE,FALSE,86.04,0
+CUST-9418,2/5/2025 21:40,26,Male,Australia,Desktop,499,18,296.47,5,Books,Cryptocurrency,TRUE,FALSE,95.75,0
+CUST-8426,2/3/2025 22:39,53,Female,Australia,Tablet,1012,9,305.02,2,Home Decor,Debit Card,FALSE,TRUE,85.67,0
+CUST-8245,2/2/2025 23:08,20,Female,UK,Tablet,310,20,324.56,0,Beauty,Credit Card,TRUE,TRUE,16.32,1
+CUST-3658,2/3/2025 22:45,59,Male,Germany,Mobile,1276,8,55.39,0,Sports,PayPal,TRUE,FALSE,43.02,0
+CUST-5840,2/3/2025 22:48,43,Other,Germany,Mobile,903,2,375.6,4,Books,Debit Card,FALSE,FALSE,72.43,0
+CUST-3990,2/1/2025 23:37,48,Female,Germany,Mobile,3587,14,265.43,5,Home Decor,Debit Card,TRUE,TRUE,10.01,1
+CUST-6450,2/3/2025 22:54,19,Female,USA,Mobile,2469,20,347,5,Electronics,Cryptocurrency,FALSE,TRUE,20.91,1
+CUST-1872,2/1/2025 23:39,25,Female,Germany,Mobile,1743,15,267.17,4,Sports,Cryptocurrency,FALSE,TRUE,68.14,0
+CUST-8190,2/3/2025 23:00,37,Other,Canada,Mobile,212,12,307.18,5,Clothing,Cryptocurrency,TRUE,TRUE,84.29,0
+CUST-2844,2/3/2025 23:03,18,Female,Canada,Desktop,1128,20,34.8,4,Books,Net Banking,FALSE,FALSE,52.33,0
+CUST-8157,2/5/2025 22:30,20,Male,UK,Desktop,1207,1,87.76,4,Home Decor,Debit Card,FALSE,FALSE,35.11,0
+CUST-5529,2/1/2025 23:43,53,Male,UK,Mobile,2022,8,402.96,1,Books,PayPal,FALSE,FALSE,54.65,0
+CUST-6411,2/3/2025 23:12,45,Other,UK,Desktop,2410,1,399.57,5,Books,Debit Card,FALSE,FALSE,85.91,0
+CUST-5493,2/4/2025 23:00,24,Other,UK,Mobile,435,18,56.7,2,Sports,Credit Card,TRUE,TRUE,26.81,1
+CUST-1417,2/3/2025 23:18,50,Other,Australia,Mobile,1935,8,12.58,5,Beauty,Debit Card,TRUE,FALSE,67.91,0
+CUST-3450,2/2/2025 23:34,65,Female,Canada,Tablet,471,16,469.46,0,Beauty,Debit Card,TRUE,FALSE,16.44,1
+CUST-7531,2/2/2025 23:36,46,Other,UK,Mobile,3468,2,451.54,2,Electronics,Credit Card,FALSE,TRUE,25.04,1
+CUST-3272,2/4/2025 23:16,48,Other,Germany,Mobile,395,13,290.62,5,Home Decor,Debit Card,FALSE,FALSE,57.42,0
+CUST-7235,2/2/2025 23:40,34,Female,Germany,Tablet,1901,17,226.58,0,Home Decor,PayPal,FALSE,FALSE,57.44,0
+CUST-2006,2/4/2025 23:24,50,Male,Australia,Desktop,744,11,152.35,4,Home Decor,Credit Card,TRUE,FALSE,40.88,0
+CUST-1990,2/1/2025 23:52,60,Male,USA,Tablet,1844,14,360.21,2,Home Decor,Cryptocurrency,TRUE,TRUE,5.73,1
+CUST-5591,2/3/2025 23:39,44,Female,India,Mobile,3441,12,228.29,2,Home Decor,Net Banking,TRUE,TRUE,60.09,0
+CUST-3996,2/5/2025 23:30,60,Male,USA,Desktop,3362,1,159.82,1,Sports,Credit Card,TRUE,FALSE,12.72,1
+CUST-9588,2/4/2025 23:40,40,Female,Germany,Mobile,2294,9,251.39,5,Books,Net Banking,TRUE,FALSE,50.32,0
+CUST-7049,2/3/2025 23:48,63,Female,Canada,Tablet,534,9,324.05,2,Books,Credit Card,FALSE,TRUE,13.21,1
+CUST-9209,2/3/2025 23:51,25,Female,India,Tablet,2824,10,375.67,3,Home Decor,Debit Card,TRUE,FALSE,15.14,1
+CUST-8792,2/3/2025 23:54,39,Other,Canada,Tablet,1449,15,463.83,4,Home Decor,Credit Card,FALSE,FALSE,57.87,0
+CUST-9782,2/3/2025 23:57,55,Female,Germany,Mobile,3137,13,53.68,5,Clothing,Cryptocurrency,FALSE,TRUE,34.6,0
+CUST-9233,2/3/2025 0:00,38,Other,Germany,Mobile,2657,20,208.7,2,Beauty,PayPal,TRUE,TRUE,19.93,1
+CUST-2450,2/6/2025 0:05,53,Female,Australia,Mobile,1756,10,45.42,5,Sports,PayPal,TRUE,FALSE,74.87,0
+CUST-2867,2/4/2025 0:06,47,Female,Australia,Tablet,636,6,111.31,1,Electronics,Net Banking,FALSE,TRUE,62.53,0
+CUST-3005,2/2/2025 0:03,38,Female,USA,Tablet,2382,11,11.84,5,Clothing,Cryptocurrency,FALSE,FALSE,84.21,0
+CUST-6131,2/6/2025 0:20,25,Male,USA,Mobile,3523,4,199.59,1,Sports,Net Banking,TRUE,TRUE,93.01,0
+CUST-9744,2/4/2025 0:15,28,Male,UK,Tablet,1048,3,251.51,3,Beauty,PayPal,FALSE,FALSE,82.76,0
+CUST-6756,2/4/2025 0:18,25,Other,Canada,Mobile,2657,20,77.77,5,Beauty,Net Banking,FALSE,FALSE,50.79,0
+CUST-7982,2/4/2025 0:21,38,Male,Australia,Tablet,3489,20,454.35,1,Beauty,Cryptocurrency,FALSE,FALSE,93.85,0
+CUST-9109,2/4/2025 0:24,65,Female,Germany,Mobile,3082,18,69.53,2,Clothing,Credit Card,TRUE,FALSE,27.05,1
+CUST-7632,2/5/2025 0:36,62,Male,UK,Mobile,1696,15,300.23,4,Clothing,Debit Card,FALSE,FALSE,53.34,0
+CUST-4453,2/2/2025 0:10,61,Other,Australia,Tablet,3479,11,156.1,2,Home Decor,Debit Card,TRUE,TRUE,90.17,0
+CUST-3420,2/5/2025 0:44,46,Other,USA,Mobile,1337,16,276.78,3,Sports,PayPal,FALSE,TRUE,65.91,0
+CUST-7060,2/5/2025 0:48,39,Female,UK,Mobile,1406,12,352.16,0,Clothing,Net Banking,TRUE,FALSE,7.12,1
+CUST-4260,2/6/2025 1:05,39,Male,Australia,Desktop,2366,15,173.15,3,Sports,PayPal,TRUE,FALSE,95.38,0
+CUST-4474,2/4/2025 0:42,59,Male,India,Tablet,2668,13,196.79,2,Home Decor,PayPal,FALSE,FALSE,31.71,0
+CUST-7016,2/2/2025 0:15,52,Other,Germany,Desktop,1200,7,294.05,1,Electronics,Net Banking,TRUE,TRUE,81.26,0
+CUST-2535,2/5/2025 1:04,27,Male,Canada,Mobile,1129,4,36.44,4,Books,Cryptocurrency,TRUE,FALSE,51.12,0
+CUST-8631,2/6/2025 1:25,36,Female,India,Desktop,2494,1,226.9,0,Sports,Debit Card,TRUE,TRUE,7.22,1
+CUST-4670,2/4/2025 0:54,26,Other,Germany,Tablet,685,6,218.31,1,Clothing,Debit Card,FALSE,TRUE,82.91,0
+CUST-6947,2/6/2025 1:35,50,Male,Canada,Mobile,2891,17,280.33,5,Clothing,PayPal,TRUE,FALSE,35.95,0
+CUST-2826,2/2/2025 0:20,49,Male,Canada,Tablet,1737,8,194.23,1,Home Decor,Credit Card,TRUE,FALSE,77.44,0
+CUST-2514,2/5/2025 1:24,37,Other,Germany,Desktop,3025,17,101.04,3,Clothing,Net Banking,TRUE,TRUE,4.88,1
+CUST-8730,2/3/2025 0:44,55,Other,USA,Desktop,3370,3,90.42,2,Clothing,Debit Card,FALSE,FALSE,21.99,1
+CUST-7464,2/3/2025 0:46,37,Male,USA,Desktop,97,9,59.34,1,Home Decor,Net Banking,FALSE,TRUE,56.82,0
+CUST-5541,2/4/2025 1:12,40,Male,USA,Desktop,2646,13,419.24,1,Electronics,Cryptocurrency,TRUE,TRUE,91.66,0
+CUST-4420,2/4/2025 1:15,43,Female,Germany,Tablet,1169,17,240.1,4,Clothing,Credit Card,FALSE,FALSE,73.79,0
+CUST-4590,2/2/2025 0:26,24,Other,USA,Tablet,610,14,177.94,4,Home Decor,Credit Card,FALSE,TRUE,61.68,0
+CUST-1286,2/4/2025 1:21,61,Female,Australia,Mobile,2197,12,177.2,5,Home Decor,Net Banking,TRUE,FALSE,52.24,0
+CUST-6211,2/2/2025 0:28,56,Other,Canada,Tablet,1652,16,411.39,5,Clothing,Cryptocurrency,FALSE,TRUE,54.2,0
+CUST-9214,2/5/2025 1:56,63,Male,India,Mobile,1894,6,267.05,3,Electronics,Net Banking,FALSE,FALSE,95.4,0
+CUST-7802,2/4/2025 1:30,63,Male,USA,Mobile,3098,17,121.62,1,Sports,Cryptocurrency,TRUE,FALSE,43.44,0
+CUST-3664,2/3/2025 1:02,53,Other,USA,Tablet,1892,6,71.29,1,Electronics,Debit Card,TRUE,TRUE,54.76,0
+CUST-5946,2/4/2025 1:36,62,Other,Canada,Mobile,2475,17,144.11,5,Electronics,PayPal,TRUE,FALSE,14.11,1
+CUST-5526,2/2/2025 0:33,40,Other,India,Desktop,1805,16,317.01,3,Beauty,PayPal,TRUE,FALSE,79.92,0
+CUST-2417,2/3/2025 1:08,28,Other,Australia,Mobile,3186,6,219.99,2,Beauty,PayPal,TRUE,FALSE,55.52,0
+CUST-2858,2/5/2025 2:20,40,Other,India,Mobile,930,14,292.19,4,Clothing,Debit Card,TRUE,TRUE,17.06,1
+CUST-3121,2/3/2025 1:12,59,Male,India,Desktop,2715,13,208.85,1,Books,Debit Card,TRUE,FALSE,86.92,0
+CUST-6992,2/2/2025 0:37,58,Other,India,Mobile,182,6,143.13,2,Electronics,PayPal,FALSE,FALSE,62.1,0
+CUST-7760,2/6/2025 3:10,41,Other,Canada,Mobile,3020,15,196.4,2,Home Decor,Debit Card,FALSE,TRUE,98.64,0
+CUST-7971,2/5/2025 2:36,18,Female,UK,Mobile,1685,10,168.34,5,Sports,PayPal,TRUE,TRUE,38.1,0
+CUST-1346,2/6/2025 3:20,35,Male,USA,Tablet,1662,19,278.34,5,Books,Net Banking,TRUE,FALSE,34.05,0
+CUST-4255,2/2/2025 0:41,39,Other,Canada,Mobile,609,18,67.79,5,Home Decor,Debit Card,TRUE,TRUE,59.58,0
+CUST-2171,2/4/2025 2:06,22,Male,USA,Tablet,1298,14,316.26,1,Sports,PayPal,FALSE,TRUE,75.65,0
+CUST-8199,2/5/2025 2:52,65,Female,UK,Desktop,2398,11,407.9,0,Books,Cryptocurrency,TRUE,FALSE,25.65,1
+CUST-3072,2/2/2025 0:44,32,Male,UK,Desktop,544,17,363.15,5,Clothing,Credit Card,FALSE,FALSE,4.27,1
+CUST-1772,2/6/2025 3:45,22,Other,Canada,Tablet,3517,15,1.03,5,Electronics,PayPal,FALSE,FALSE,94.66,0
+CUST-2497,2/5/2025 3:04,46,Male,Canada,Desktop,2380,8,143.63,3,Electronics,PayPal,FALSE,FALSE,66.01,0
+CUST-1949,2/2/2025 0:47,55,Male,UK,Tablet,2898,8,40.49,3,Sports,Credit Card,FALSE,FALSE,96.76,0
+CUST-8556,2/6/2025 4:00,20,Male,UK,Tablet,1154,7,379.27,3,Clothing,Debit Card,FALSE,TRUE,18.87,1
+CUST-4615,2/6/2025 4:05,30,Female,Germany,Mobile,1981,9,169.8,0,Clothing,PayPal,TRUE,TRUE,28.98,1
+CUST-1292,2/5/2025 3:20,18,Male,UK,Desktop,1234,11,16.05,3,Home Decor,Debit Card,TRUE,FALSE,40.6,0
+CUST-4452,2/4/2025 2:33,25,Male,UK,Desktop,2377,10,148.27,3,Electronics,Debit Card,FALSE,FALSE,24.44,1
+CUST-1786,2/2/2025 0:52,44,Male,Canada,Mobile,2377,17,211.85,5,Clothing,Net Banking,TRUE,FALSE,12.31,1
+CUST-8222,2/2/2025 0:53,55,Other,Canada,Desktop,3286,18,171.3,4,Beauty,Net Banking,FALSE,TRUE,87.56,0
+CUST-5791,2/5/2025 3:36,65,Male,UK,Desktop,458,19,223.4,2,Electronics,Debit Card,TRUE,FALSE,37.39,0
+CUST-1040,2/5/2025 3:40,45,Female,India,Tablet,317,5,186.29,5,Sports,Credit Card,TRUE,TRUE,76.69,0
+CUST-9493,2/3/2025 1:52,31,Other,USA,Desktop,3058,14,213.16,5,Books,Debit Card,FALSE,TRUE,25.13,1
+CUST-5437,2/2/2025 0:57,36,Other,India,Tablet,884,1,88.9,1,Home Decor,Debit Card,FALSE,TRUE,73.02,0
+CUST-7543,2/5/2025 3:52,58,Male,India,Desktop,1788,10,78.63,5,Electronics,Credit Card,TRUE,TRUE,18.07,1
+CUST-3783,2/4/2025 2:57,58,Other,Australia,Tablet,858,16,319.8,1,Clothing,Credit Card,FALSE,FALSE,94.62,0
